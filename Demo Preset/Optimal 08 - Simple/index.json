@@ -1,0 +1,414 @@
+{
+  "sections": {
+    "16311176171f711c97": {
+      "type": "info-banner-col2",
+      "blocks": {
+        "16311176171f711c97-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm8-bnr1_a1948219-f369-4b7e-bf4b-0eed84277ed6.jpg",
+            "layout": "left",
+            "title": "Spring Summer New Arrival",
+            "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/women",
+            "text_align": "tl",
+            "text_clr": "#f9f9f9",
+            "text_bg_clr": "#ea895f",
+            "button_bg_clr": "#d1683b",
+            "button_text_clr": "#ffffff"
+          }
+        },
+        "020aa9ac-dcdc-4df0-a363-19588e9741fe": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm8-bnr2.jpg",
+            "layout": "right",
+            "title": "Spring Summer New Arrival",
+            "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/women",
+            "text_align": "tl",
+            "text_clr": "#f9f9f9",
+            "text_bg_clr": "#3c92bd",
+            "button_bg_clr": "#257096",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16311176171f711c97-0",
+        "020aa9ac-dcdc-4df0-a363-19588e9741fe"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#faf3f0",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_carousel": true,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "q_arrow": "#ffffff"
+      }
+    },
+    "1631283914becf7a50": {
+      "type": "product-slider",
+      "settings": {
+        "title": "GOING OUT - GLAM FOR THE GRAM",
+        "subtitle": "",
+        "collection": "collection-2020",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_4",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "6",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1631266925f0f30b2f": {
+      "type": "up-to-4columns",
+      "blocks": {
+        "1631266925f0f30b2f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm8-women.jpg",
+            "title": "WOMEN",
+            "text": "<ul>  \n<li><a href=\"#\">Tank Tops & Camis<\/a><\/li>\n<li><a href=\"#\">Tops' Clearance<\/a><\/li>\n<li><a href=\"#\">Coats & Jackets<\/a><\/li>\n<li><a href=\"#\">Jumpsuits & Rompers<\/a><\/li>\n<li><a href=\"#\">Two pieces Sets<\/a><\/li>\n\n<\/ul>",
+            "button_label": "View All",
+            "button_link": "shopify:\/\/collections\/women"
+          }
+        },
+        "1631266925f0f30b2f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm8-men.jpg",
+            "title": "MEN TRENDY",
+            "text": "<ul>  \n<li><a href=\"#\">Hoodies & Sweatshirts<\/a><\/li>\n<li><a href=\"#\">Cardigans & Jumpers<\/a><\/li>\n<li><a href=\"#\">Denim Jackets<\/a><\/li>\n<li><a href=\"#\">Belts & Suspenders<\/a><\/li>\n<li><a href=\"#\">Tracksuits & Joggers<\/a><\/li>\n\n<\/ul>",
+            "button_label": "View All",
+            "button_link": "shopify:\/\/collections\/women"
+          }
+        },
+        "1631266925f0f30b2f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm8-kids.jpg",
+            "title": "KIDS HOT",
+            "text": "<ul>  \n<li><a href=\"#\">Sweat Shirts & Jackets<\/a><\/li>\n<li><a href=\"#\">Jeans & Shorts<\/a><\/li>\n<li><a href=\"#\">Onesies & Rompers<\/a><\/li>\n<li><a href=\"#\">Inner Wear & Thermals<\/a><\/li>\n<li><a href=\"#\">Bottles & Accessories<\/a><\/li>\n<\/ul>",
+            "button_label": "View All",
+            "button_link": "\/"
+          }
+        },
+        "ed8acbe5-28dd-460e-95d4-db7fb728082f": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm8-brands.jpg",
+            "title": "SHOP BY BRAND",
+            "text": "<ul>\n<li><a href=\"#\">Chained & Able<\/a><\/li>\n<li><a href=\"#\">Calvin Klein<\/a><\/li>\n<li><a href=\"#\">River Island<\/a><\/li>\n<li><a href=\"#\">Jack & Jones<\/a><\/li>\n<li><a href=\"#\">Topman<\/a><\/li>\n<\/ul>",
+            "button_label": "View Collection",
+            "button_link": "shopify:\/\/collections\/women"
+          }
+        }
+      },
+      "block_order": [
+        "1631266925f0f30b2f-0",
+        "1631266925f0f30b2f-1",
+        "1631266925f0f30b2f-2",
+        "ed8acbe5-28dd-460e-95d4-db7fb728082f"
+      ],
+      "settings": {
+        "title": "NEW ARRIVALS FOR SUMMER 2021",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#faf3f0",
+        "align_text": "tl",
+        "hd_fs": 15,
+        "hd_ls": 2,
+        "hd_fs_m": 15,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "set_text_bg": true,
+        "text_bg": "#ffffff",
+        "text_c": "#212121",
+        "btn-style": "btn1",
+        "btn-size": "btn-small"
+      }
+    },
+    "1632459835963293ea": {
+      "type": "collection-list_home",
+      "blocks": {
+        "1632459835963293ea-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "image": "shopify:\/\/shop_images\/demo8-cat1.jpg",
+            "title": "<span class=\"fwsb\">CROP TOPS<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "1632459835963293ea-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accessories",
+            "image": "shopify:\/\/shop_images\/demo8-cat2.jpg",
+            "title": "<span class=\"fwsb\">WOMEN SHOES<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "1632459835963293ea-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "men",
+            "image": "shopify:\/\/shop_images\/demo8-cat3.jpg",
+            "title": "<span class=\"fwsb\">MEN TSHIRT<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1632459835963293ea-0",
+        "1632459835963293ea-1",
+        "1632459835963293ea-2"
+      ],
+      "settings": {
+        "title": "TOP RATED COLLECTION",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "style": "cl_box3",
+        "product_count": true,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#222222",
+        "collection_ttl_bg_hm": "#ffffff",
+        "collection_ttl_bg_hm_responsive": "#ffffff",
+        "tlleft": true,
+        "collection_ttl_opt_hm": 0.7,
+        "enable_zoom": true
+      }
+    },
+    "1631525898876a634c": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "small",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 690,
+        "tb_height": 500,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/dm8-herobg.jpg",
+        "alignment": "center",
+        "parallax_scroll": true,
+        "hero_hd1": "SELL MORE...",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 13,
+        "title": "WINTER COLLECTION 2021",
+        "hd2_fs": 22,
+        "hd2_lh": 1.2,
+        "hd2_ls": 2,
+        "hd2_mb": 20,
+        "hd2_fs_m": 18,
+        "hd2_mb_m": 20,
+        "hero_hd3": "The design of your site plays a crucial role. <br>It can make or break your website leading to sales  <br>either falling flat or converting profitably.",
+        "hero_hd3_hide": true,
+        "hd3_fs": 14,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 25,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 20,
+        "button_label": "Shop Collection",
+        "button_link": "\/",
+        "ol_link": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "con_width": 75,
+        "text-align": true,
+        "text_align": "f-aic-md f-jcs-md",
+        "text_align_m": "f-aic f-jcs",
+        "hero_bg": true,
+        "bg_clr": "#ffffff",
+        "bg_opacity": 1,
+        "txt_clr": "#000000",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000",
+        "b_rad": 0
+      }
+    },
+    "163135019661b7df06": {
+      "type": "store-features",
+      "blocks": {
+        "163135019661b7df06-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwsb\">FREE SHIPPING & RETURN<\/span>",
+            "text": "Free shipping on orders over $99 & free return",
+            "texturl": ""
+          }
+        },
+        "163135019661b7df06-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "<span class=\"fwsb\">CUSTOMER SUPPORT 27\/7<\/span>",
+            "text": "Instant access to perfect fast support 24\/7",
+            "texturl": ""
+          }
+        },
+        "163135019661b7df06-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-shield",
+            "title": "<span class=\"fwsb\">100% SECURE PAYMENT<\/span>",
+            "text": "We ensure give multiple & secure \n payment option !",
+            "texturl": ""
+          }
+        },
+        "7d414264-6827-4436-8eb8-2cf3a40a4925": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-like",
+            "title": "<span class=\"fwsb\">QUALITY GAURANTEE<\/span>",
+            "text": "Quality guarantee is an assurance of satisfaction",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "163135019661b7df06-0",
+        "163135019661b7df06-1",
+        "163135019661b7df06-2",
+        "7d414264-6827-4436-8eb8-2cf3a40a4925"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl2",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h6",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "section_cov": false,
+        "sec_bg_clr": "#faf3f0",
+        "text_clr": "#333333",
+        "icons_clr": "#ea895f",
+        "icons_bg_clr": "#ea895f"
+      }
+    },
+    "16313432912004113b": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "LATEST NEWS",
+        "subtitle": "Knausgaard meditation gochujang 8-bit scenester franzen gastropub distillery biodiesel.",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "blog": "news",
+        "img_ratio": "50",
+        "post_limit": 3,
+        "grid": 2,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_align": "tl",
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_comment": true,
+        "show_mini_des": false,
+        "show_read_more": false,
+        "show_link": false,
+        "show_view_all": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small"
+      }
+    },
+    "1631343859bf57ab78": {
+      "type": "section-space",
+      "disabled": true,
+      "settings": {
+        "top-offeset": "small"
+      }
+    },
+    "16313502047bfad49a": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Sign up now & get 10% off",
+        "subtitle": "Sign up to stay in the loop. Receive updates, access to exclusive deals, and more.",
+        "top-offeset": "default",
+        "section_width": true,
+        "sec_bg_clr": "#ea895f",
+        "style": "style2",
+        "hd_fs": 18,
+        "hd_ls": 2,
+        "hd_fs_m": 15,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "text_clr": "#ffffff",
+        "input_bg": "#ffffff",
+        "input_text": "#000000",
+        "input_btn": "#222222",
+        "input_btn_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "16311176171f711c97",
+    "1631283914becf7a50",
+    "1631266925f0f30b2f",
+    "1632459835963293ea",
+    "1631525898876a634c",
+    "163135019661b7df06",
+    "16313432912004113b",
+    "1631343859bf57ab78",
+    "16313502047bfad49a"
+  ]
+}

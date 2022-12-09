@@ -1,0 +1,619 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slide1.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "AMAZING UI UX",
+            "hd1_cl": "#000000",
+            "hd1_fs": 13,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "I AM OPTIMAL",
+            "hd2_cl": "#000000",
+            "hd2_fs": 59,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 5,
+            "ss_hd3": "Optimal design and 1000+ options. It’s a versatile,<br> all-in-one template for eCommerce stores.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 16,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 30,
+            "hd3_fs_m": 50,
+            "hd3_mb_m": 30,
+            "slide_button_text": "Get 50% OFF",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "SHOP WOMEN",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1300,
+            "text-left": true,
+            "text_align": "f-aic-md f-jcs-md",
+            "text_align_m": "f-jcc f-aie",
+            "cap_ol": true,
+            "cap_ol_mb": true,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        },
+        "bf05f56d-d132-4155-9f9e-0b0f6563258d": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "mp4url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0273\/2336\/7484\/files\/PROMO.mp4?v=16311834971",
+            "ss_ol": "#e60000",
+            "ss_ol_op": 0.1,
+            "ss_hd1": "",
+            "hd1_cl": "#000000",
+            "hd1_fs": 18,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "FASHION CENTRAL",
+            "hd2_cl": "#f9f9f9",
+            "hd2_fs": 80,
+            "hd2_lh": 1.6,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 5,
+            "ss_hd3": "GET THE RIGHT LOOK FOR EVERY OCCASION",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#f9f9f9",
+            "hd3_fs": 25,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP COLLECTION",
+            "link": "shopify:\/\/collections\/collection-2020",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1600,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aie-md",
+            "text_align_m": "f-jcc f-aic f-asc",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "162737939390f2c1c2-2",
+        "bf05f56d-d132-4155-9f9e-0b0f6563258d"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 700,
+        "tb_height": 600,
+        "mb_height": 300,
+        "slideEf": "true",
+        "autoplay": false,
+        "speed": 3,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": false,
+        "animation-style": "st1"
+      }
+    },
+    "16311840859fcfdea4": {
+      "type": "custom-content",
+      "blocks": {
+        "314b2da0-1a11-4de3-8a93-c5bbea3cb3cd": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">ALL YOU WANT TO KNOW ABOUT US<\/span>",
+            "font-size": "h2",
+            "text": "<p>Let’s we help you with our talent and experience. We can combine beautiful and modern designs <br\/>with clean, functional and high-performance code to produce stunning online store. And best of all, <br\/>we are super passionate about our work.   <\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-asc",
+            "align_text": "tc",
+            "width": "100%"
+          }
+        }
+      },
+      "block_order": [
+        "314b2da0-1a11-4de3-8a93-c5bbea3cb3cd"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1"
+      }
+    },
+    "1631184326d70e6baf": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "cef6c4ec-2ecc-4be9-ba9d-41cb0daae696": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dress.jpg",
+            "collection": "women",
+            "title": "<span class=\"fwsb\">MINI DRESSES<\/span>",
+            "ttl_txt": "#000000",
+            "ttl_bg": "#ffffff",
+            "font-size": "h6",
+            "url": "shopify:\/\/collections\/fashion",
+            "width": "50%"
+          }
+        },
+        "af40a8af-3cc1-4832-a02f-29e29fe3c2cb": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PANT.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">PENTS<\/span>",
+            "ttl_txt": "#000000",
+            "ttl_bg": "#ffffff",
+            "font-size": "h6",
+            "url": "shopify:\/\/collections\/top-collection",
+            "width": "25%"
+          }
+        },
+        "ad640f30-46e6-414a-b7e6-78118cc19bd8": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hoodies_f5665a98-381e-4464-bb4c-eec9ca709fd1.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">HOODIES<\/span>",
+            "ttl_txt": "#000000",
+            "ttl_bg": "#ffffff",
+            "font-size": "h6",
+            "url": "shopify:\/\/collections\/collection-2020",
+            "width": "25%"
+          }
+        },
+        "9faeda15-8d7c-4cd7-825d-a7837a4f42a8": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/acc.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">ACCESSRIES<\/span>",
+            "ttl_txt": "#000000",
+            "ttl_bg": "#ffffff",
+            "font-size": "h6",
+            "url": "shopify:\/\/collections\/accessories",
+            "width": "25%"
+          }
+        },
+        "682d3843-568b-4ca3-aac8-1fd2ffdaed21": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shoes_879d2f92-8528-4c80-9a53-4dd5157f8443.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">SHOES<\/span>",
+            "ttl_txt": "#000000",
+            "ttl_bg": "#ffffff",
+            "font-size": "h6",
+            "url": "shopify:\/\/collections\/shoes",
+            "width": "25%"
+          }
+        },
+        "e336a237-f8e6-431c-ad5f-167b85794ea4": {
+          "type": "collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/men_e872212a-a6a9-4ce7-90d0-3317bfda0a1f.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">MEN<\/span>",
+            "ttl_txt": "#000000",
+            "ttl_bg": "#ffffff",
+            "font-size": "h6",
+            "url": "shopify:\/\/collections\/men",
+            "width": "25%"
+          }
+        }
+      },
+      "block_order": [
+        "cef6c4ec-2ecc-4be9-ba9d-41cb0daae696",
+        "af40a8af-3cc1-4832-a02f-29e29fe3c2cb",
+        "ad640f30-46e6-414a-b7e6-78118cc19bd8",
+        "9faeda15-8d7c-4cd7-825d-a7837a4f42a8",
+        "682d3843-568b-4ca3-aac8-1fd2ffdaed21",
+        "e336a237-f8e6-431c-ad5f-167b85794ea4"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1",
+        "grid-spacing-col": 4,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 15
+      }
+    },
+    "1631185648a457e59a": {
+      "type": "custom-content",
+      "blocks": {
+        "05eefe4d-2e24-4a06-ba92-fdb2e4fc1e34": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">BEST SELLER<\/span>",
+            "font-size": "h3",
+            "text": "<p>Featuring a unique combination of modern art and minimalist perspective, Helix is the new shape for Spring\/Summer ‘19.<br\/><br\/><\/p>",
+            "btntxt": "VIEW COLLECTION",
+            "btnurl": "\/",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "width": "25%"
+          }
+        },
+        "d1b9c90e-8a98-4d8b-a351-8f875d3e3539": {
+          "type": "product",
+          "settings": {
+            "product": "floral-cuff-blouse",
+            "alignment": "f-ass",
+            "width": "25%"
+          }
+        },
+        "bd1171b2-0edb-42c4-bc79-4dc84da9ffca": {
+          "type": "product",
+          "settings": {
+            "product": "maxi-dress",
+            "alignment": "f-asc",
+            "width": "25%"
+          }
+        },
+        "021d1b67-c527-43fc-8284-ef303239aaf5": {
+          "type": "product",
+          "settings": {
+            "product": "floral-crop-top",
+            "alignment": "f-asc",
+            "width": "25%"
+          }
+        }
+      },
+      "block_order": [
+        "05eefe4d-2e24-4a06-ba92-fdb2e4fc1e34",
+        "d1b9c90e-8a98-4d8b-a351-8f875d3e3539",
+        "bd1171b2-0edb-42c4-bc79-4dc84da9ffca",
+        "021d1b67-c527-43fc-8284-ef303239aaf5"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": true,
+        "sec_bg_clr": "#f1f1f1",
+        "prbox_style": "grid_2"
+      }
+    },
+    "1631186308d572dbcd": {
+      "type": "custom-content",
+      "blocks": {
+        "6e01e158-f1f6-480d-9afb-46a95971cd42": {
+          "type": "product",
+          "settings": {
+            "product": "high-waisted-pant",
+            "alignment": "f-asc",
+            "width": "25%"
+          }
+        },
+        "ec36e03e-ffad-4a26-97b0-2c7089b7916f": {
+          "type": "product",
+          "settings": {
+            "product": "long-sleev-t-shirts",
+            "alignment": "f-asc",
+            "width": "25%"
+          }
+        },
+        "e0d04bb0-004d-412b-a995-b138917197b2": {
+          "type": "product",
+          "settings": {
+            "product": "mini-cross-bag",
+            "alignment": "f-asc",
+            "width": "25%"
+          }
+        },
+        "6a5dd4f4-8089-4994-aec2-8dee5c3a26b6": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">RESTOCKED<\/span>",
+            "font-size": "h3",
+            "text": "<p>Naomi is made of twisted polygons to create functional interior space alongside the sculpted structure.<\/p>",
+            "btntxt": "VIEW ALL ITEMS",
+            "btnurl": "\/",
+            "btn-style": "bdr-btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "width": "25%"
+          }
+        }
+      },
+      "block_order": [
+        "6e01e158-f1f6-480d-9afb-46a95971cd42",
+        "ec36e03e-ffad-4a26-97b0-2c7089b7916f",
+        "e0d04bb0-004d-412b-a995-b138917197b2",
+        "6a5dd4f4-8089-4994-aec2-8dee5c3a26b6"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1"
+      }
+    },
+    "1631186635dd0761d0": {
+      "type": "quotes",
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nAMAYRA",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2",
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "section_width": true,
+        "quote_style": "quote3",
+        "testimonials_bg": "#000000",
+        "title": "HAPPY CUSTOMERS",
+        "section_ttl": "#ffffff",
+        "testimonials_text": "#dcdcdc",
+        "box_bg": "#ffffff",
+        "rating_clr": "#ffcf36",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#5e5e5e",
+        "q_dot_a": "#ffffff"
+      }
+    },
+    "1632124397ad459107": {
+      "type": "products-columns",
+      "blocks": {
+        "1632124397ad459107-0": {
+          "type": "collection_column",
+          "settings": {
+            "title": "New in 2021",
+            "collection": "collection-2020",
+            "width": "50%",
+            "grid": 2,
+            "tablet-grid": 1,
+            "mobile-grid": 1,
+            "rows": "6"
+          }
+        },
+        "1632124397ad459107-1": {
+          "type": "collection_column",
+          "settings": {
+            "title": "Accessories",
+            "collection": "accessories",
+            "width": "25%",
+            "grid": 1,
+            "tablet-grid": 1,
+            "mobile-grid": 1,
+            "rows": "3"
+          }
+        },
+        "1632124397ad459107-2": {
+          "type": "collection_column",
+          "settings": {
+            "title": "Best Selling for Men",
+            "collection": "men-shirt",
+            "width": "25%",
+            "grid": 1,
+            "tablet-grid": 1,
+            "mobile-grid": 1,
+            "rows": "3"
+          }
+        }
+      },
+      "block_order": [
+        "1632124397ad459107-0",
+        "1632124397ad459107-1",
+        "1632124397ad459107-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "ttl-align": "tl",
+        "prbdr": "#eeeeee"
+      }
+    },
+    "16311872651cefa067": {
+      "type": "instagram",
+      "settings": {
+        "instagram_title": "INSTAGRAM",
+        "instagram_des": "Follow us @optimalshopify",
+        "top-offeset": "default",
+        "section_width": false,
+        "act": "IGQVJWb0xaMWVwdkJXTkRYX251SmlqVTJZATTFGNGMzSU1tcENDaERjTUJjY0F1TklqSHQxUTBmeEJoVE1QSkoxNi1VaFp0VWN1bzFCLVpYWVpiQUljdFk5V3FvNTZApVWE4NWNMNjRNOFVoU3lwbC01OQZDZD",
+        "instastyle": "list",
+        "grid_space": false,
+        "limit": 12,
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "instagram_button_text": "View Gallery",
+        "instagram_button_link": ""
+      }
+    },
+    "1631187398a2d37915": {
+      "type": "store-features",
+      "blocks": {
+        "1580722078226-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-chat",
+            "title": "<span class=\"fwsb\">SUPPORT 24\/7<\/span>",
+            "text": "<p>We support online 24\/7 on day<\/p>",
+            "texturl": ""
+          }
+        },
+        "1580722078226-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-share",
+            "title": "<span class=\"fwsb\">30 DAYS RETURN<\/span>",
+            "text": "<p>Return it within 24 days of purchase<\/p>",
+            "texturl": ""
+          }
+        },
+        "1580722078226-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-ship-fast",
+            "title": "<span class=\"fwsb\">FREE SHIPPING<\/span>",
+            "text": "<p>Free shipping on all US orders<\/p>",
+            "texturl": ""
+          }
+        },
+        "1580722200607": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-badge-dollar",
+            "title": "<span class=\"fwsb\">MONEY GUARANTEE<\/span>",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1580722078226-0",
+        "1580722078226-1",
+        "1580722078226-2",
+        "1580722200607"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl1",
+        "icon-type": "icon",
+        "iconsize": 42,
+        "ttlsize": "h4",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "section_cov": true,
+        "sec_bg_clr": "#ffffff",
+        "text_clr": "#111111",
+        "icons_clr": "#7e7979",
+        "icons_bg_clr": "rgba(0,0,0,0)"
+      }
+    },
+    "1631189470ec1974ad": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "default"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16311840859fcfdea4",
+    "1631184326d70e6baf",
+    "1631185648a457e59a",
+    "1631186308d572dbcd",
+    "1631186635dd0761d0",
+    "1632124397ad459107",
+    "16311872651cefa067",
+    "1631187398a2d37915",
+    "1631189470ec1974ad"
+  ]
+}

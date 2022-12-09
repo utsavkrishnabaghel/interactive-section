@@ -1,0 +1,694 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm11-bnr1.jpg",
+            "mb_image": "shopify:\/\/shop_images\/dm11-bnr1-m.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 21,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "We Have Everything<br> Your Pet Needs",
+            "hd2_cl": "#8c4655",
+            "hd2_fs": 45,
+            "hd2_lh": 1.1,
+            "hd2_ls": 3,
+            "hd2_mb": 20,
+            "hd2_fs_m": 30,
+            "hd2_mb_m": 8,
+            "ss_hd3": "We make buying pet supplies online as easy <br>and convenient as possible.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#333333",
+            "hd3_fs": 17,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 40,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP DOG",
+            "link": "shopify:\/\/collections\/pet",
+            "display_btn": true,
+            "slide_button_text_2": "SHOP CAT",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-aic-md f-jcs-md",
+            "text_align_m": "f-aie f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        },
+        "84ef5222-320d-461c-93cb-13b632a0b6b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm11-bnr2.jpg",
+            "mb_image": "shopify:\/\/shop_images\/dm11-bnr2-m.jpg",
+            "alignment": "center",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "Every pet has unique tastes",
+            "hd1_cl": "#000000",
+            "hd1_fs": 20,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "Feed them well <br>and love them always.",
+            "hd2_cl": "#4e95ba",
+            "hd2_fs": 55,
+            "hd2_lh": 1,
+            "hd2_ls": 2,
+            "hd2_mb": 35,
+            "hd2_fs_m": 30,
+            "hd2_mb_m": 5,
+            "ss_hd3": "",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#222222",
+            "hd3_fs": 17,
+            "hd3_lh": 1.2,
+            "hd3_ls": 2,
+            "hd3_mb": 15,
+            "hd3_fs_m": 13,
+            "hd3_mb_m": 5,
+            "slide_button_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/pet",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-jce-md f-aic-md",
+            "text_align_m": "f-jce f-aie",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        }
+      },
+      "block_order": [
+        "162737939390f2c1c2-2",
+        "84ef5222-320d-461c-93cb-13b632a0b6b9"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 800,
+        "tb_height": 450,
+        "mb_height": 380,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": true,
+        "dots_m": true,
+        "ss_dot": "#222222",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st2"
+      }
+    },
+    "16292647947ef392d6": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292647947ef392d6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog_77d9eff3-d0a3-47b2-b92b-c546fae00242.jpg",
+            "collection": "pet",
+            "title": "<span class=\"fwsb\">Dog<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#000000",
+            "box_bg": "#ffffff",
+            "bdr_rad": 4,
+            "box-width": 40,
+            "box-pad": "small"
+          }
+        },
+        "16292647947ef392d6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BIRDS.jpg",
+            "collection": "pet",
+            "title": "<span class=\"fwsb\">Birds<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#000000",
+            "box_bg": "#ffffff",
+            "bdr_rad": 4,
+            "box-width": 40,
+            "box-pad": "small"
+          }
+        },
+        "80b41926-11f4-43d4-b6d4-3d787d07794e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mouse.jpg",
+            "collection": "pet",
+            "title": "<span class=\"fwsb\">Small Pet<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#000000",
+            "box_bg": "#ffffff",
+            "bdr_rad": 4,
+            "box-width": 40,
+            "box-pad": "small"
+          }
+        },
+        "539c5021-6d9f-4471-a2e6-fc7f0a83c588": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/catnew.jpg",
+            "collection": "pet",
+            "title": "<span class=\"fwsb\">Cat<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#000000",
+            "box_bg": "#ffffff",
+            "bdr_rad": 4,
+            "box-width": 40,
+            "box-pad": "small"
+          }
+        },
+        "a1a4327a-9223-46e2-ba68-190147a27b11": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Reptile.jpg",
+            "collection": "pet",
+            "title": "<span class=\"fwsb\">Reptile<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#000000",
+            "box_bg": "#ffffff",
+            "bdr_rad": 4,
+            "box-width": 40,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "16292647947ef392d6-0",
+        "16292647947ef392d6-1",
+        "80b41926-11f4-43d4-b6d4-3d787d07794e",
+        "539c5021-6d9f-4471-a2e6-fc7f0a83c588",
+        "a1a4327a-9223-46e2-ba68-190147a27b11"
+      ],
+      "settings": {
+        "title": "Shop by Category",
+        "subtitle": "",
+        "top-offeset": "none",
+        "hide_mobile": true,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 3,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 8
+      }
+    },
+    "1634462426d4824ea5": {
+      "type": "products-rows",
+      "settings": {
+        "title": "New Arrivals",
+        "subtitle": "",
+        "collection": "pet",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "Shop All",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "8"
+      }
+    },
+    "1634462419dea4841c": {
+      "type": "info-banner-col2",
+      "blocks": {
+        "1634462419dea4841c-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm11-dog-img.jpg",
+            "layout": "left",
+            "title": "About Us",
+            "text": "<p>Most online pet stores are big-buck re-sellers, who buy warehouses full of products from someone else and re-sell them to you for a hefty profit.<\/p><p><strong>We Make Our Own Stuff<\/strong><br\/>We’ve been making our own products for years. Why does that matter? We stand behind our products! As a result, our customers have given us over 50,000 5-star reviews.<br\/><\/p><p> <strong>A Family of Pet Owners<\/strong><br\/>We're pet owners first and business owners second. We know that a pet is a family member, and that means they should be cared for, trained, and pampered with the best pet supplies out there.<br\/><br\/><strong>We Want to Help You, Not 'Sell You'<br\/><\/strong>Think of us as your personal shoppers. We won't be content till you are 100% satisfied with all your purchases. <\/p><p><strong>Free Shipping & No Minimum*<\/strong><br\/>We don't think you should be paying extra just to get the darn things shipped to you. If that means we foot the bill, so be it!<br\/><\/p>",
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/about-us-2",
+            "text_align": "tl",
+            "text_clr": "#000000",
+            "text_bg_clr": "#f9f5f2",
+            "button_bg_clr": "#000000",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1634462419dea4841c-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_carousel": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee"
+      }
+    },
+    "16343892917261fada": {
+      "type": "collection-list_menu",
+      "blocks": {
+        "16343892917261fada-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pet",
+            "image": "shopify:\/\/shop_images\/fav1.jpg",
+            "title": "<span class=\"fwm\">Dog Food<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16343892917261fada-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pet",
+            "image": "shopify:\/\/shop_images\/fav2.jpg",
+            "title": "<span class=\"fwm\">Dog Toys<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16343892917261fada-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pet",
+            "image": "shopify:\/\/shop_images\/fav3.jpg",
+            "title": "<span class=\"fwm\">Dog Treats<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16343892917261fada-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pet",
+            "image": "shopify:\/\/shop_images\/fav4.jpg",
+            "title": "<span class=\"fwm\">Cate Litter<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "cdf25e1b-da03-4cea-ad66-7e002578914d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pet",
+            "image": "shopify:\/\/shop_images\/fav5.jpg",
+            "title": "<span class=\"fwm\">Cat Food<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "b21f110d-0275-4e95-b421-9f0e59caf265": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pet",
+            "image": "shopify:\/\/shop_images\/av6.jpg",
+            "title": "<span class=\"fwm\">Dog Beds<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "9c5a0995-7c34-4c1d-9166-adaf3846fcc3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/fav7.jpg",
+            "title": "<span class=\"fwm\">Dog Supplements<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "7020d308-8915-4d49-8134-324de7c32ade": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/fav6.jpg",
+            "title": "<span class=\"fwm\">Cat Toys<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "32659793-8673-48e5-aa43-9b0addb99f70": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/av8.jpg",
+            "title": "<span class=\"fwm\">dog Apparel<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "c96a6ded-992d-4d3f-9c8b-fec982541132": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/fav10.jpg",
+            "title": "<span class=\"fwm\">Grooming<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16343892917261fada-0",
+        "16343892917261fada-1",
+        "16343892917261fada-2",
+        "16343892917261fada-3",
+        "cdf25e1b-da03-4cea-ad66-7e002578914d",
+        "b21f110d-0275-4e95-b421-9f0e59caf265",
+        "9c5a0995-7c34-4c1d-9166-adaf3846fcc3",
+        "7020d308-8915-4d49-8134-324de7c32ade",
+        "32659793-8673-48e5-aa43-9b0addb99f70",
+        "c96a6ded-992d-4d3f-9c8b-fec982541132"
+      ],
+      "settings": {
+        "title": "Customers Favorites",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": false,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 15,
+        "product_count": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 3,
+        "collection_ttl_hm": "#000000",
+        "enable_zoom": true
+      }
+    },
+    "16292932355a4fb114": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Fresh from our blogs",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "blog": "dogs",
+        "img_ratio": "60",
+        "post_limit": 3,
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 1,
+        "blog_align": "tc",
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_comment": true,
+        "show_mini_des": false,
+        "show_read_more": true,
+        "show_link": true,
+        "show_view_all": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small"
+      }
+    },
+    "162937524545212036": {
+      "type": "logo-bar",
+      "blocks": {
+        "162937524545212036-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/belle.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/avone_68d877f4-0e70-4552-bb59-7e362e7296f7.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2bb62bf9-5433-4906-960a-23ed29602a46.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": ""
+          }
+        },
+        "becfd531-693f-4aa6-aa17-04d646f656e2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/teckbox.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162937524545212036-5",
+        "162937524545212036-4",
+        "162937524545212036-0",
+        "162937524545212036-1",
+        "162937524545212036-2",
+        "becfd531-693f-4aa6-aa17-04d646f656e2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "All Top Brands in Stock!",
+        "subtitle": "",
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#eeeeee"
+      }
+    },
+    "1634470464310ca234": {
+      "type": "section-space",
+      "disabled": true,
+      "settings": {
+        "top-offeset": "default"
+      }
+    },
+    "1634473105d84e294c": {
+      "type": "store-features",
+      "blocks": {
+        "1634473105d84e294c-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-ship-fast",
+            "title": "<span class=\"fwsb\">Free Shipping<\/span>",
+            "text": "On order over $100",
+            "texturl": ""
+          }
+        },
+        "1634473105d84e294c-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-payment-security",
+            "title": "<span class=\"fwsb\">Secure Payments<\/span>",
+            "text": "100% secure payments",
+            "texturl": ""
+          }
+        },
+        "1634473105d84e294c-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-recycle-l",
+            "title": "<span class=\"fwsb\">Free Returns<\/span>",
+            "text": "Within 7 days ( T&C apply)",
+            "texturl": ""
+          }
+        },
+        "1634473105d84e294c-3": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-chat",
+            "title": "<span class=\"fwsb\">We Support<\/span>",
+            "text": "7 days from 9am to 9pm",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1634473105d84e294c-0",
+        "1634473105d84e294c-1",
+        "1634473105d84e294c-2",
+        "1634473105d84e294c-3"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl2",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h5",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#111111",
+        "icons_clr": "#f77575",
+        "icons_bg_clr": "#111111"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16292647947ef392d6",
+    "1634462426d4824ea5",
+    "1634462419dea4841c",
+    "16343892917261fada",
+    "16292932355a4fb114",
+    "162937524545212036",
+    "1634470464310ca234",
+    "1634473105d84e294c"
+  ]
+}

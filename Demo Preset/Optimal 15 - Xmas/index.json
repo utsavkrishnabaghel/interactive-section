@@ -1,0 +1,690 @@
+{
+  "sections": {
+    "1635758732305d02f4": {
+      "type": "slideshow",
+      "blocks": {
+        "1635758732305d02f4-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm15-bnr2.jpg",
+            "alignment": "bottom",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "<br><br>SANTA SHOPS HERE",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 14,
+            "hd1_ls": 9,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "Bringing Joy to Your Home",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 50,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 16,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 15,
+            "ss_hd3": "Create long lasting Christmas memories for your friends <br>and family every holiday season.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 17,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 32,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/christmas",
+            "display_btn": false,
+            "slide_button_text_2": "SHOP NOW",
+            "link2": "",
+            "btn-style": "bdr-btn2",
+            "btn-size": "btn-med",
+            "con_width": 1200,
+            "text-left": false,
+            "text_align": "f-jcc-md f-ais-md",
+            "text_align_m": "f-jcc f-ais",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.9
+          }
+        }
+      },
+      "block_order": [
+        "1635758732305d02f4-0"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 700,
+        "tb_height": 450,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st1"
+      }
+    },
+    "163576309596c70944": {
+      "type": "richtext",
+      "settings": {
+        "fullwidth": false,
+        "top-offeset": "default",
+        "align_left": false,
+        "title": "<b>Experience Like Never Before<\/b><br>Shop for Christmas and Holidays",
+        "font-size": "h1",
+        "richtxt": "<p>Bring comfort and joy to your home with all the merry touches that make the season magical, from shimmering and starry lights to marvelous Christmas trees, sparkling ornaments, welcoming wreaths and more.<\/p>",
+        "btntxt": "",
+        "btnurl": "",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "max-width": 55,
+        "sec_bg_clr": "#ffffff",
+        "text_clr": "#111111"
+      }
+    },
+    "16357631051e121cbb": {
+      "type": "collection-list_home",
+      "blocks": {
+        "16357631051e121cbb-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "image": "shopify:\/\/shop_images\/apparel.jpg",
+            "title": "Apparel",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16357631051e121cbb-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "image": "shopify:\/\/shop_images\/ights.jpg",
+            "title": "Lights",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16357631051e121cbb-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "christmas",
+            "image": "shopify:\/\/shop_images\/accesories.jpg",
+            "title": "Trees & Accessories",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16357631051e121cbb-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/indoor.jpg",
+            "title": "Indoor Décor",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "57b9dc03-a425-4c52-ac65-eb113ef12f31": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/outdoor.jpg",
+            "title": "Outdoor Décor",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "46c5131a-b126-470e-b44a-4040571fca33": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/wreath.jpg",
+            "title": "Wreaths & Garlands",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "3e029af8-433b-4019-b0ee-3ca08f7b71b6": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/enter.jpg",
+            "title": "Entertaining",
+            "collection_btn": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16357631051e121cbb-0",
+        "16357631051e121cbb-1",
+        "16357631051e121cbb-2",
+        "16357631051e121cbb-3",
+        "57b9dc03-a425-4c52-ac65-eb113ef12f31",
+        "46c5131a-b126-470e-b44a-4040571fca33",
+        "3e029af8-433b-4019-b0ee-3ca08f7b71b6"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "style": "cl_box3",
+        "product_count": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "grid": 7,
+        "tablet-grid": 4,
+        "mobile-grid": 3,
+        "collection_ttl_hm": "#090a0a",
+        "collection_ttl_bg_hm": "#ffffff",
+        "collection_ttl_bg_hm_responsive": "#ffffff",
+        "tlleft": false,
+        "collection_ttl_opt_hm": 0.7,
+        "enable_zoom": true
+      }
+    },
+    "1635757477f2cf76a2": {
+      "type": "info-banner-col4",
+      "blocks": {
+        "1635757477f2cf76a2-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cbanner1.jpg",
+            "layout": "left",
+            "title": "Alberta's Source for Holiday Spirit",
+            "text": "<p>Your Holiday Headquarters for toys and games, candy, treats, crafts, Christmas party decorations and supplies.<\/p>",
+            "button_label": "Shop Now",
+            "button_link": "\/",
+            "text_align": "tl",
+            "text_clr": "#000000",
+            "text_bg_clr": "#ffefef",
+            "button_bg_clr": "#c92532",
+            "button_bdr_clr": "#f5f5f5",
+            "button_text_clr": "#ffffff",
+            "image2": "shopify:\/\/shop_images\/cbanner2.jpg",
+            "layout2": "left",
+            "title2": "Discover the Wonder",
+            "text2": "<p>Christmastime is a wonderful season. At Optimal Christmas, we want you to experience that wonder, not only within our store but in your own home<\/p>",
+            "button_label2": "Shop Now",
+            "button_link2": "shopify:\/\/collections\/christmas",
+            "text_align2": "tl",
+            "text_clr2": "#000000",
+            "text_bg_clr2": "#effafa",
+            "button_bg_clr2": "#c92532",
+            "button_bdr_clr2": "#f5f5f5",
+            "button_text_clr2": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1635757477f2cf76a2-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "btn-size": "btn-med"
+      }
+    },
+    "1635779353a6412494": {
+      "type": "products-rows",
+      "settings": {
+        "title": "New Arrivals",
+        "subtitle": "Celebrate the season with festive\n <br>indoor and outdoor Christmas decorating ideas",
+        "collection": "christmas",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "Shop All",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": false,
+        "color_type": "vrimage",
+        "vr_bg_position": "50% 0",
+        "color_size": "medium",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "8"
+      }
+    },
+    "16292647947ef392d6": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292647947ef392d6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/decor.jpg",
+            "collection": "",
+            "title": "<b>ORNAMENTS<\/b>",
+            "detail": "Save up to 50% OFF",
+            "detail_hide": true,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 20,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#d21212",
+            "box_bg": "#ffffff",
+            "bdr_rad": 5,
+            "box-width": 70,
+            "box-pad": "small"
+          }
+        },
+        "16292647947ef392d6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pet.jpg",
+            "collection": "",
+            "title": "<b>  COSTUMES<\/b>",
+            "detail": "For your pets",
+            "detail_hide": true,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 20,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#ffffff",
+            "box_bg": "#c92532",
+            "bdr_rad": 5,
+            "box-width": 70,
+            "box-pad": "small"
+          }
+        },
+        "80b41926-11f4-43d4-b6d4-3d787d07794e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_5220b330-6706-436b-bda7-ad47c40718a2.jpg",
+            "collection": "",
+            "title": "<b>LIGHTS<\/b>",
+            "detail": "Make it shine",
+            "detail_hide": true,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 20,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#d21212",
+            "box_bg": "#ffffff",
+            "bdr_rad": 5,
+            "box-width": 70,
+            "box-pad": "small"
+          }
+        },
+        "407af12c-14a5-4478-bb06-757ef9e9d76c": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gift_8cc4be04-cf64-44a4-81c4-50b43f00ffa6.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">  GIFTS<\/span>",
+            "detail": "Up to 60% OFF",
+            "detail_hide": true,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 20,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#f5f5f5",
+            "box_bg": "#c92532",
+            "bdr_rad": 5,
+            "box-width": 70,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "16292647947ef392d6-0",
+        "16292647947ef392d6-1",
+        "80b41926-11f4-43d4-b6d4-3d787d07794e",
+        "407af12c-14a5-4478-bb06-757ef9e9d76c"
+      ],
+      "settings": {
+        "title": "<br>\nShop Best Seller",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 5,
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "162937524545212036": {
+      "type": "logo-bar",
+      "blocks": {
+        "162937524545212036-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/belle.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/avone_68d877f4-0e70-4552-bb59-7e362e7296f7.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2bb62bf9-5433-4906-960a-23ed29602a46.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm2-logo.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162937524545212036-5",
+        "162937524545212036-4",
+        "162937524545212036-0",
+        "162937524545212036-1",
+        "162937524545212036-2",
+        "162937524545212036-3"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "Brands We Carry",
+        "subtitle": "",
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#ffffff"
+      }
+    },
+    "1635845393568b48d9": {
+      "type": "image-gallery",
+      "blocks": {
+        "1635845393568b48d9-0": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cm1.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "1635845393568b48d9-1": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cm2.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "184bf696-b414-470c-b878-50f5a3007f84": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "7160c69b-551d-4881-a54d-7e712e1c5cfe": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cm3.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "6a03a194-56a9-4b1b-85d4-2afd07732cb3": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bed.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "2445685a-8ef3-4d7c-a011-e4d96909e375": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cm5.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "41ac7d21-6a09-4ece-9efb-7c1e9cf63164": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "5833ddb6-55a5-4c36-9e9c-d5eb54870518": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "0ba285af-f376-4f79-bf59-b288f6e1a65c": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cmpet.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "c95a413f-8b51-4bdc-9109-add9f03906ee": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/snowmen.jpg",
+            "url": "",
+            "title": "<b>STREET STYLE<\/b>",
+            "title2": "GREAT SUMMER CLEARANCE SALES",
+            "width": "25%"
+          }
+        },
+        "a6f6ee06-4bcc-471c-b60d-cab8f11f3e38": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cmgift.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "c84ece2f-a3f2-4136-bfba-8f1418b62a79": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/candy.jpg",
+            "url": "",
+            "title": "<b>STREET STYLE<\/b>",
+            "title2": "GREAT SUMMER CLEARANCE SALES",
+            "width": "25%"
+          }
+        }
+      },
+      "block_order": [
+        "1635845393568b48d9-0",
+        "1635845393568b48d9-1",
+        "184bf696-b414-470c-b878-50f5a3007f84",
+        "7160c69b-551d-4881-a54d-7e712e1c5cfe",
+        "6a03a194-56a9-4b1b-85d4-2afd07732cb3",
+        "2445685a-8ef3-4d7c-a011-e4d96909e375",
+        "41ac7d21-6a09-4ece-9efb-7c1e9cf63164",
+        "5833ddb6-55a5-4c36-9e9c-d5eb54870518",
+        "0ba285af-f376-4f79-bf59-b288f6e1a65c",
+        "c95a413f-8b51-4bdc-9109-add9f03906ee",
+        "a6f6ee06-4bcc-471c-b60d-cab8f11f3e38",
+        "c84ece2f-a3f2-4136-bfba-8f1418b62a79"
+      ],
+      "settings": {
+        "title": "Our Christmas Creations",
+        "subtitle": "Discover the Wonder",
+        "top-offeset": "default",
+        "hide_mobile": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "fullwidth": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "grid-spacing": 5,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "cap_bg": "#ffffff",
+        "cap_text": "#111111",
+        "zoom_bg": "#ffffff",
+        "zoom_text": "#111111",
+        "round_crn": 5
+      }
+    },
+    "1633173901323bc6c2": {
+      "type": "newsletter",
+      "settings": {
+        "title": "SING UP FOR OUR NEWSLETTER",
+        "subtitle": "For the Latest Collections\nYou'll be the first to know",
+        "top-offeset": "default",
+        "section_width": true,
+        "sec_bg_clr": "#fafafa",
+        "image": "shopify:\/\/shop_images\/newsbg.jpg",
+        "style": "style1",
+        "hd_fs": 20,
+        "hd_ls": 9,
+        "hd_fs_m": 18,
+        "txt_fs": 15,
+        "txt_fs_m": 12,
+        "text_clr": "#ffffff",
+        "input_bg": "#ffffff",
+        "input_text": "#000000",
+        "input_btn": "#000000",
+        "input_btn_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "1635758732305d02f4",
+    "163576309596c70944",
+    "16357631051e121cbb",
+    "1635757477f2cf76a2",
+    "1635779353a6412494",
+    "16292647947ef392d6",
+    "162937524545212036",
+    "1635845393568b48d9",
+    "1633173901323bc6c2"
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/demo20-slide1.jpg",
+            "alignment": "top",
+            "ss_ol": "#000000",
+            "ss_ol_op": 0.3,
+            "ss_hd1": "FRESH ADDITION",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 15,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "We fulfill your dream home",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 55,
+            "hd2_lh": 1.1,
+            "hd2_ls": 1,
+            "hd2_mb": 15,
+            "hd2_fs_m": 36,
+            "hd2_mb_m": 5,
+            "ss_hd3": "Furniture that works for you with best price",
+            "ss_hd3_hide": false,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 17,
+            "hd3_lh": 1.3,
+            "hd3_ls": 2,
+            "hd3_mb": 35,
+            "hd3_fs_m": 13,
+            "hd3_mb_m": 15,
+            "slide_button_text": "BUY FURNITURE",
+            "link": "#",
+            "display_btn": true,
+            "slide_button_text_2": "RENT FURNITURE",
+            "link2": "\/",
+            "btn-style": "bdr-btn2",
+            "btn-size": "btn-large",
+            "con_width": 1400,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aic-md",
+            "text_align_m": "f-jcc f-aic",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#000000",
+            "cap_ol_op": 0.9
+          }
+        }
+      },
+      "block_order": [
+        "162737939390f2c1c2-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 700,
+        "tb_height": 580,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st3"
+      }
+    },
+    "1643964693d3b39295": {
+      "type": "store-features",
+      "blocks": {
+        "1643964693dc7dcc03-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/quality.png",
+            "icons": "at-truck-l",
+            "title": "<b>Assured Quality<\/b>",
+            "text": "We provide quality products and sale after service",
+            "texturl": ""
+          }
+        },
+        "1643964693dc7dcc03-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/maintance.png",
+            "icons": "at-truck-l",
+            "title": "<b>Free Maintenance <\/b>",
+            "text": "We don't charge for normal wear and tear",
+            "texturl": ""
+          }
+        },
+        "1643964693dc7dcc03-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/happy.png",
+            "icons": "at-truck-l",
+            "title": "<b>1 Million Customers<\/b>",
+            "text": "We provide quality products and sale after service",
+            "texturl": ""
+          }
+        },
+        "1643964693dc7dcc03-3": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/award.png",
+            "icons": "at-truck-l",
+            "title": "<b>Multiple Award Winner <\/b>",
+            "text": "We provide quality products and sale after service",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1643964693dc7dcc03-0",
+        "1643964693dc7dcc03-1",
+        "1643964693dc7dcc03-2",
+        "1643964693dc7dcc03-3"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl2",
+        "icon-type": "image",
+        "iconsize": 60,
+        "ttlsize": "h4",
+        "tb_pad": 2,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#111111",
+        "icons_clr": "#a9a9a9",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "16292647947ef392d6": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292647947ef392d6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/din.jpg",
+            "collection": "furniture",
+            "title": "To make bond over meals",
+            "detail": "<b style=\"color:#5d3d26\" class=\"ft2\">Dining Set<\/b>",
+            "detail_hide": false,
+            "collection_btn": "BUY NOW",
+            "collection_btn_link": true,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 20,
+            "ttl_font_l": 1,
+            "ttl_font_m": 20,
+            "detail_font": 40,
+            "detail_font_l": 3,
+            "detail_font_m": 25,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#7b4b2d",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 80,
+            "box-pad": "big"
+          }
+        },
+        "16292647947ef392d6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kithce.jpg",
+            "collection": "",
+            "title": "<b class=\"ft2\">Modular <br> Furniture<\/b>",
+            "detail": "FLAT 30% OFF",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 20,
+            "detail_font": 18,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-jce f-aic",
+            "box_txt": "#7b4b2d",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 40,
+            "box-pad": "small"
+          }
+        },
+        "80b41926-11f4-43d4-b6d4-3d787d07794e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SOFA.jpg",
+            "collection": "",
+            "title": "<b class=\"ft2\">Sofa cum Bed<\/b>",
+            "detail": "Up to 40% Off",
+            "detail_hide": false,
+            "collection_btn": "SHOP NOW",
+            "collection_btn_link": true,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 20,
+            "detail_font": 18,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "text_tl f-ais f-jcs",
+            "box_txt": "#6b3819",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 45,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "16292647947ef392d6-0",
+        "16292647947ef392d6-1",
+        "80b41926-11f4-43d4-b6d4-3d787d07794e"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 2,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 30,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 4
+      }
+    },
+    "1643973628ed9148d2": {
+      "type": "product-slider",
+      "settings": {
+        "title": "New Arrivals",
+        "subtitle": "",
+        "collection": "furniture",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "164397260165adafa0": {
+      "type": "custom-content",
+      "blocks": {
+        "1643972601f145e260-0": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/carpet.jpg",
+            "title": "Carpets and  Rugs",
+            "font-size": "h3",
+            "removemr": true,
+            "text": "<p>Matching carpets for every occasion.<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000",
+            "width": "50%"
+          }
+        },
+        "1643972601f145e260-1": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/matress.jpg",
+            "title": "Prefect Mattress",
+            "font-size": "h3",
+            "removemr": true,
+            "text": "<p>Give your body the comfort it deserves<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000",
+            "width": "50%"
+          }
+        },
+        "b0778a99-32af-4019-be02-dba078a4f44f": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/book.jpg",
+            "title": "Book Shelves",
+            "font-size": "h3",
+            "removemr": true,
+            "text": "<p>Perfectly clean cabinet that will reflect your style<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000",
+            "width": "33%"
+          }
+        },
+        "8ea636b9-15be-4f0e-952f-1041c51ef59b": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/study-table.jpg",
+            "title": "Study Tables",
+            "font-size": "h4",
+            "removemr": true,
+            "text": "<p>Provides the assurance of comfort <\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000",
+            "width": "33%"
+          }
+        },
+        "c54e3184-c072-420c-9539-d30b6dc41a85": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/light.jpg",
+            "title": "Lamps & Lightings",
+            "font-size": "h4",
+            "removemr": true,
+            "text": "<p>Ideal solutions for your dark evenings<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000",
+            "width": "33%"
+          }
+        },
+        "27479e8c-dc17-4f0a-b7c2-effddc3f545c": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/carving.jpg",
+            "title": "Traditional Furniture",
+            "font-size": "h3",
+            "removemr": true,
+            "text": "<p>Old furniture is always gold<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000",
+            "width": "66%"
+          }
+        },
+        "70c842c0-96f6-43f3-ad2f-475d6e585b2e": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/decor-1.jpg",
+            "title": "Home Décor",
+            "font-size": "h2",
+            "removemr": true,
+            "text": "<p>All you need to create your space<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "alignment": "f-ass",
+            "align_text": "tl",
+            "eblock_bg": false,
+            "block_bg": "#f5f5f5",
+            "block_txt": "#000000",
+            "width": "33%"
+          }
+        }
+      },
+      "block_order": [
+        "1643972601f145e260-0",
+        "1643972601f145e260-1",
+        "b0778a99-32af-4019-be02-dba078a4f44f",
+        "8ea636b9-15be-4f0e-952f-1041c51ef59b",
+        "c54e3184-c072-420c-9539-d30b6dc41a85",
+        "27479e8c-dc17-4f0a-b7c2-effddc3f545c",
+        "70c842c0-96f6-43f3-ad2f-475d6e585b2e"
+      ],
+      "settings": {
+        "title": "Shop Your Favorite",
+        "subtitle": "Impressive Collection for Your Dream Home",
+        "top-offeset": "default",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1"
+      }
+    },
+    "162928888955bae1ec": {
+      "type": "quotes",
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/3.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/2_b3a5da03-8fd4-41b1-815a-249c9c6511dd.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/1_3910f733-a5ab-410b-89dd-57e17ea80754.jpg",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/dm1-top.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2",
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "section_width": true,
+        "quote_style": "quote2",
+        "testimonials_bg": "#eeeeee",
+        "testimonials_bg_img": "shopify:\/\/shop_images\/testimonial.jpg",
+        "title": "Their Words, Our Pride",
+        "section_ttl": "#333333",
+        "testimonials_text": "#666666",
+        "box_bg": "#ffffff",
+        "rating_clr": "#d48c72",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#ccc8c8",
+        "q_dot_a": "#111111"
+      }
+    },
+    "16292898146ca1f275": {
+      "type": "masonry-banner",
+      "disabled": true,
+      "blocks": {
+        "16292898146ca1f275-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm1-bt-bnr1.jpg",
+            "collection": "women-accessories",
+            "title": "NEW COLLECTION",
+            "detail": "<span style=\"color: #FE877B\"><b>STREETSTYLE<b><\/b><\/b><\/span>",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 14,
+            "ttl_font_l": 1,
+            "ttl_font_m": 14,
+            "detail_font": 28,
+            "detail_font_l": 1,
+            "detail_font_m": 16,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "#ffffff",
+            "bdr_rad": 8,
+            "box-width": 60,
+            "box-pad": "big"
+          }
+        },
+        "16292898146ca1f275-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm1-bt-bnr2.jpg",
+            "collection": "tops",
+            "title": "SUMMER SALE OFFERS",
+            "detail": "<b>70% OFF<\/b>",
+            "detail_hide": false,
+            "collection_btn": "Shop the collection",
+            "collection_btn_link": true,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 60,
+            "detail_font_l": 1,
+            "detail_font_m": 27,
+            "text-align": "tc",
+            "text_pos": "f-jcc f-aic",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "16292898146ca1f275-0",
+        "16292898146ca1f275-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 2,
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "162937524545212036": {
+      "type": "logo-bar",
+      "blocks": {
+        "162937524545212036-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/belle.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/avone_68d877f4-0e70-4552-bb59-7e362e7296f7.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2bb62bf9-5433-4906-960a-23ed29602a46.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm2-logo.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162937524545212036-5",
+        "162937524545212036-4",
+        "162937524545212036-0",
+        "162937524545212036-1",
+        "162937524545212036-2",
+        "162937524545212036-3"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "Corporate Clientele",
+        "subtitle": "",
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#eeeeee"
+      }
+    },
+    "1632299144110958a0": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "default"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "1643964693d3b39295",
+    "16292647947ef392d6",
+    "1643973628ed9148d2",
+    "164397260165adafa0",
+    "162928888955bae1ec",
+    "16292898146ca1f275",
+    "162937524545212036",
+    "1632299144110958a0"
+  ]
+}

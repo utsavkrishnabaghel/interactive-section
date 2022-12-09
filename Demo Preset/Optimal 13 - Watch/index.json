@@ -1,0 +1,784 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm13-bnr2.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "ROTATE",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 13,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "WATCHES OF <br>EXCELLENCE",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 46,
+            "hd2_lh": 1.2,
+            "hd2_ls": 9,
+            "hd2_mb": 15,
+            "hd2_fs_m": 20,
+            "hd2_mb_m": 8,
+            "ss_hd3": "Set the tone with our range of handcrafted yet <br>affordably luxurious timepieces.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 17,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 40,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP WOMEN",
+            "link": "shopify:\/\/collections\/watches",
+            "display_btn": true,
+            "slide_button_text_2": "SHOP MEN",
+            "link2": "shopify:\/\/collections\/watches",
+            "btn-style": "bdr-btn2",
+            "btn-size": "btn-med",
+            "con_width": 1900,
+            "text-left": true,
+            "text_align": "f-aie-md f-jcs-md",
+            "text_align_m": "f-aie f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        },
+        "e8ec30f3-69b8-4792-a8ec-16682a485001": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner2.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "TIMEX OUTLET",
+            "hd1_cl": "#f5f5f5",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "FINAL 24 HOURS <br> TO GET 50% OFF",
+            "hd2_cl": "#eeeeee",
+            "hd2_fs": 46,
+            "hd2_lh": 1.2,
+            "hd2_ls": 3,
+            "hd2_mb": 30,
+            "hd2_fs_m": 20,
+            "hd2_mb_m": 15,
+            "ss_hd3": "",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 18,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP TIMEX NOW",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn2",
+            "btn-size": "btn-med",
+            "con_width": 1900,
+            "text-left": true,
+            "text_align": "f-aie-md f-jcs-md",
+            "text_align_m": "f-aie f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.9
+          }
+        },
+        "464fdc2f-1e23-473e-80b8-41bb6c86b4d7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm13-bnr1.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "WE ARE BEYOND IMAGINATION",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "EXPLORE<br>NEW ARRIVALS",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 50,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 15,
+            "ss_hd3": "I am Optimal, An Intelligent and beautiful shopify themes",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 18,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Shop now",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn2",
+            "btn-size": "btn-med",
+            "con_width": 1200,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aic-md",
+            "text_align_m": "f-aic f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.9
+          }
+        }
+      },
+      "block_order": [
+        "162737939390f2c1c2-2",
+        "e8ec30f3-69b8-4792-a8ec-16682a485001",
+        "464fdc2f-1e23-473e-80b8-41bb6c86b4d7"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 900,
+        "tb_height": 450,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": false,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": false,
+        "animation-style": "st1"
+      }
+    },
+    "163480713608fba2f3": {
+      "type": "richtext",
+      "settings": {
+        "fullwidth": false,
+        "top-offeset": "none",
+        "align_left": false,
+        "title": "<b>OPTIMAL WATHCES STORE<\/b>",
+        "font-size": "h4",
+        "richtxt": "<p>Elegant and convenient solutions for your luxury watches and wrist accessories. Handcrafted in Europe with the finest materials, our products are designed from the ground up to keep your timepieces in as luxurious conditions as possible,<\/p>",
+        "btntxt": "READ MORE",
+        "btnurl": "\/",
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "max-width": 50,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#111111"
+      }
+    },
+    "16306709888511676a": {
+      "type": "product-slider",
+      "settings": {
+        "title": "EXPLORE NEW ARRIVALS",
+        "subtitle": "SHOP THE LATEST<br>\n<br>",
+        "collection": "watches",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#f5f5f5",
+        "prbox_style": "grid_6",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16292647947ef392d6": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292647947ef392d6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/watch1.jpg",
+            "collection": "watches",
+            "title": "",
+            "detail": "",
+            "detail_hide": true,
+            "collection_btn": "SKELETON DIALS",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "493c6047-2fe6-4880-97d0-ab90046a94c0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/watch2.jpg",
+            "collection": "watches",
+            "title": "<span class=\"fwsb\">MEN'S WATCHES<\/span>",
+            "detail": "ALL EXCLUSIVE",
+            "detail_hide": false,
+            "collection_btn": "SHOP NOW",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 20,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        },
+        "01352fce-7d4a-4c79-b9f4-9fea11596a21": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/watch3.jpg",
+            "collection": "watches",
+            "title": "<span class=\"fwsb\">FASTRACK<\/span>",
+            "detail": "GET 30% OFF",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "#ffffff",
+            "bdr_rad": 0,
+            "box-width": 60,
+            "box-pad": "small"
+          }
+        },
+        "cee52a60-d600-4279-aa20-43adb0573eeb": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/watch4.jpg",
+            "collection": "watches",
+            "title": "<span class=\"fwsb\">ROTATE<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "LIMITED EDITION",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 28,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 75,
+            "box-pad": "big"
+          }
+        },
+        "80b41926-11f4-43d4-b6d4-3d787d07794e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/watch5.jpg",
+            "collection": "watches",
+            "title": "<b>BEST RATED<\/b>",
+            "detail": "BE THE MOST YOU",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 80,
+            "box-pad": "small"
+          }
+        },
+        "171fde18-19ce-4dc4-9db0-f90c7f03baa4": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/watch6.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">BEST PRICE ONLINE<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#f5f5f5",
+            "box_bg": "#090a0a",
+            "bdr_rad": 0,
+            "box-width": 60,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "16292647947ef392d6-1",
+        "493c6047-2fe6-4880-97d0-ab90046a94c0",
+        "01352fce-7d4a-4c79-b9f4-9fea11596a21",
+        "cee52a60-d600-4279-aa20-43adb0573eeb",
+        "80b41926-11f4-43d4-b6d4-3d787d07794e",
+        "171fde18-19ce-4dc4-9db0-f90c7f03baa4"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "section_width": true,
+        "pad-desk": 30,
+        "pad-mbl": 10,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 4,
+        "btn-style": "btn2",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 2
+      }
+    },
+    "1630673330d0560e3b": {
+      "type": "products-rows",
+      "settings": {
+        "title": "BEST SELLER",
+        "subtitle": "TOP SALE IN THIS WEEK",
+        "collection": "watches",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "SHOP ALL STYLE",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": false,
+        "color_type": "vrimage",
+        "vr_bg_position": "50% 0",
+        "color_size": "large",
+        "color_style": "rectangle",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "8"
+      }
+    },
+    "162928888955bae1ec": {
+      "type": "quotes",
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/3.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/2_b3a5da03-8fd4-41b1-815a-249c9c6511dd.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/1_3910f733-a5ab-410b-89dd-57e17ea80754.jpg",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/dm1-top.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2",
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "quote_style": "quote2",
+        "testimonials_bg": "#fafafa",
+        "title": "SEE WHAT OUR 8000+ CUSTOMERS HAVE TO SAY<br>",
+        "section_ttl": "#333333",
+        "testimonials_text": "#666666",
+        "box_bg": "#ffffff",
+        "rating_clr": "#d48c72",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#ccc8c8",
+        "q_dot_a": "#111111"
+      }
+    },
+    "163481649818b1b55f": {
+      "type": "promotion-bar_home",
+      "blocks": {
+        "163481649818b1b55f-0": {
+          "type": "text_block",
+          "settings": {
+            "promo_txt": "<b>FLAT 50% OFF<\/b> ON THE <b>CLASSIC WATCH<\/b> COLLECTION! LIMITED TIME OFFER! <b class=\"hl\">Hurry up!<\/b>",
+            "ann_date": "12\/20\/2021",
+            "promo_btn_tx": "Shop Now",
+            "promo_btn_mob": true,
+            "promo_link": "shopify:\/\/collections\/watches",
+            "promo_txt_cl": "#f5f5f5",
+            "promo_hl": "#ffbb6c",
+            "cnt_text": "#f5f5f5",
+            "promo_btn_clr": "#f5f5f5",
+            "promo_btn_tx_clr": "#090a0a",
+            "promo_bgcl": "#333333",
+            "promotion_bg": "shopify:\/\/shop_images\/promo-bg1.jpg"
+          }
+        },
+        "163481649818b1b55f-1": {
+          "type": "text_block",
+          "settings": {
+            "promo_txt": "<b class=\"hl\">UP TO 80% OFF<\/b> ON THE ENTIRE STORE! SALE WILL END SOON IN :[countdown] [button]",
+            "ann_date": "12\/20\/2021",
+            "promo_btn_tx": "Shop Now",
+            "promo_btn_mob": true,
+            "promo_link": "shopify:\/\/collections\/watches",
+            "promo_txt_cl": "#ffffff",
+            "promo_hl": "#ffbb6c",
+            "cnt_text": "#ffffff",
+            "promo_btn_clr": "#ffbb6c",
+            "promo_btn_tx_clr": "#111111",
+            "promo_bgcl": "#111111",
+            "promotion_bg": "shopify:\/\/shop_images\/promo-bg2.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "163481649818b1b55f-0",
+        "163481649818b1b55f-1"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "promo_ht": 90,
+        "hideClose": false,
+        "slideEf": "true",
+        "speed": 3,
+        "fontFm": "ft1",
+        "promo_fs": 14
+      }
+    },
+    "162937524545212036": {
+      "type": "logo-bar",
+      "blocks": {
+        "162937524545212036-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-1.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/teckbox.png",
+            "link": ""
+
+          }
+        },
+        "162937524545212036-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-3.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-2.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-5.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162937524545212036-5",
+        "162937524545212036-4",
+        "162937524545212036-0",
+        "162937524545212036-1",
+        "162937524545212036-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "AS SEEN IN",
+        "subtitle": "",
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 2,
+        "logobg": "#ffffff",
+        "logobd": "#ffffff"
+      }
+    },
+    "163481292598d17aa8": {
+      "type": "faq",
+      "blocks": {
+        "163481292598d17aa8-0": {
+          "type": "faqs",
+          "settings": {
+            "question": "How are your straps made?",
+            "answer": "Every strap is individually handcrafted by our team of skilled leathercrafters, using traditional techniques employed by the best leathercrafters in the world. There are over 50 steps involved, using a wide range of tools and machines."
+          }
+        },
+        "163481292598d17aa8-1": {
+          "type": "faqs",
+          "settings": {
+            "question": "Does your strap fit my watch?",
+            "answer": "Authorized Dealer of ALL the brands\/watches we carry and they all come with full manufacturer warranties that are honored internationally. All of our watches sold are 100% Authentic Guaranteed, brand new, unworn and come in the original manufacturer packaging."
+          }
+        },
+        "28688ba6-1ff8-4f4e-bae2-d25d61a039b2": {
+          "type": "faqs",
+          "settings": {
+            "question": "Are the watches you sell 100% authentic?",
+            "answer": "Yes, our theme is fully compatible and supports Sections on every page."
+          }
+        },
+        "a8e7ea2e-e57f-4b59-b494-ce04ab75c40f": {
+          "type": "faqs",
+          "settings": {
+            "question": "How do I know if the watch I want to purchase is battery-operated versus mechanical?",
+            "answer": "The movement type used in the watch is listed in the \"Specs\" section of every product page. All quartz watches require a battery, automatic watches are powered through hand-winding or wrist movement."
+          }
+        }
+      },
+      "block_order": [
+        "163481292598d17aa8-0",
+        "163481292598d17aa8-1",
+        "28688ba6-1ff8-4f4e-bae2-d25d61a039b2",
+        "a8e7ea2e-e57f-4b59-b494-ce04ab75c40f"
+      ],
+      "settings": {
+        "title": "FREQUENTLY ASK QUESTIONS",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "enable_acc": true,
+        "acc_style": "icons_2",
+        "enable_narrow": true,
+        "sec-title-bg": "#333333",
+        "sec-title": "#eeeeee",
+        "questions": "#444444",
+        "answers": "#444444",
+        "icons": "#333333",
+        "borders": "#eeeeee"
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "<b>FREE SHIPPING & RETURN<\/b>",
+            "text": "<p>Free shipping on all US orders<\/p>",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-dollar-sign-l",
+            "title": "<b>MONEY GUARANTEE<\/b>",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at- at-chat",
+            "title": "<b>WE ARE HERE TO HELP<\/b>",
+            "text": "<p>All payment are Secured and trusted.<\/p>",
+            "texturl": "#"
+          }
+        },
+        "22a15882-8e00-4613-8986-466b370f9842": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-shield",
+            "title": "<b>LIFETIME WARRANTY<\/b>",
+            "text": "Add feature short description text here",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2",
+        "22a15882-8e00-4613-8986-466b370f9842"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl3",
+        "icon-type": "icon",
+        "iconsize": 20,
+        "ttlsize": "h6",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#333333",
+        "text_clr": "#ffffff",
+        "icons_clr": "#ffffff",
+        "icons_bg_clr": "#111111"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "163480713608fba2f3",
+    "16306709888511676a",
+    "16292647947ef392d6",
+    "1630673330d0560e3b",
+    "162928888955bae1ec",
+    "163481649818b1b55f",
+    "162937524545212036",
+    "163481292598d17aa8",
+    "16293765224638d033"
+  ]
+}

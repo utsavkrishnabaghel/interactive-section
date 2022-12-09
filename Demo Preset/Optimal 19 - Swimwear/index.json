@@ -1,0 +1,498 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "7df497ef-3a31-44d8-a83f-35753d7c5a96": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner1.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "WE ARE BEYOND IMAGINATION",
+            "hd1_cl": "#333333",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "MAKING BRAND VISIBLE",
+            "hd2_cl": "#333333",
+            "hd2_fs": 40,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 15,
+            "ss_hd3": "I am Optimal, An Intelligent and beautiful shopify themes",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 18,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Shop Now",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "bdr-btn1",
+            "btn-size": "btn-med",
+            "con_width": 1900,
+            "text-left": true,
+            "text_align": "f-aie-md f-jcs-md",
+            "text_align_m": "f-aie f-jcs",
+            "cap_ol": true,
+            "cap_ol_mb": true,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        },
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bag_1da2cf20-ca61-4ac2-adb0-591ab593082a.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "Summer Collection",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 21,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "New Paris Look",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 55,
+            "hd2_lh": 1.1,
+            "hd2_ls": 3,
+            "hd2_mb": 15,
+            "hd2_fs_m": 26,
+            "hd2_mb_m": 8,
+            "ss_hd3": "",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 17,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 40,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP NOW",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "SHOP MEN",
+            "link2": "",
+            "btn-style": "bdr-btn2",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": false,
+            "text_align": "f-jce-md f-aic-md",
+            "text_align_m": "f-jcc f-aie",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "7df497ef-3a31-44d8-a83f-35753d7c5a96",
+        "162737939390f2c1c2-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 830,
+        "tb_height": 450,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st3"
+      }
+    },
+    "1637678735c252e2a6": {
+      "type": "richtext",
+      "settings": {
+        "fullwidth": false,
+        "top-offeset": "none",
+
+        "align_left": false,
+        "title": "<br>\nOptimal Swimwear is home to Canadas's most extensive swimwear range. Catering to women of all shapes and sizes, we are proud stockiest of swim and resort wear both online and in our Nuffield Street store.",
+        "font-size": "h2",
+        "richtxt": "",
+        "btntxt": "",
+        "btnurl": "",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "max-width": 65,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#111111"
+      }
+    },
+    "16376787416b1c52f9": {
+      "type": "collection-list_home",
+      "blocks": {
+        "163767874116cf399f-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swimwear",
+            "image": "shopify:\/\/shop_images\/cl11.jpg",
+            "title": "BIKINI SET",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        },
+        "163767874116cf399f-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swimwear",
+            "image": "shopify:\/\/shop_images\/cl12.jpg",
+            "title": "BIKINI BOTTOM",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        },
+        "163767874116cf399f-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swimwear",
+            "image": "shopify:\/\/shop_images\/cl13.jpg",
+            "title": "BIKINI TOPS",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        },
+        "163767874116cf399f-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swimwear",
+            "image": "shopify:\/\/shop_images\/cl14.jpg",
+            "title": "ONE PIECSE",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        },
+        "47a1c08d-4884-4cb9-858a-12e892a229ca": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "swimwear",
+            "image": "shopify:\/\/shop_images\/cl15.jpg",
+            "title": "PLUS SIZE",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        },
+        "7fc099e5-2b91-4b5d-9fab-4931dcfd4c1d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/cl16.jpg",
+            "title": "SMALL SIZE",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        },
+        "fcd929fc-5121-46d3-85fb-7fcc32dfc0a3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/cl17.jpg",
+            "title": "GIRLS SWIM",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        },
+        "456ae40f-6c05-4b67-b605-6fdcf5ff81c0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/cl18.jpg",
+            "title": "MEN SWIM",
+            "collection_btn": "SHOP NOW",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "163767874116cf399f-0",
+        "163767874116cf399f-1",
+        "163767874116cf399f-2",
+        "163767874116cf399f-3",
+        "47a1c08d-4884-4cb9-858a-12e892a229ca",
+        "7fc099e5-2b91-4b5d-9fab-4931dcfd4c1d",
+        "fcd929fc-5121-46d3-85fb-7fcc32dfc0a3",
+        "456ae40f-6c05-4b67-b605-6fdcf5ff81c0"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "section_width": true,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": false,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 10,
+        "style": "cl_box4",
+        "product_count": false,
+        "btn-style": "btn3",
+        "btn-size": "btn-med",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#ffffff",
+        "collection_ttl_bg_hm": "rgba(0,0,0,0)",
+        "collection_ttl_bg_hm_responsive": "#060505",
+        "tlleft": true,
+        "collection_ttl_opt_hm": 0.7,
+        "enable_zoom": true
+      }
+    },
+    "1637678892b3db4276": {
+      "type": "product-slider",
+      "settings": {
+        "title": "The Most-Loved Edit",
+        "subtitle": "Give love with these most loved styles.",
+        "collection": "swimwear",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_4",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16376699545946068d": {
+      "type": "shop-buttons",
+      "blocks": {
+        "163766995453833c66-0": {
+          "type": "shop_button",
+          "settings": {
+            "button_label": "SWIM",
+            "button_link": "#"
+          }
+        },
+        "163766995453833c66-1": {
+          "type": "shop_button",
+          "settings": {
+            "button_label": "ACTIVE",
+            "button_link": "\/"
+          }
+        },
+        "065e2187-0939-45c6-83e9-2db1f4fee10f": {
+          "type": "shop_button",
+          "settings": {
+            "button_label": "LOUNG",
+            "button_link": "\/"
+          }
+        },
+        "e068ab12-802b-4054-ae6f-5a418147b04a": {
+          "type": "shop_button",
+          "settings": {
+            "button_label": "RESORT",
+            "button_link": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "163766995453833c66-0",
+        "163766995453833c66-1",
+        "065e2187-0939-45c6-83e9-2db1f4fee10f",
+        "e068ab12-802b-4054-ae6f-5a418147b04a"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 600,
+        "tb_height": 350,
+        "mb_height": 250,
+        "dis_img": true,
+        "image": "shopify:\/\/shop_images\/banner2.jpg",
+        "alignment": "center",
+        "img_bg": "#f5f5f5",
+        "parallax_scroll": true,
+        "title": "Product Range",
+        "hd2_fs": 30,
+        "hd2_lh": 1.2,
+        "hd2_ls": 0,
+        "hd2_mb": 10,
+        "hd2_fs_m": 26,
+        "hd2_mb_m": 15,
+        "hero_hd3": "Our products are offered as our ready designs as well as your <br> own custom designs. We have short and long product  development cycles aligned  <br>with trends – so you can enter the market at the right time.",
+        "hero_hd3_hide": true,
+        "hd3_fs": 16,
+        "hd3_lh": 1.6,
+        "hd3_ls": 2,
+        "hd3_mb": 30,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 15,
+        "txt_clr": "#ffffff",
+        "btn-style": "btn3",
+        "btn-size": "btn-med"
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-worldwide",
+            "title": "Worldwide Super Quick shipping",
+            "text": "We organize 100% insured, worldwide shipping—so you can trust your bags are in good hands",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-star-o",
+            "title": "World Class Design",
+            "text": "Contemporary & exciting handbags which you would love to wear and gifts to your loved one",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "a at-chat",
+            "title": "24\/7 Support",
+            "text": "From the moment you start looking to when your new goodies arrive at your door, we’re here to help",
+            "texturl": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl2",
+        "icon-type": "icon",
+        "iconsize": 36,
+        "ttlsize": "h3",
+        "tb_pad": 3,
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#01080b",
+        "icons_clr": "#0187b0",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "1637680768389b8102": {
+      "type": "up-to-4columns",
+      "blocks": {
+        "16376807685425d4a9-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/small-ban1.jpg",
+            "title": "<span class=\"fwm\">Ready-to-wear<\/span>",
+            "text": "Designed with high-performance, technical and eco-friendly fabrics; the collection is the definition of modernism",
+            "button_label": "View Collection",
+            "button_link": "\/"
+          }
+        },
+        "16376807685425d4a9-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/resort-wear.jpg",
+            "title": "<span class=\"fwm\">Resort wear<\/span>",
+            "text": "Inspired by the desire to create a completely versatile wardrobe, in absolute comfort, elegance and style.",
+            "button_label": "View Collection",
+            "button_link": "\/"
+          }
+        },
+        "16376807685425d4a9-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/for-her.jpg",
+            "title": "<span class=\"fwm\">The gift of choice<\/span>",
+            "text": "Give your friend or family member the gift of choice with a Hot Body Swimwear gift card.",
+            "button_label": "View Collection",
+            "button_link": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "16376807685425d4a9-0",
+        "16376807685425d4a9-1",
+        "16376807685425d4a9-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "align_text": "tl",
+        "hd_fs": 25,
+        "hd_ls": 2,
+        "hd_fs_m": 22,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "set_text_bg": false,
+        "text_bg": "#ffffff",
+        "text_c": "#212121",
+        "btn-style": "bdr-btn1",
+        "btn-size": "btn-med"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "1637678735c252e2a6",
+    "16376787416b1c52f9",
+    "1637678892b3db4276",
+    "16376699545946068d",
+    "16293765224638d033",
+    "1637680768389b8102"
+  ]
+}

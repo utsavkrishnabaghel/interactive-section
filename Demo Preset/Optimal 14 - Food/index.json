@@ -1,0 +1,798 @@
+{
+  "sections": {
+    "1635503042223a1935": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1635503042223a1935-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#000000",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "<b>Organic Fruit, Vegetables & Meat<\/b>",
+            "hd2_cl": "#000000",
+            "hd2_fs": 40,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 15,
+            "ss_hd3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed eiusmod. <br>Lorem ipsum dolor Tur adipiscing elit, sed do eiusmod.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 15,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Shop Now",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1940,
+            "text-left": true,
+            "text_align": "f-jce-md f-aic-md",
+            "text_align_m": "f-jcc f-aic",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.9
+          }
+        },
+        "1635503042223a1935-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#000000",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "Fresh From the Farm",
+            "hd2_cl": "#000000",
+            "hd2_fs": 40,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 15,
+            "ss_hd3": "We deliver organic fruits & vegetables fresh <br>from our fields to your doorstep.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 15,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP VEGETABLES",
+            "link": "#",
+            "display_btn": true,
+            "slide_button_text_2": "SHOP FRUITS",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1200,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aic-md",
+            "text_align_m": "f-jcc f-aic",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.9
+          }
+        }
+      },
+      "block_order": [
+        "1635503042223a1935-0",
+        "1635503042223a1935-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": true,
+        "box-width": 1200,
+        "ds_height": 800,
+        "tb_height": 450,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st1"
+      }
+    },
+    "16292898146ca1f275": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292898146ca1f275-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/veg.png",
+            "collection": "grocery",
+            "title": "<span style=\"color: #85b935\"><b>FRESH VEGETABLES<\/b><\/span>",
+            "detail": "Fresh vegetables from organic farming from all over the world",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 25,
+            "ttl_font_l": 2,
+            "ttl_font_m": 20,
+            "detail_font": 16,
+            "detail_font_l": 5,
+            "detail_font_m": 16,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        },
+        "16292898146ca1f275-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fruit.jpg",
+            "collection": "grocery",
+            "title": "<span style=\"color: #fd9917\"><b>FRESH FRUITS READY TO EAT<\/b><\/span>",
+            "detail": "Fresh vegetables from organic farming from all over the world",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 25,
+            "ttl_font_l": 2,
+            "ttl_font_m": 20,
+            "detail_font": 16,
+            "detail_font_l": 5,
+            "detail_font_m": 16,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        },
+        "cce82d35-684e-4308-bf68-d1ddbc8bb7a5": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/meat.png",
+            "collection": "grocery",
+            "title": "<span style=\"color: #fe877b\"><b>CUT THE MEAT AND BEAT<\/b><\/span>",
+            "detail": "Meat comes from farmers who are stewards of land and animals",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 25,
+            "ttl_font_l": 2,
+            "ttl_font_m": 20,
+            "detail_font": 16,
+            "detail_font_l": 5,
+            "detail_font_m": 16,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "16292898146ca1f275-0",
+        "16292898146ca1f275-1",
+        "cce82d35-684e-4308-bf68-d1ddbc8bb7a5"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#f2eeeb",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 3,
+        "btn-style": "btn2",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "1635503046d0adacdc": {
+      "type": "collection-tab",
+      "blocks": {
+        "1635503046d0adacdc-2": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Vegetables",
+            "collection": "vegetables",
+            "btntext": "SHOP ALL"
+          }
+        },
+        "1635503046d0adacdc-1": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Fruits",
+            "collection": "fruits",
+            "btntext": "SHOP ALL"
+          }
+        },
+        "6119dd0f-8c95-423e-b5b4-0d70c2fc9eaa": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Meats",
+            "collection": "meat",
+            "btntext": "SHOP ALL"
+          }
+        }
+      },
+      "block_order": [
+        "1635503046d0adacdc-2",
+        "1635503046d0adacdc-1",
+        "6119dd0f-8c95-423e-b5b4-0d70c2fc9eaa"
+      ],
+      "settings": {
+        "title": "Special Offers",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "tab-style": "stl3",
+        "pr_carousel": true,
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": true,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "v_f_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5"
+      }
+    },
+    "1635507537ace8c812": {
+      "type": "masonry-banner",
+      "blocks": {
+        "1635507537ace8c812-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carrot.png",
+            "collection": "grocery",
+            "title": "<span class=\"fwsb\">Cucumber<\/span>",
+            "detail": "Lorem ipsum dolor sit amet,  sed diam nonumy eirmod tempor invidunt.",
+            "detail_hide": false,
+            "collection_btn": "SHOP NOW",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 31,
+            "ttl_font_l": 3,
+            "ttl_font_m": 20,
+            "detail_font": 14,
+            "detail_font_l": 5,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "big"
+          }
+        },
+        "25d46c52-7389-4ae0-9bbe-5216b80dd4b6": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/brokoli.png",
+            "collection": "grocery",
+            "title": "<span class=\"fwsb\">Broccoli<\/span>",
+            "detail": "Lorem ipsum dolor sit amet,  sed diam nonumy eirmod tempor invidunt.",
+            "detail_hide": false,
+            "collection_btn": "SHOP NOW",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 31,
+            "ttl_font_l": 3,
+            "ttl_font_m": 20,
+            "detail_font": 14,
+            "detail_font_l": 5,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "big"
+          }
+        },
+        "1635507537ace8c812-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/POTATO.png",
+            "collection": "",
+            "title": "<span class=\"fwsb\">Potatoes<\/span>",
+            "detail": "Lorem ipsum dolor sit amet,  sed diam nonumy eirmod tempor invidunt.",
+            "detail_hide": false,
+            "collection_btn": "SHOP NOW",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 31,
+            "ttl_font_l": 3,
+            "ttl_font_m": 20,
+            "detail_font": 14,
+            "detail_font_l": 5,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "1635507537ace8c812-0",
+        "25d46c52-7389-4ae0-9bbe-5216b80dd4b6",
+        "1635507537ace8c812-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 3,
+        "btn-style": "btn3",
+        "btn-size": "btn-med",
+        "btn-mr": 25,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "163558658954c6ab39": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "small"
+      }
+    },
+    "1635513641f2b474f4": {
+      "type": "products-rows",
+      "settings": {
+        "title": "Weekly Top Seller",
+        "subtitle": "",
+        "collection": "grocery",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": true,
+        "btn_mobiles": true,
+        "show_view_all": "SHOP ALL TOP SELLER",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "8"
+      }
+    },
+    "16355052526e909fec": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 330,
+        "tb_height": 350,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/hero.jpg",
+        "alignment": "center",
+        "parallax_scroll": false,
+        "hero_hd1": "BLACK FRIDAY !",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 13,
+        "title": "SALE 50% OFF",
+        "hd2_fs": 45,
+        "hd2_lh": 1.2,
+        "hd2_ls": 2,
+        "hd2_mb": 5,
+        "hd2_fs_m": 25,
+        "hd2_mb_m": 5,
+        "hero_hd3": "<span class=\"fwsb\">ALL VEGETABLE PRODUCTS<\/span>",
+        "hero_hd3_hide": true,
+        "hd3_fs": 22,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 34,
+        "hd3_fs_m": 18,
+        "hd3_mb_m": 20,
+        "button_label": "SHOP ALL NOW",
+        "button_link": "\/",
+        "ol_link": false,
+        "btn-style": "btn2",
+        "btn-size": "btn-med",
+        "con_width": 73,
+        "text-align": true,
+        "text_align": "f-aic-md f-jcs-md",
+        "text_align_m": "f-ais f-jcs",
+        "hero_bg": false,
+        "bg_clr": "#ffffff",
+        "bg_opacity": 0.9,
+        "txt_clr": "#000000",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000",
+        "b_rad": 0
+      }
+    },
+    "16355915251bbed33a": {
+      "type": "collection-list_menu",
+      "blocks": {
+        "16355915251bbed33a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "grocery",
+            "image": "shopify:\/\/shop_images\/seafood.jpg",
+            "title": "<span class=\"fwm\">Seafood    <\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16355915251bbed33a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "grocery",
+            "image": "shopify:\/\/shop_images\/cooked.jpg",
+            "title": "<span class=\"fwm\">Cooked Meals<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16355915251bbed33a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "grocery",
+            "image": "shopify:\/\/shop_images\/baked.jpg",
+            "title": "<span class=\"fwm\">Baked Goods<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16355915251bbed33a-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/gift.jpg",
+            "title": "<span class=\"fwm\">Gift Bundles<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "6bb33d2d-c870-4348-8469-c660ee1af8bb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/dry_ff2a01a3-173f-4ab6-b94c-e686eaf4cf96.jpg",
+            "title": "<span class=\"fwm\">Dry Fruits<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "d0c5bc63-eade-4030-8bee-bcf29984a53b": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/mung.jpg",
+            "title": "<span class=\"fwm\">Sprouts<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "e32248c4-9315-4417-b4c9-6828a1a4a175": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/frozen.jpg",
+            "title": "<span class=\"fwm\">Frozen food<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16355915251bbed33a-0",
+        "16355915251bbed33a-1",
+        "16355915251bbed33a-2",
+        "16355915251bbed33a-3",
+        "6bb33d2d-c870-4348-8469-c660ee1af8bb",
+        "d0c5bc63-eade-4030-8bee-bcf29984a53b",
+        "e32248c4-9315-4417-b4c9-6828a1a4a175"
+      ],
+      "settings": {
+        "title": "<br>\nOther Popular Categories",
+        "subtitle": "One stop market for all your need.\n<br> <br>",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": true,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 15,
+        "product_count": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "grid": 6,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#000000",
+        "enable_zoom": true
+      }
+    },
+    "163551363040469e98": {
+      "type": "info-banner-features",
+      "blocks": {
+        "163551363040469e98-0": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5_4b1ae5c4-91f9-4b89-9fb8-a863c20219b9.png",
+            "icons": "at-truck-l",
+            "title": "<b>GROWING<\/b>",
+            "text": ""
+          }
+        },
+        "163551363040469e98-1": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_d5de83b4-d8e2-46a4-b4b4-0c721a24ea80.png",
+            "icons": "at-truck-l",
+            "title": "<b>NO SODIUM<\/b>",
+            "text": ""
+          }
+        },
+        "163551363040469e98-2": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/eco_7e2f593a-bc73-4fe4-bcd5-6496bcd9d3a1.png",
+            "icons": "at-truck-l",
+            "title": "<b>ECOLOGINCAL<\/b>",
+            "text": ""
+          }
+        },
+        "6cddb66c-8edb-4229-97e8-3b810aa8263e": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png",
+            "icons": "at-truck-l",
+            "title": "<b>ORGANIC<\/b>",
+            "text": ""
+          }
+        },
+        "8584a397-666d-4864-a522-81c263f577ea": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "icons": "at-truck-l",
+            "title": "<b>WATERING<\/b>",
+            "text": ""
+          }
+        },
+        "872fe504-ef52-472d-98fa-ed13660f5438": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "icons": "at-truck-l",
+            "title": "<b>FRIENDLY<\/b>",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "163551363040469e98-0",
+        "163551363040469e98-1",
+        "163551363040469e98-2",
+        "6cddb66c-8edb-4229-97e8-3b810aa8263e",
+        "8584a397-666d-4864-a522-81c263f577ea",
+        "872fe504-ef52-472d-98fa-ed13660f5438"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "image": "shopify:\/\/shop_images\/women.jpg",
+        "layout": "left",
+        "title": "Finest quality products with no additives",
+        "text": "<p>Tasty and fresh greens Organic food. Sed ut perspiciati aperiam unde omnisiste voluptatem accusantium dolorem que ladan tiumus dolor.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_align": "tl",
+        "style": "stl1",
+        "icon-type": "image",
+        "iconsize": 46,
+        "grid": 2,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "text_bg_clr": "#fafafa",
+        "text_clr": "#000000",
+        "icons_clr": "#a9a9a9",
+        "icons_bg_clr": "#111111",
+        "button_bg_clr": "#000000",
+        "button_text_clr": "#ffffff",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15
+      }
+    },
+    "162928888955bae1ec": {
+      "type": "quotes",
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2",
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "quote_style": "quote3",
+        "testimonials_bg": "#ffffff",
+        "title": "TESTIMONIALS",
+        "section_ttl": "#333333",
+        "testimonials_text": "#666666",
+        "box_bg": "#ffffff",
+        "rating_clr": "#d48c72",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#ccc8c8",
+        "q_dot_a": "#111111"
+      }
+    },
+    "1635589009916b9a8c": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "default"
+      }
+    }
+  },
+  "order": [
+    "1635503042223a1935",
+    "16292898146ca1f275",
+    "1635503046d0adacdc",
+    "1635507537ace8c812",
+    "163558658954c6ab39",
+    "1635513641f2b474f4",
+    "16355052526e909fec",
+    "16355915251bbed33a",
+    "163551363040469e98",
+    "162928888955bae1ec",
+    "1635589009916b9a8c"
+  ]
+}

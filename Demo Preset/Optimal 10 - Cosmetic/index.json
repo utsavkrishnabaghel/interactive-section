@@ -1,0 +1,667 @@
+{
+  "sections": {
+    "16309168625aa738f7": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16309168620a28d493-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-face.jpg",
+            "collection": "",
+            "title": "<b style=\"font-size:123%\">50% OFF<\/b><br>on skincare",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 24,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 2,
+            "detail_font_m": 13,
+            "text-align": "tr",
+            "text_pos": "f-jce f-aic",
+            "box_txt": "#f9f9f9",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 6,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "16309168620a28d493-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-mackup.jpg",
+            "collection": "",
+            "title": "<b>MACKUP KIT SET<\/b>",
+            "detail": "Bestselling Kits starting from $199",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "66%",
+            "url": "",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 16,
+            "detail_font_l": 2,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 7,
+            "box-width": 80,
+            "box-pad": "small"
+          }
+        },
+        "59d0e23b-7cf6-4d46-828d-fe742962fe29": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-herbal.jpg",
+            "collection": "",
+            "title": "<b>HERBAL COSMETICS<\/b>",
+            "detail": "Herbal solutions for every application from top to toe",
+            "detail_hide": true,
+            "collection_btn": "SHOP NOW",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "66%",
+            "url": "",
+            "ttl_font": 40,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 20,
+            "detail_font_l": 3,
+            "detail_font_m": 14,
+            "text-align": "tl",
+            "text_pos": "text_tl f-ais-md f-jcs-md",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 7,
+            "box-width": 50,
+            "box-pad": "big"
+          }
+        },
+        "ae13453e-bccd-4216-adde-b0a06703d6d1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-lipstic.jpg",
+            "collection": "",
+            "title": "LONG LASTING <b style=\"font-size:140%\">LIPSTICK<\/b>",
+            "detail": "Best quality soft matte finish light on lips",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 22,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 3,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "text_bl f-aie f-jcs",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 7,
+            "box-width": 70,
+            "box-pad": "small"
+          }
+        },
+        "6f18385e-82ac-4130-bf2e-a1edcef0595e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-bath.jpg",
+            "collection": "",
+            "title": "<b>BATHING ESSENTIALS<\/b>",
+            "detail": "Feel beautiful, stay natural, Stay cosmyra",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 32,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 16,
+            "detail_font_l": 3,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        },
+        "c4996cdf-733c-472a-b7ea-f97149c997c6": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-brush.jpg",
+            "collection": "",
+            "title": "<b>FLAWLESS COVERAGE<\/b>",
+            "detail": "With our premium line of makeup brushes",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 26,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 14,
+            "detail_font_l": 2,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "text_bl f-aie f-jcs",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 75,
+            "box-pad": "small"
+          }
+        },
+        "279845c3-d11c-4e38-bd3f-63ebd0495235": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-eyes.jpg",
+            "collection": "",
+            "title": "<b>INSTANT SHADOW<\/b>",
+            "detail": "for your eyes in a minute",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 24,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 15,
+            "detail_font_l": 3,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "text_br f-jce f-aie",
+            "box_txt": "#f9f9f9",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 50,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "16309168620a28d493-0",
+        "16309168620a28d493-1",
+        "59d0e23b-7cf6-4d46-828d-fe742962fe29",
+        "ae13453e-bccd-4216-adde-b0a06703d6d1",
+        "6f18385e-82ac-4130-bf2e-a1edcef0595e",
+        "c4996cdf-733c-472a-b7ea-f97149c997c6",
+        "279845c3-d11c-4e38-bd3f-63ebd0495235"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "rgba(0,0,0,0)",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 10,
+        "grid-spacing-mbl": 6,
+        "grid-spacing-col": 3,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 10,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "1631969213ffe88dab": {
+      "type": "store-features",
+      "blocks": {
+        "1631969213ffe88dab-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "<b>Free shipping & return<\/b>",
+            "text": "Free shipping on orders over $99 & free return",
+            "texturl": ""
+          }
+        },
+        "1631969213ffe88dab-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-shield",
+            "title": "<b>Quality Guarantee<\/b>",
+            "text": "Quality guarantee is an assurance of satisfaction",
+            "texturl": ""
+          }
+        },
+        "e428959c-9cc9-484a-a95b-19a6020f21ef": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-like",
+            "title": "<b>100% Secure Payment<\/b>",
+            "text": "We ensure give multiple & securepayment option !",
+            "texturl": ""
+          }
+        },
+        "1631969213ffe88dab-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "<b>Customer support 24\/7<\/b>",
+            "text": "Instant access to perfect fast support 24\/7",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1631969213ffe88dab-0",
+        "1631969213ffe88dab-1",
+        "e428959c-9cc9-484a-a95b-19a6020f21ef",
+        "1631969213ffe88dab-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl2",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h4",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#444444",
+        "icons_clr": "#e79cd9",
+        "icons_bg_clr": "#e79cd9"
+      }
+    },
+    "16319753679e26cc54": {
+      "type": "info-banner-col2",
+      "blocks": {
+        "16319753679e26cc54-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-about.jpg",
+            "layout": "right",
+            "title": "Optimal International Beauty Products",
+            "text": "<p>Established with enviable concept to offer exceptional levels of support and guidance. Following traditional and International teaching methods with unique protocols students not only achieve professional qualifications but also benefit with impressive and rewarding career.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "text_align": "tl",
+            "text_clr": "#444444",
+            "text_bg_clr": "#ffffff",
+            "button_bg_clr": "#e79cd9",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "16319753679e26cc54-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_carousel": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee"
+      }
+    },
+    "1631969610de12bddf": {
+      "type": "masonry-banner",
+      "blocks": {
+        "1631969610de12bddf-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-cat1.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">All GLAM NO HARM<\/span>",
+            "detail": "",
+            "detail_hide": true,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#444444",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "1631969610de12bddf-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-cat2.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">EVERYDAY MASCARA<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#444444",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "48ecb46f-cc1c-4694-bc2d-934506c2eff4": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-cat3.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\"> CILICON FREE SERUM<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#444444",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "200b5a52-6a40-456d-bda1-63020ce0345c": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-cat4.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">GLOSSY & MATTE NAIL POLISH<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#444444",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "d7bd23b3-9b5d-4c41-9fbb-1845fe768f41": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-cat5.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">ATTRACTIVE MATTE SHADES<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#444444",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "79e18688-d570-4d5c-9378-4514958a71b1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-cat6.jpg",
+            "collection": "",
+            "title": "<span class=\"fwsb\">COMPACT POWDER WITH SPF<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 16,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#444444",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "1631969610de12bddf-0",
+        "1631969610de12bddf-1",
+        "48ecb46f-cc1c-4694-bc2d-934506c2eff4",
+        "200b5a52-6a40-456d-bda1-63020ce0345c",
+        "d7bd23b3-9b5d-4c41-9fbb-1845fe768f41",
+        "79e18688-d570-4d5c-9378-4514958a71b1"
+      ],
+      "settings": {
+        "title": "Shop By Categories",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 3,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 10,
+        "btn-mrm": 10,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "1631970751cd67998d": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Programs We Offer",
+        "subtitle": "Teach students with International cosmetic brands.<br>Established with enviable concept to offer exceptional levels of support and guidance.",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "blog": "news",
+        "img_ratio": "50",
+        "post_limit": 4,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_align": "tl",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "show_comment": false,
+        "show_mini_des": true,
+        "show_read_more": true,
+        "show_link": true,
+        "show_view_all": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small"
+      }
+    },
+    "16312524061820dd75": {
+      "type": "logo-bar",
+      "blocks": {
+        "16312524061820dd75-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": ""
+          }
+        },
+        "16312524061820dd75-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/belle.jpg",
+            "link": ""
+          }
+        },
+        "16312524061820dd75-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": ""
+          }
+        },
+        "16312524061820dd75-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": ""
+          }
+        },
+        "16312524061820dd75-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": ""
+          }
+        },
+        "36e4ff76-90ea-43e4-ba51-9c78c08e9010": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm2-logo.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16312524061820dd75-0",
+        "16312524061820dd75-1",
+        "16312524061820dd75-2",
+        "16312524061820dd75-4",
+        "16312524061820dd75-5",
+        "36e4ff76-90ea-43e4-ba51-9c78c08e9010"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "Ours Brands",
+        "subtitle": "",
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#eeeeee"
+      }
+    },
+    "16319773688c2375bd": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Subscribe to our newsletter",
+        "subtitle": "Sign up to stay in the loop. Receive updates, access to exclusive deals, and more.",
+        "top-offeset": "default",
+        "section_width": false,
+        "sec_bg_clr": "#ffffff",
+        "image": "shopify:\/\/shop_images\/dm10-newsbg.jpg",
+        "style": "style1",
+        "hd_fs": 35,
+        "hd_ls": 2,
+        "hd_fs_m": 15,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "text_clr": "#000000",
+        "input_bg": "#ffffff",
+        "input_text": "#000000",
+        "input_btn": "#e79cd9",
+        "input_btn_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "16309168625aa738f7",
+    "1631969213ffe88dab",
+    "16319753679e26cc54",
+    "1631969610de12bddf",
+    "1631970751cd67998d",
+    "16312524061820dd75",
+    "16319773688c2375bd"
+  ]
+}

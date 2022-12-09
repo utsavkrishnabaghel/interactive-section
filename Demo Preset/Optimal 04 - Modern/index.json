@@ -1,0 +1,407 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm3-bnr2.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#000000",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "Women Optimal<br>\nFashion Central",
+            "hd2_cl": "#000000",
+            "hd2_fs": 54,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 20,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 10,
+            "ss_hd3": "Love it, Feel it, Enjoy it",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 22,
+            "hd3_lh": 1.3,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Shop Collection",
+            "link": "shopify:\/\/collections\/women",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1300,
+            "text-left": true,
+            "text_align": "f-jce-md f-aic-md",
+            "text_align_m": "f-jce f-aic",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        },
+        "685853bc-32d5-40dd-b9a0-3045427df725": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm3-bnr1.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "Special Offer",
+            "hd1_cl": "#000000",
+            "hd1_fs": 22,
+            "hd1_ls": 3,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "Final Clearance<br>\nUp to 70% Off",
+            "hd2_cl": "#000000",
+            "hd2_fs": 54,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 30,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 10,
+            "ss_hd3": "",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 16,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Women Tops",
+            "link": "shopify:\/\/collections\/women-tops",
+            "display_btn": true,
+            "slide_button_text_2": "Women Bottoms",
+            "link2": "shopify:\/\/collections\/women",
+            "btn-style": "btn1",
+            "btn-size": "btn-large",
+            "con_width": 1300,
+            "text-left": true,
+            "text_align": "f-aic-md f-jcs-md",
+            "text_align_m": "f-aic f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "162737939390f2c1c2-2",
+        "685853bc-32d5-40dd-b9a0-3045427df725"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1600,
+        "ds_height": 700,
+        "tb_height": 450,
+        "mb_height": 260,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#adbcc7",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": false,
+        "animation-style": "st1"
+      }
+    },
+    "16310749330db167f9": {
+      "type": "store-features",
+      "blocks": {
+        "16310749330db167f9-0": {
+
+          "type": "text_block",
+          "settings": {
+            "icons": "at-free-delivery",
+            "title": "FREE SHIPPING & RETURN",
+            "text": "Free shipping on all US orders",
+            "texturl": ""
+          }
+        },
+        "16310749330db167f9-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-shield",
+            "title": "SECURE PAYMENT",
+            "text": "All payment are Secured and trusted.",
+            "texturl": ""
+          }
+        },
+        "16310749330db167f9-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-dollar",
+            "title": "MONEY GUARANTEE",
+            "text": "30 days money back guarantee",
+            "texturl": ""
+          }
+        },
+        "8528afe9-5e10-403b-897c-a8dbf4b8c439": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-chat",
+            "title": "HAVE A QUESTIONS?",
+            "text": "our technical will help you",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "16310749330db167f9-0",
+        "16310749330db167f9-1",
+        "16310749330db167f9-2",
+        "8528afe9-5e10-403b-897c-a8dbf4b8c439"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl3",
+        "icon-type": "icon",
+        "iconsize": 28,
+        "ttlsize": "h6",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "section_cov": true,
+        "sec_bg_clr": "#f9f9f9",
+        "text_clr": "#222222",
+        "icons_clr": "#5aa2de",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "1631029373125f3dd3": {
+      "type": "collection-tab",
+      "blocks": {
+        "1631029373c07dcddf-0": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Women",
+            "collection": "women",
+            "btntext": "VIEW ALL"
+          }
+        },
+        "1631029373c07dcddf-1": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Mens",
+            "collection": "men",
+            "btntext": "VIEW ALL"
+          }
+        },
+        "1631029373c07dcddf-2": {
+          "type": "featured_collection_tabs",
+          "settings": {
+            "title": "Accessories",
+            "collection": "accessories",
+            "btntext": "VIEW ALL"
+          }
+        }
+      },
+      "block_order": [
+        "1631029373c07dcddf-0",
+        "1631029373c07dcddf-1",
+        "1631029373c07dcddf-2"
+      ],
+      "settings": {
+        "title": "Editor's Pick",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "tab-style": "stl3",
+        "pr_carousel": true,
+        "prbox_style": "grid_5",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "vrimage",
+        "v_f_bg_position": "50% 50%",
+        "color_size": "large",
+        "color_style": "rectangle",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5"
+      }
+    },
+    "1631030382e3bbfcda": {
+      "type": "info-banner-col4",
+      "blocks": {
+        "1631030382e1e521f6-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm3-sm-1.jpg",
+            "layout": "left",
+            "title": "New Arrivals Weekly",
+            "text": "<p>We release NEW items every single week! Shop our latest release full of on-trend and affordable new styles under $99<\/p>",
+            "button_label": "Shop Now",
+            "button_link": "\/",
+            "text_align": "tl",
+            "text_clr": "#ffffff",
+            "text_bg_clr": "#6878be",
+            "button_bg_clr": "#495798",
+            "button_bdr_clr": "#495798",
+            "button_text_clr": "#ffffff",
+            "image2": "shopify:\/\/shop_images\/dm3-sm-2.jpg",
+            "layout2": "left",
+            "title2": "The Finishing Touch",
+            "text2": "<p>We have the perfect jewelry, scarves, hats and more at an affordable price! Take your look to the next level with our on-trend new  accessories!<\/p>",
+            "button_label2": "Shop Now",
+            "button_link2": "\/",
+            "text_align2": "tl",
+            "text_clr2": "#ffffff",
+            "text_bg_clr2": "#f09984",
+            "button_bg_clr2": "#db7a63",
+            "button_bdr_clr2": "#db7a63",
+            "button_text_clr2": "#ffffff"
+          }
+        },
+        "1436fcee-a4df-479f-ac4f-ad5692c1f336": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm3-sm-3.jpg",
+            "layout": "right",
+            "title": "The Handsome Look",
+            "text": "<p>Invest in timeless pieces for your wardrobe, to enjoy time and time again<\/p>",
+            "button_label": "Shop Now",
+            "button_link": "\/",
+            "text_align": "tl",
+            "text_clr": "#ffffff",
+            "text_bg_clr": "#d4ae7a",
+            "button_bg_clr": "#bca17b",
+            "button_bdr_clr": "rgba(0,0,0,0)",
+            "button_text_clr": "#ffffff",
+            "image2": "shopify:\/\/shop_images\/dm3-sm-4.jpg",
+            "layout2": "right",
+            "title2": "Spring Summer New Arrival",
+            "text2": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post.<\/p>",
+            "button_label2": "Shop Now",
+            "button_link2": "\/",
+            "text_align2": "tl",
+            "text_clr2": "#ffffff",
+            "text_bg_clr2": "#5dcac4",
+            "button_bg_clr2": "#50b4af",
+            "button_bdr_clr2": "rgba(0,0,0,0)",
+            "button_text_clr2": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1631030382e1e521f6-0",
+        "1436fcee-a4df-479f-ac4f-ad5692c1f336"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "btn-size": "btn-small"
+      }
+    },
+    "1631031070c0593603": {
+      "type": "video",
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "fullwidth": false,
+        "video_style": "videopp",
+        "videposter": "shopify:\/\/shop_images\/dm3-video.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=FUz4B4eYa90",
+        "mp4url": "",
+        "enable_cntrl": false,
+        "is_autoplay": false,
+        "enable_sound": false,
+        "title": "<b>VIDEO ENCOURAGE CUSTOMERS TO PURCHASE MORE<\/b>",
+        "hide_text": false,
+        "hd_fs": 20,
+        "hd_ls": 2,
+        "hd_fs_m": 15,
+        "text_cl": "#ffffff",
+        "text-align": false,
+        "text_align": "bcenter",
+        "btntxt": "Shop Now",
+        "btnurl": "\/",
+        "hide_btn": true
+      }
+    },
+    "16310319933bf2d8af": {
+      "type": "richtext",
+      "settings": {
+        "fullwidth": false,
+        "top-offeset": "small",
+        "align_left": false,
+        "title": "<span class=\"fwsb\">Optimal High Converting Multipurpose Shopify  Theme<\/span>",
+        "font-size": "h2",
+        "richtxt": "<p>Optimal is an online fashion store for taste-makers and trend-breakers all over the country. When it comes to online shopping for women looking for the latest fashion trends, Optimal is the one-stop destination. Started in 2012, this online fashion store comprises of the trendiest tops,  jackets, shoes, bags, accessories and fashion jewelry for women online shopping. Every new season brings fresh and latest fashion for women.  However, Optimal has all your styling stress succeed!<\/p><p><\/p>",
+        "btntxt": "",
+        "btnurl": "",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "max-width": 70,
+        "sec_bg_clr": "rgba(0,0,0,0)",
+        "text_clr": "#111111"
+      }
+    },
+    "16310784273c1b0837": {
+      "type": "instagram",
+      "settings": {
+        "instagram_title": "",
+        "instagram_des": "<spn class=\"fwsb\">Follow Us <a href=\"https:\/\/www.instagram.com\/optimalshopify\/\" target=\"_blank\"><u>@optimalshopify<\/u><\/a><\/spn>",
+        "top-offeset": "none",
+        "section_width": false,
+        "act": "IGQVJWb0xaMWVwdkJXTkRYX251SmlqVTJZATTFGNGMzSU1tcENDaERjTUJjY0F1TklqSHQxUTBmeEJoVE1QSkoxNi1VaFp0VWN1bzFCLVpYWVpiQUljdFk5V3FvNTZApVWE4NWNMNjRNOFVoU3lwbC01OQZDZD",
+        "instastyle": "list",
+        "grid_space": true,
+        "limit": 10,
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 5,
+        "instagram_button_text": "View Gallery",
+        "instagram_button_link": ""
+      }
+    },
+    "1631079028777d66ad": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "default"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16310749330db167f9",
+    "1631029373125f3dd3",
+    "1631030382e3bbfcda",
+    "1631031070c0593603",
+    "16310319933bf2d8af",
+    "16310784273c1b0837",
+    "1631079028777d66ad"
+  ]
+}

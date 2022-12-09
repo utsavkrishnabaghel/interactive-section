@@ -1,0 +1,776 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "84ef5222-320d-461c-93cb-13b632a0b6b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BOOKS.jpg",
+            "alignment": "center",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "BEST SELLER BOOKS",
+            "hd1_cl": "#196388",
+            "hd1_fs": 12,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "<b>Read and Rise!<\/b>",
+            "hd2_cl": "#000000",
+            "hd2_fs": 40,
+            "hd2_lh": 1.1,
+            "hd2_ls": 0,
+            "hd2_mb": 14,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 5,
+            "ss_hd3": "Books are the quietest and most constant of friends; <br>they are the most accessible and wisest of counselors",
+            "ss_hd3_hide": false,
+            "hd3_cl": "#000000",
+            "hd3_fs": 16,
+            "hd3_lh": 1.5,
+            "hd3_ls": 2,
+            "hd3_mb": 24,
+            "hd3_fs_m": 13,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP MEN",
+            "link": "shopify:\/\/collections\/shoes",
+            "display_btn": false,
+            "slide_button_text_2": "SHOP WOMEN",
+            "link2": "shopify:\/\/collections\/shoes",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-aic-md f-jcs-md",
+            "text_align_m": "f-aic f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        },
+        "c2a8f1a2-62eb-4a94-8c0a-2512bad17946": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BOOK2.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "CLASSIC SALE!",
+            "hd1_cl": "#000000",
+            "hd1_fs": 13,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "Great Deals on Books",
+            "hd2_cl": "#000000",
+            "hd2_fs": 40,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 15,
+            "ss_hd3": "FLAT 40% on bestsellers",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#000000",
+            "hd3_fs": 18,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Shop now",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-aic-md f-jcs-md",
+            "text_align_m": "f-aic f-jcs",
+            "cap_ol": true,
+            "cap_ol_mb": true,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        }
+      },
+      "block_order": [
+        "84ef5222-320d-461c-93cb-13b632a0b6b9",
+        "c2a8f1a2-62eb-4a94-8c0a-2512bad17946"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 500,
+        "tb_height": 500,
+        "mb_height": 340,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": true,
+        "dots_m": true,
+        "ss_dot": "#196388",
+        "txtanimation": true,
+        "animation-style": "st3"
+      }
+    },
+    "1659519958323b07b2": {
+      "type": "products-rows",
+      "settings": {
+        "title": "Current Bestsellers",
+        "subtitle": "Find the world famous\nbestsellers and the books of unknown authors.",
+        "collection": "book",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "Shop All",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "10"
+      }
+    },
+    "16597882152fb81fec": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16597882151d499c1e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fiction.jpg",
+            "collection": "book",
+            "title": "<span class=\"fwsb\"><\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Fiction & Literature",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 6,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "c38a48b3-75b7-4f99-9b45-ef8dd864e391": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/adventure.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Adventurous",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 6,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "80e18f36-2820-42e0-8eb2-88d59767222e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/art.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Art & Design",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "16597882151d499c1e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/religion_5d49d955-ea22-4401-9645-0216d1ce821f.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Religion & Mythology",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 6,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "6db42bdf-169c-4595-bef1-209db7a9bf27": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/business_f5773fa1-e5bf-4f04-87db-58e7f58ac8b2.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Business",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "a2161563-a953-4b67-b515-d5d2b78b7c2a": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/children.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Children",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "81bebab7-4c2a-4366-b657-f35f6acbdf52": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/romance.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Romance",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "eb80f7de-16db-4d80-9167-7bc20ffaaf84": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mystery_40653d20-cbe8-49b7-ad8c-4ae884ccbb61.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Mystery",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 50,
+            "box-pad": "big"
+          }
+        },
+        "a2d8fa39-0d4f-44b6-9b84-3d7615f1094a": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fitness.jpg",
+            "collection": "",
+            "title": "",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "Fitness",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc f-aie",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "16597882151d499c1e-0",
+        "c38a48b3-75b7-4f99-9b45-ef8dd864e391",
+        "80e18f36-2820-42e0-8eb2-88d59767222e",
+        "16597882151d499c1e-1",
+        "6db42bdf-169c-4595-bef1-209db7a9bf27",
+        "a2161563-a953-4b67-b515-d5d2b78b7c2a",
+        "81bebab7-4c2a-4366-b657-f35f6acbdf52",
+        "eb80f7de-16db-4d80-9167-7bc20ffaaf84",
+        "a2d8fa39-0d4f-44b6-9b84-3d7615f1094a"
+      ],
+      "settings": {
+        "title": "Popular Categories",
+        "subtitle": "What Others Are Reading",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 5,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "btn-style": "btn3",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 18,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "1659610336e2e1ff56": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 250,
+        "tb_height": 250,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/herobg.jpg",
+        "alignment": "center",
+        "parallax_scroll": false,
+        "hero_hd1": "",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 13,
+        "title": "We have more than 50,000 titles<br> to choose from",
+        "hd2_fs": 34,
+        "hd2_lh": 1.2,
+        "hd2_ls": 2,
+        "hd2_mb": 20,
+        "hd2_fs_m": 18,
+        "hd2_mb_m": 20,
+        "hero_hd3": "",
+        "hero_hd3_hide": true,
+        "hd3_fs": 14,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 25,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 20,
+        "button_label": "Explore Now",
+        "button_link": "shopify:\/\/collections\/book",
+        "ol_link": false,
+        "btn-style": "bdr-btn2",
+        "btn-size": "btn-med",
+        "con_width": 80,
+        "text-align": true,
+        "text_align": "f-jce-md f-aic-md",
+        "text_align_m": "f-jce f-aic",
+        "hero_bg": false,
+        "bg_clr": "#ffffff",
+        "bg_opacity": 0.9,
+        "txt_clr": "#ffffff",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000",
+        "b_rad": 0
+      }
+    },
+    "1659520990beba67ef": {
+      "type": "logo-bar",
+      "blocks": {
+        "1659520990fad33150-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo3.png",
+            "link": "shopify:\/\/collections\/book"
+          }
+        },
+        "1659520990fad33150-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo5.png",
+            "link": "shopify:\/\/collections\/book"
+          }
+        },
+        "1659520990fad33150-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo4.png",
+            "link": "shopify:\/\/collections\/book"
+          }
+        },
+        "1659520990fad33150-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo2.png",
+            "link": "shopify:\/\/collections\/book"
+          }
+        },
+        "1659520990fad33150-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.jpg",
+            "link": "shopify:\/\/collections\/book"
+          }
+        },
+        "3409d2e0-07c7-455e-8065-86e615a7afa8": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo1.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659520990fad33150-0",
+        "1659520990fad33150-1",
+        "1659520990fad33150-2",
+        "1659520990fad33150-3",
+        "1659520990fad33150-4",
+        "3409d2e0-07c7-455e-8065-86e615a7afa8"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "Shop By Author",
+        "subtitle": "",
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#eeeeee"
+      }
+    },
+    "1659616994d5d158fb": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Featured Staff Picks",
+        "subtitle": "Intentionally designed. Ethically made. Fairly priced.",
+        "collection": "best-rated-book",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 50%",
+        "color_size": "medium",
+        "color_style": "rectangle",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-shield",
+            "title": "<span class=\"fwsb\">Genuine Books <\/span>",
+            "text": "Strictly anti-piracy",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-check-cil",
+            "title": "<span class=\"fwsb\">Quality Checks <\/span>",
+            "text": "No quality compromise",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-cube",
+            "title": "<span class=\"fwsb\"> Careful Packaging <\/span>",
+            "text": "Books arrive safely",
+            "texturl": "#"
+          }
+        },
+        "2565eee8-e9e0-4b4a-b163-0658dee62a89": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-handshake-l",
+            "title": "<b> 100% Satisfaction <\/b>",
+            "text": "We care for you",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2",
+        "2565eee8-e9e0-4b4a-b163-0658dee62a89"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "Why Books From Optimal Shop?",
+        "subtitle": "",
+        "style": "stl1",
+        "icon-type": "icon",
+        "iconsize": 30,
+        "ttlsize": "h3",
+        "tb_pad": 5,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#222222",
+        "icons_clr": "#e99114",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "1659520713ca3c8191": {
+      "type": "quotes",
+      "blocks": {
+        "16595207131fab06a6-0": {
+          "type": "quote",
+          "settings": {
+            "title": "<span class=\"fwsb\">Customizability<\/span>",
+            "quote": "<p>Amazing theme with offers great range of customizability. Adorn Themes combine this with excellent support. Would highly recommend this theme to every other online shop!<\/p>",
+            "author": "<b> Viktor<\/b><br><span>Front End Developer<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "16595207131fab06a6-1": {
+          "type": "quote",
+          "settings": {
+            "title": "<span class=\"fwsb\">Design Quality<\/span>",
+            "quote": "<p>Super nice theme ! I'm really happy with it. The theme has a very clean look, simple and yet set-up and customization are also quite easy and straightforward. Easy to work with and it has almost all features you need!<\/p>",
+            "author": "<b>katigordon<\/b><br>\n<span>UI Developer<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "16595207131fab06a6-2": {
+          "type": "quote",
+          "settings": {
+            "title": "<span class=\"fwsb\"> Code Quality<\/span>",
+            "quote": "<p>Thanks a lot for a great job of the Adornthemes team. In Digismoothie we really love your themes and use them almost every day. It is really helping us and our clients to get great results on Shopify. Thanks a lot!<\/p>",
+            "author": "<b>Tompds <\/b><br><span>Front End Developer<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "e921725d-4d1e-4279-ac83-85e783e9552d": {
+          "type": "quote",
+          "settings": {
+            "title": "<span class=\"fwsb\">Design Quality<\/span>",
+            "quote": "<p>Super nice theme ! I'm really happy with it. The theme has a very clean look, simple and yet set-up and customization are also quite easy and straightforward. Easy to work with and it has almost all features you need!<\/p>",
+            "author": "<b>Author's name<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "16595207131fab06a6-0",
+        "16595207131fab06a6-1",
+        "16595207131fab06a6-2",
+        "e921725d-4d1e-4279-ac83-85e783e9552d"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "quote_style": "quote3",
+        "testimonials_bg": "#fafafa",
+        "title": "5000+ Outstanding Customer Reviews  <br><br>",
+        "section_ttl": "#111111",
+        "testimonials_text": "#444444",
+        "box_bg": "#ffffff",
+        "rating_clr": "#ebb868",
+        "qt_fs": 16,
+        "qt_lh": 6,
+        "q_fs": 14,
+        "q_lh": 6,
+        "star_size": 14,
+        "box_shadow": true,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": false,
+        "q_dot": "#eeeeee",
+        "q_dot_a": "#111111"
+      }
+    },
+    "1660996454959ea818": {
+      "type": "newsletter",
+      "settings": {
+        "title": "Subscribe to our Newsletter",
+        "subtitle": "Be the first to know about new collections and exclusive offers. <br>We promise never to spam you or share your details.",
+        "top-offeset": "none",
+        "section_width": true,
+        "sec_bg_clr": "#ffffff",
+        "image": "shopify:\/\/shop_images\/booknews.png",
+        "style": "style3",
+        "hd_fs": 25,
+        "hd_ls": 2,
+        "hd_fs_m": 18,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "text_clr": "#000",
+        "input_bg": "#fff",
+        "input_text": "#000",
+        "input_btn": "#196388",
+        "input_btn_text": "#fff"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "1659519958323b07b2",
+    "16597882152fb81fec",
+    "1659610336e2e1ff56",
+    "1659520990beba67ef",
+    "1659616994d5d158fb",
+    "16293765224638d033",
+    "1659520713ca3c8191",
+    "1660996454959ea818"
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "fa135255-332c-434e-8956-24f0b06aba8d": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "mp4url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0585\/3066\/0547\/files\/banne-r.mp4?v=1637252144",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#000000",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "Thoughtful Designs, <br>Responsible Craftsmanship",
+            "hd2_cl": "#f5f5f5",
+            "hd2_fs": 63,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 10,
+            "ss_hd3": "Exceptional quality, ethically sourced, and mindfully made.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#f5f5f5",
+            "hd3_fs": 18,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/jewelry",
+            "display_btn": false,
+            "slide_button_text_2": "SHOP NOW",
+            "link2": "",
+            "btn-style": "bdr-btn2",
+            "btn-size": "btn-large",
+            "con_width": 1200,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aie-md",
+            "text_align_m": "f-jcc f-aie",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.9
+          }
+        }
+      },
+      "block_order": [
+        "fa135255-332c-434e-8956-24f0b06aba8d"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 800,
+        "tb_height": 600,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st3"
+      }
+    },
+    "1637321210ed72b1f9": {
+      "type": "store-features",
+      "blocks": {
+        "1637321210e95c72a4-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/round.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">ROUND<\/span>",
+            "texturl": "\/"
+          }
+        },
+        "1637321210e95c72a4-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heart.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">HEART<\/span>",
+            "texturl": "\/"
+          }
+        },
+        "1637321210e95c72a4-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/emerald.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">EMERALD<\/span>",
+            "texturl": "\/"
+          }
+        },
+        "1637321210e95c72a4-3": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ovel.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">OVAL<\/span>",
+            "texturl": "\/"
+          }
+        },
+        "4f0a56f0-1ff3-4bd4-87b6-641a22eea60a": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pear.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">PEAR<\/span>",
+            "texturl": "\/"
+          }
+        },
+        "b987abca-3231-4630-8b18-4e0e7ffb4795": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/radiant.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">RADIANT<\/span>",
+            "texturl": "\/"
+          }
+        },
+        "0ab4b27c-bcfe-4342-9e7f-5ba68ab015e1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRINCESS.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">PRINCESS<\/span>",
+            "texturl": ""
+          }
+        },
+        "8f3ffd3f-14bb-4d39-9bfa-6e24c2a7844d": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cusion.jpg",
+            "icons": "at-truck-l",
+            "title": "",
+            "text": "<span class=\"fwsb\">CUSHION<\/span>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1637321210e95c72a4-0",
+        "1637321210e95c72a4-1",
+        "1637321210e95c72a4-2",
+        "1637321210e95c72a4-3",
+        "4f0a56f0-1ff3-4bd4-87b6-641a22eea60a",
+        "b987abca-3231-4630-8b18-4e0e7ffb4795",
+        "0ab4b27c-bcfe-4342-9e7f-5ba68ab015e1",
+        "8f3ffd3f-14bb-4d39-9bfa-6e24c2a7844d"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "Shop Diamonds by Shape",
+        "subtitle": "",
+        "style": "stl1",
+        "icon-type": "image",
+        "iconsize": 45,
+        "ttlsize": "h4",
+        "tb_pad": 5,
+        "grid": 8,
+        "tablet-grid": 4,
+        "mobile-grid": 3,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#111111",
+        "icons_clr": "#a9a9a9",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "1634102971f2a79b40": {
+      "type": "up-to-4columns",
+      "blocks": {
+        "1634102971f2a79b40-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm17-1.jpg",
+            "title": "<span class=\"fwsb\">Starlet Collection<\/span>",
+            "text": "Introducing our first teen collection",
+            "button_label": "",
+            "button_link": "\/"
+          }
+        },
+        "1634102971f2a79b40-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm17-2.jpg",
+            "title": "<span class=\"fwsb\">Platinum Jewellery<\/span>",
+            "text": "Mark of pure love",
+            "button_label": "",
+            "button_link": "\/"
+          }
+        },
+        "1634102971f2a79b40-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm17-3.jpg",
+            "title": "<span class=\"fwsb\">Gold Jewellery<\/span>",
+            "text": "The lure of beauty",
+            "button_label": "",
+            "button_link": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "1634102971f2a79b40-0",
+        "1634102971f2a79b40-1",
+        "1634102971f2a79b40-2"
+      ],
+      "settings": {
+        "title": "Featured Collections",
+        "subtitle": "Let's take a glimpse of our trending collections before diving in! <br>\n<br> -----",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "align_text": "tc",
+        "hd_fs": 23,
+        "hd_ls": 0,
+        "hd_fs_m": 20,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "set_text_bg": false,
+        "text_bg": "#ffffff",
+        "text_c": "#212121",
+        "btn-style": "btn1",
+        "btn-size": "btn-med"
+      }
+    },
+    "16306709888511676a": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Trending Now",
+        "subtitle": "Discover Our\nPopular Designs <br>\n<br> -----",
+        "collection": "jewelry",
+        "top-offeset": "small",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_6",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1637317512bc00cc26": {
+      "type": "info-banner-features",
+      "blocks": {
+        "163731751279de97a9-0": {
+          "type": "feature",
+          "settings": {
+            "icons": "at-star-o",
+            "title": "<h2 class=\"mb0\"><b>High Quality<\/b><\/h2>",
+            "text": "We're committed to our purpose, product quality, and<br> creating designs that fit your bold, beautiful life. <br><br>"
+          }
+        },
+        "163731751279de97a9-1": {
+          "type": "feature",
+          "settings": {
+            "icons": "at-calendar",
+            "title": "<h2 class=\"mb0\"><b>Everyday Ready<\/b><\/h2>",
+            "text": "Light, hassle free and easy to wear pieces that you can<br> wear daily, live in and also keep forever! <br><br>"
+          }
+        },
+        "163731751279de97a9-2": {
+          "type": "feature",
+          "settings": {
+            "icons": "at-pencil-l",
+            "title": "<h2 class=\"mb0\"><b>Classic Design<\/b><\/h2>",
+            "text": "Every piece is designed with simplicity to ensure <br>a classic, minimalist and contemporary feel."
+          }
+        }
+      },
+      "block_order": [
+        "163731751279de97a9-0",
+        "163731751279de97a9-1",
+        "163731751279de97a9-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "rgba(0,0,0,0)",
+        "image": "shopify:\/\/shop_images\/dm17-large.jpg",
+        "layout": "left",
+        "title": "",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "text_align": "tl",
+        "style": "stl2",
+        "icon-type": "icon",
+        "iconsize": 30,
+        "grid": 1,
+        "tablet-grid": 1,
+        "mobile-grid": 1,
+        "text_bg_clr": "#fafaf4",
+        "text_clr": "#222222",
+        "icons_clr": "#555555",
+        "icons_bg_clr": "#111111",
+        "button_bg_clr": "#000000",
+        "button_text_clr": "#ffffff",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15
+      }
+    },
+    "163731147498f26f4c": {
+      "type": "up-to-4columns",
+      "blocks": {
+        "163731147409230170-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm17-5.jpg",
+            "title": "<span class=\"fwsb\">Gift For Her<\/span>",
+            "text": "Each piece, made with love and care",
+            "button_label": "SHOP NOW",
+            "button_link": "\/"
+          }
+        },
+        "163731147409230170-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/dm17-4.jpg",
+            "title": "<span class=\"fwsb\">Gift For Him<\/span>",
+            "text": "Something you'll love to browse!",
+            "button_label": "SHOP NOW",
+            "button_link": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "163731147409230170-0",
+        "163731147409230170-1"
+      ],
+      "settings": {
+        "title": "Gifts & More",
+        "subtitle": "A little help while you shop for your special ones!<br>\n<br> -----",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "align_text": "tc",
+        "hd_fs": 23,
+        "hd_ls": 0,
+        "hd_fs_m": 20,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "set_text_bg": false,
+        "text_bg": "#ffffff",
+        "text_c": "#212121",
+        "btn-style": "bdr-btn1",
+        "btn-size": "btn-med"
+      }
+    },
+    "162928888955bae1ec": {
+      "type": "quotes",
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2",
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "quote_style": "quote3",
+        "testimonials_bg": "#f5f5f5",
+        "title": "Testimonials",
+        "section_ttl": "#333333",
+        "testimonials_text": "#666666",
+        "box_bg": "#ffffff",
+        "rating_clr": "#d48c72",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#ccc8c8",
+        "q_dot_a": "#111111"
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-worldwide",
+            "title": "Free shipping worldwide and <br> 30 days return policy",
+            "text": "",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-pay-security",
+            "title": "<p>30 days money back guarantee<br>If not satisfied<\/p>",
+            "text": "",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "a at-chat",
+            "title": "Book a virtual appointment <br>with a jewellery consultant",
+            "text": "",
+            "texturl": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl1",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h4",
+        "tb_pad": 3,
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#589d8e",
+        "text_clr": "#ffffff",
+        "icons_clr": "#ffffff",
+        "icons_bg_clr": "#111111"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "1637321210ed72b1f9",
+    "1634102971f2a79b40",
+    "16306709888511676a",
+    "1637317512bc00cc26",
+    "163731147498f26f4c",
+    "162928888955bae1ec",
+    "16293765224638d033"
+  ]
+}

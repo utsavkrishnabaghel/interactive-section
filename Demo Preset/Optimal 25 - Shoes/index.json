@@ -1,0 +1,557 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "84ef5222-320d-461c-93cb-13b632a0b6b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d25slide1.jpg",
+            "alignment": "center",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#000000",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "<b>Bold Color. Big Comfort.<\/b>",
+            "hd2_cl": "#000000",
+            "hd2_fs": 31,
+            "hd2_lh": 1.1,
+            "hd2_ls": 0,
+            "hd2_mb": 14,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 5,
+            "ss_hd3": "Runs faster. Costs less and never breaks.",
+            "ss_hd3_hide": false,
+            "hd3_cl": "#000000",
+            "hd3_fs": 15,
+            "hd3_lh": 1.3,
+            "hd3_ls": 2,
+            "hd3_mb": 24,
+            "hd3_fs_m": 13,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP MEN",
+            "link": "shopify:\/\/collections\/shoes",
+            "display_btn": true,
+            "slide_button_text_2": "SHOP WOMEN",
+            "link2": "shopify:\/\/collections\/shoes",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aie-md",
+            "text_align_m": "f-jcc f-aie",
+            "cap_ol": true,
+            "cap_ol_mb": true,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        }
+      },
+      "block_order": [
+        "84ef5222-320d-461c-93cb-13b632a0b6b9"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 850,
+        "tb_height": 500,
+        "mb_height": 340,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#222222",
+        "txtanimation": true,
+        "animation-style": "st3"
+      }
+    },
+    "16595159878eba1548": {
+      "type": "collection-list_home",
+      "blocks": {
+        "1659515987727ab0e5-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify:\/\/shop_images\/run.jpg",
+            "title": "",
+            "collection_btn": "Running",
+            "url": ""
+          }
+        },
+        "1659515987727ab0e5-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify:\/\/shop_images\/tenis2.jpg",
+            "title": "",
+            "collection_btn": "Tennis",
+            "url": ""
+          }
+        },
+        "1659515987727ab0e5-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify:\/\/shop_images\/traiing.jpg",
+            "title": "",
+            "collection_btn": "Training",
+            "url": ""
+          }
+        },
+        "1659515987727ab0e5-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify:\/\/shop_images\/walking.jpg",
+            "title": "",
+            "collection_btn": "Walking",
+            "url": ""
+          }
+        },
+        "2edbf3c6-9051-4cf1-9c54-c1d11490a099": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify:\/\/shop_images\/everyday.jpg",
+            "title": "",
+            "collection_btn": "Everyday Wear",
+            "url": ""
+          }
+        },
+        "9d766307-85f5-4d20-a9a9-a419dd29ffb8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify:\/\/shop_images\/hikinh.jpg",
+            "title": "",
+            "collection_btn": "Hiking",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659515987727ab0e5-0",
+        "1659515987727ab0e5-2",
+        "1659515987727ab0e5-1",
+        "1659515987727ab0e5-3",
+        "2edbf3c6-9051-4cf1-9c54-c1d11490a099",
+        "9d766307-85f5-4d20-a9a9-a419dd29ffb8"
+      ],
+      "settings": {
+        "title": "Shop by Activity",
+        "subtitle": "Intentionally designed. Ethically made. Fairly priced.",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "enable_carousel": false,
+        "grid-spacing": 10,
+        "grid-spacing-mbl": 10,
+        "style": "cl_box4",
+        "product_count": false,
+        "btn-style": "btn2",
+        "btn-size": "btn-med",
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#333333",
+        "collection_ttl_bg_hm": "rgba(0,0,0,0)",
+        "collection_ttl_bg_hm_responsive": "rgba(0,0,0,0)",
+        "tlleft": false,
+        "collection_ttl_opt_hm": 1,
+        "enable_zoom": true
+      }
+    },
+    "1659519958323b07b2": {
+      "type": "products-rows",
+      "settings": {
+        "title": "Top Rated",
+        "subtitle": "Intentionally designed. Ethically made. Fairly priced.",
+        "collection": "shoes",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_4",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "8"
+      }
+    },
+    "1659610336e2e1ff56": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 700,
+        "tb_height": 350,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/hero.jpg",
+        "alignment": "center",
+        "parallax_scroll": true,
+        "hero_hd1": "SELL MORE...",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 13,
+        "title": "Timeless &amp; Versatile",
+        "hd2_fs": 22,
+        "hd2_lh": 1.2,
+        "hd2_ls": 2,
+        "hd2_mb": 20,
+        "hd2_fs_m": 18,
+        "hd2_mb_m": 20,
+        "hero_hd3": "Light, breezy, and made with planet-friendly <br>eucalyptus, these  favorites will keep you<br> cool when the sun is shining.",
+        "hero_hd3_hide": true,
+        "hd3_fs": 14,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 25,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 20,
+        "button_label": "Shop Collection",
+        "button_link": "\/",
+        "ol_link": false,
+        "btn-style": "bdr-btn1",
+        "btn-size": "btn-med",
+        "con_width": 80,
+        "text-align": true,
+        "text_align": "f-ais-md f-jcs-md",
+        "text_align_m": "f-ais f-jcs",
+        "hero_bg": true,
+        "bg_clr": "#ffffff",
+        "bg_opacity": 0.9,
+        "txt_clr": "#000000",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000",
+        "b_rad": 0
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-thumbs-up-l",
+            "title": "<span class=\"fwsb\">The perfect pair.\nEvery time. <\/span>",
+            "text": "The boots that don’t complete your look only but they make it. Every pair has been designed with simplicity in mind, making them perfect for every style",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-check-cil",
+            "title": "<span class=\"fwsb\">Try them on, \nrisk-free. <\/span>",
+            "text": "We want you to love your first pair of Optimal boots. We offer free shipping and free exchanges until you find that perfect pair. And of course, returns are on us too.",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-tags-l",
+            "title": "<span class=\"fwsb\">Quality meets\ntimeless design.<\/span>",
+            "text": "Reliable boots that look good are hard to come by. We combine a timeless aesthetic with the best materials on earth to create boots that are designed to fit your style",
+            "texturl": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "Why choose us?",
+        "subtitle": "Our shoes are designed for all-day comfort, so you can wear them anywhere, any time. <br>Say hello to a leaner closet and that walking-on-clouds feeling you've always<br> dreamed of. Your feet will thank you. <br> <br>",
+        "style": "stl1",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h3",
+        "tb_pad": 5,
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#222222",
+        "icons_clr": "#222222",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "1659616994d5d158fb": {
+      "type": "product-slider",
+      "settings": {
+        "title": "Top Seller",
+        "subtitle": "Intentionally designed. Ethically made. Fairly priced.",
+        "collection": "top-seller-shoes",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_4",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 50%",
+        "color_size": "medium",
+        "color_style": "rectangle",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1659520990beba67ef": {
+      "type": "logo-bar",
+      "blocks": {
+        "1659520990fad33150-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo3.png",
+            "link": ""
+          }
+        },
+        "1659520990fad33150-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo5.png",
+            "link": ""
+          }
+        },
+        "1659520990fad33150-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo4.png",
+            "link": ""
+          }
+        },
+        "1659520990fad33150-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo2.png",
+            "link": ""
+          }
+        },
+        "1659520990fad33150-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.jpg",
+            "link": ""
+          }
+        },
+        "3409d2e0-07c7-455e-8065-86e615a7afa8": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/blogo1.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659520990fad33150-0",
+        "1659520990fad33150-1",
+        "1659520990fad33150-2",
+        "1659520990fad33150-3",
+        "1659520990fad33150-4",
+        "3409d2e0-07c7-455e-8065-86e615a7afa8"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "",
+        "subtitle": "",
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#eeeeee"
+      }
+    },
+    "1632299144110958a0": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "small"
+      }
+    },
+    "1659520713ca3c8191": {
+      "type": "quotes",
+      "blocks": {
+        "16595207131fab06a6-0": {
+          "type": "quote",
+          "settings": {
+            "title": "<span class=\"fwsb\">Customizability<\/span>",
+            "quote": "<p>Amazing theme with offers great range of customizability. Adorn Themes combine this with excellent support. Would highly recommend this theme to every other online shop!<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/tee.jpg",
+            "author": "<b> Viktor<\/b><br><span>Front End Developer<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "16595207131fab06a6-1": {
+          "type": "quote",
+          "settings": {
+            "title": "<span class=\"fwsb\">Design Quality<\/span>",
+            "quote": "<p>Super nice theme ! I'm really happy with it. The theme has a very clean look, simple and yet set-up and customization are also quite easy and straightforward. Easy to work with and it has almost all features you need!<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/author3_1.png",
+            "author": "<b>katigordon<\/b><br>\n<span>UI Developer<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "16595207131fab06a6-2": {
+          "type": "quote",
+          "settings": {
+            "title": "<span class=\"fwsb\"> Code Quality<\/span>",
+            "quote": "<p>Thanks a lot for a great job of the Adornthemes team. In Digismoothie we really love your themes and use them almost every day. It is really helping us and our clients to get great results on Shopify. Thanks a lot!<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/author1_1.png",
+            "author": "<b>Tompds <\/b><br><span>Front End Developer<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "16595207131fab06a6-0",
+        "16595207131fab06a6-1",
+        "16595207131fab06a6-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "quote_style": "quote2",
+        "testimonials_bg": "#fafafa",
+        "title": "Customers Reviews",
+        "section_ttl": "#111111",
+        "testimonials_text": "#444444",
+        "box_bg": "#ffffff",
+        "rating_clr": "#ebb868",
+        "qt_fs": 16,
+        "qt_lh": 6,
+        "q_fs": 14,
+        "q_lh": 6,
+        "star_size": 14,
+        "box_shadow": true,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": false,
+        "q_dot": "#eeeeee",
+        "q_dot_a": "#111111"
+      }
+    },
+    "1644655687011db820": {
+      "type": "promotion-bar_home",
+      "blocks": {
+        "164465568793a9b944-0": {
+          "type": "text_block",
+          "settings": {
+            "promo_txt": "Best Deals and Lowest Price on Top Brands : <b>Upto 50% Off on Regular Shoes<\/b> [button]",
+            "ann_date": "12\/20\/2022",
+            "promo_btn_tx": "Shop Now",
+            "promo_btn_mob": true,
+            "promo_link": "\/",
+            "promo_txt_cl": "#fafafa",
+            "promo_hl": "#fafafa",
+            "cnt_text": "#fafafa",
+            "promo_btn_clr": "#fafafa",
+            "promo_btn_tx_clr": "#222222",
+            "promo_bgcl": "#222222"
+          }
+        },
+        "a2149c4d-0b33-4e22-ad7c-7cc490ce4c83": {
+          "type": "text_block",
+          "settings": {
+            "promo_txt": "Best Deals and Lowest Price on Top Brands : <b>Upto 60% off on Trekking Shoes<\/b>",
+            "ann_date": "12\/20\/2021",
+            "promo_btn_tx": "Shop Now",
+            "promo_btn_mob": true,
+            "promo_link": "",
+            "promo_txt_cl": "#ffffff",
+            "promo_hl": "#050505",
+            "cnt_text": "#b05d5d",
+            "promo_btn_clr": "#333333",
+            "promo_btn_tx_clr": "#ffffff",
+            "promo_bgcl": "#ffe8e8",
+            "promotion_bg": "shopify:\/\/shop_images\/shoes.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "164465568793a9b944-0",
+        "a2149c4d-0b33-4e22-ad7c-7cc490ce4c83"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "promo_ht": 90,
+        "slideEf": "true",
+        "speed": 4,
+        "fontFm": "ft1",
+        "promo_fs": 20
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16595159878eba1548",
+    "1659519958323b07b2",
+    "1659610336e2e1ff56",
+    "16293765224638d033",
+    "1659616994d5d158fb",
+    "1659520990beba67ef",
+    "1632299144110958a0",
+    "1659520713ca3c8191",
+    "1644655687011db820"
+  ]
+}

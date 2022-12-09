@@ -1,0 +1,843 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm12-bnr1.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "<b>SPREAD THE COST UP TO 3 YEARS<\/b>",
+            "hd1_cl": "#ffb700",
+            "hd1_fs": 22,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "REVOLUTIONARY<br>PERFORMANCE",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 67,
+            "hd2_lh": 1,
+            "hd2_ls": 3,
+            "hd2_mb": 15,
+            "hd2_fs_m": 30,
+            "hd2_mb_m": 8,
+            "ss_hd3": "Power your tools. It is another excellent tool from Bosch",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 17,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 40,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP TOOLS",
+            "link": "shopify:\/\/collections\/equipment-tools",
+            "display_btn": false,
+            "slide_button_text_2": "",
+            "link2": "",
+            "btn-style": "btn2",
+            "btn-size": "btn-large",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-aie-md f-jcs-md",
+            "text_align_m": "f-aie f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        },
+        "84ef5222-320d-461c-93cb-13b632a0b6b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm12-bnr2.jpg",
+            "alignment": "bottom",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "<b>SPREAD THE COST UP TO 3 YEARS<\/b>",
+            "hd1_cl": "#ffb700",
+            "hd1_fs": 20,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "POWERFUL CHAINSAW",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 60,
+            "hd2_lh": 1.1,
+            "hd2_ls": 2,
+            "hd2_mb": 12,
+            "hd2_fs_m": 35,
+            "hd2_mb_m": 5,
+            "ss_hd3": "Runs faster. Costs less and never breaks.<br>\nWe like to make things look pretty.",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 17,
+            "hd3_lh": 1.2,
+            "hd3_ls": 2,
+            "hd3_mb": 20,
+            "hd3_fs_m": 13,
+            "hd3_mb_m": 5,
+            "slide_button_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/bestseller-tools",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn2",
+            "btn-size": "btn-large",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-aic-md f-jcs-md",
+            "text_align_m": "f-ais f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        }
+      },
+      "block_order": [
+        "162737939390f2c1c2-2",
+        "84ef5222-320d-461c-93cb-13b632a0b6b9"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 600,
+        "tb_height": 450,
+        "mb_height": 300,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": false,
+        "animation-style": "st1"
+      }
+    },
+    "16292647947ef392d6": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292647947ef392d6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dewalt.jpg",
+            "collection": "bestseller-tools",
+            "title": "<b>Dewalt 18V<\/b>",
+            "detail": "AHEAD OF THE TREND",
+            "detail_hide": false,
+            "collection_btn": "Buy now",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 24,
+            "detail_font": 15,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "f-aic f-jcs",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "16292647947ef392d6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/powerpack.jpg",
+            "collection": "equipment-tools",
+            "title": "<b>Powerpack<\/b>",
+            "detail": "POWER TO THE MAX",
+            "detail_hide": false,
+            "collection_btn": "Buy now",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 27,
+            "detail_font": 15,
+            "detail_font_l": 1,
+            "detail_font_m": 15,
+            "text-align": "tl",
+            "text_pos": "text_bl f-aie f-jcs",
+            "box_txt": "#1f476f",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 80,
+            "box-pad": "small"
+          }
+        },
+        "80b41926-11f4-43d4-b6d4-3d787d07794e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/toolkit.jpg",
+            "collection": "bestseller-tools",
+            "title": "<b>From $149<\/b>",
+            "detail": "Get kit with 30% less",
+            "detail_hide": false,
+            "collection_btn": "Buy now",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "shopify:\/\/collections\/all",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 26,
+            "detail_font": 15,
+            "detail_font_l": 1,
+            "detail_font_m": 14,
+            "text-align": "tl",
+            "text_pos": "text_tl f-ais f-jcs",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 80,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "16292647947ef392d6-0",
+        "16292647947ef392d6-1",
+        "80b41926-11f4-43d4-b6d4-3d787d07794e"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 3,
+        "btn-style": "btn3",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "16343890999539716e": {
+      "type": "collection-list_home",
+      "blocks": {
+        "16343890999539716e-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "equipment-tools",
+            "image": "shopify:\/\/shop_images\/pressure-washers.jpg",
+            "title": "Pressure Washers",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16343890999539716e-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bestseller-tools",
+            "image": "shopify:\/\/shop_images\/drilling.jpg",
+            "title": "Drilling Tools",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16343890999539716e-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "equipment-tools",
+            "image": "shopify:\/\/shop_images\/air-tool.jpg",
+            "title": "Air Tools",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "536ee0e3-0826-4f21-93fc-3c95d01b593f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bestseller-tools",
+            "image": "shopify:\/\/shop_images\/protection.jpg",
+            "title": "Safety Tools",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16343890999539716e-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "equipment-tools",
+            "image": "shopify:\/\/shop_images\/nailers.jpg",
+            "title": "Nailers",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "9c426068-b545-4437-b5ba-61785b26b0e4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bestseller-tools",
+            "image": "shopify:\/\/shop_images\/toobox.jpg",
+            "title": "Tool Kit box",
+            "collection_btn": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16343890999539716e-0",
+        "16343890999539716e-1",
+        "16343890999539716e-2",
+        "536ee0e3-0826-4f21-93fc-3c95d01b593f",
+        "16343890999539716e-3",
+        "9c426068-b545-4437-b5ba-61785b26b0e4"
+      ],
+      "settings": {
+        "title": "POPULAR CATAGORIES",
+        "subtitle": "Join over half a million tools lovers and get our latest deals,<br>articles, and resources sent straight to your inbox!",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": true,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "style": "cl_box3",
+        "product_count": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "grid": 6,
+        "tablet-grid": 4,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#000000",
+        "collection_ttl_bg_hm": "#ffffff",
+        "collection_ttl_bg_hm_responsive": "#ffffff",
+        "tlleft": false,
+        "collection_ttl_opt_hm": 0.7,
+        "enable_zoom": true
+      }
+    },
+    "1634402686194a7d6c": {
+      "type": "image-slideshow",
+      "blocks": {
+        "1634402686194a7d6c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sale-25-bnr.jpg",
+            "link": "shopify:\/\/collections\/equipment-tools"
+          }
+        }
+      },
+      "block_order": [
+        "1634402686194a7d6c-0"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "slideEf": "true",
+        "autoplay": false,
+        "speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111"
+      }
+    },
+    "16306709888511676a": {
+      "type": "product-slider",
+      "settings": {
+        "title": "LATEST PRODUCTS",
+        "subtitle": "",
+        "collection": "equipment-tools",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_6",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": false,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "7",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "163440386205182109": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 600,
+        "tb_height": 350,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/dm12-hero.jpg",
+        "alignment": "center",
+        "parallax_scroll": true,
+        "hero_hd1": "SELL MORE...",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 13,
+        "title": "THE MOST ADVANCED<br>SHOPIFY THEME IN THE MARKET",
+        "hd2_fs": 40,
+        "hd2_lh": 1,
+        "hd2_ls": 2,
+        "hd2_mb": 15,
+        "hd2_fs_m": 20,
+        "hd2_mb_m": 20,
+        "hero_hd3": "The design of your site plays a crucial role. <br>It can make or break your website leading to sales either <br>falling flat or converting profitably.",
+        "hero_hd3_hide": true,
+        "hd3_fs": 14,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 25,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 20,
+        "button_label": "Shop Collection",
+        "button_link": "shopify:\/\/collections\/equipment-tools",
+        "ol_link": false,
+        "btn-style": "btn2",
+        "btn-size": "btn-med",
+        "con_width": 85,
+        "text-align": false,
+        "text_align": "f-jcc-md f-aic-md",
+        "text_align_m": "f-jcc f-aic",
+        "hero_bg": false,
+        "bg_clr": "#ffffff",
+        "bg_opacity": 0.9,
+        "txt_clr": "#1e2832",
+        "hero_dealtimer": true,
+        "cnt_date": "02\/20\/2022",
+        "cnt_bg": "#ffb700",
+        "cnt_text": "#1e2832",
+        "cnt_bdr": "#ffb700",
+        "b_rad": 10
+      }
+    },
+    "1634401834b5ae13b3": {
+      "type": "product-slider",
+      "settings": {
+        "title": "BESTSELLER IN 2021",
+        "subtitle": "",
+        "collection": "bestseller-tools",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": false,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "7",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16292898146ca1f275": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292898146ca1f275-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/power-deal.jpg",
+            "collection": "bestseller-tools",
+            "title": "<b style=\"color:#ffb700\">POWER DEAL<\/b>",
+            "detail": "ON CUTTING TOOLS",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 40,
+            "ttl_font_l": 1,
+            "ttl_font_m": 30,
+            "detail_font": 20,
+            "detail_font_l": 1,
+            "detail_font_m": 16,
+            "text-align": "tc",
+            "text_pos": "f-jce f-aic",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 60,
+            "box-pad": "small"
+          }
+        },
+        "16292898146ca1f275-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/megasale.jpg",
+            "collection": "equipment-tools",
+            "title": "Electric saws from $599",
+            "detail": "<b style=\"color:#ffb700\">MEGASALE<\/b>",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 16,
+            "detail_font": 40,
+            "detail_font_l": 1,
+            "detail_font_m": 27,
+            "text-align": "tc",
+            "text_pos": "f-jce f-aic",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 55,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "16292898146ca1f275-0",
+        "16292898146ca1f275-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 15,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 2,
+        "btn-style": "btn3",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "162928888955bae1ec": {
+      "type": "quotes",
+      "disabled": true,
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/3.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/2_b3a5da03-8fd4-41b1-815a-249c9c6511dd.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/1_3910f733-a5ab-410b-89dd-57e17ea80754.jpg",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/dm1-top.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2",
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "section_width": true,
+        "quote_style": "quote3",
+        "testimonials_bg": "#eeeeee",
+        "testimonials_bg_img": "shopify:\/\/shop_images\/testimonial.jpg",
+        "title": "TESTIMONIALS",
+        "section_ttl": "#333333",
+        "testimonials_text": "#666666",
+        "box_bg": "#ffffff",
+        "rating_clr": "#d48c72",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#ccc8c8",
+        "q_dot_a": "#111111"
+      }
+    },
+    "162937524545212036": {
+      "type": "logo-bar",
+      "blocks": {
+        "162937524545212036-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/belle.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/avone_68d877f4-0e70-4552-bb59-7e362e7296f7.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2bb62bf9-5433-4906-960a-23ed29602a46.jpg",
+            "link": ""
+          }
+        },
+        "162937524545212036-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm2-logo.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162937524545212036-5",
+        "162937524545212036-4",
+        "162937524545212036-0",
+        "162937524545212036-1",
+        "162937524545212036-2",
+        "162937524545212036-3"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "",
+        "subtitle": "",
+        "grid": 6,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#eeeeee"
+      }
+    },
+    "16292932355a4fb114": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "FRESH FROM BLOGS",
+        "subtitle": "TOP NEWS STORIES OF THE DAY",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "blog": "news",
+        "img_ratio": "60",
+        "post_limit": 3,
+        "grid": 3,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "blog_align": "tc",
+        "blog_show_author": false,
+        "blog_show_date": true,
+        "show_comment": true,
+        "show_mini_des": false,
+        "show_read_more": true,
+        "show_link": true,
+        "show_view_all": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small"
+      }
+    },
+    "1633173901323bc6c2": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "title": "Newsletter",
+        "subtitle": "Sign up to stay in the loop. Receive updates, access to exclusive deals, and more.",
+        "top-offeset": "default",
+        "section_width": true,
+        "sec_bg_clr": "#fafafa",
+        "image": "shopify:\/\/shop_images\/sale_59ecd176-c7ef-4ade-b548-728853d49f5f.jpg",
+        "style": "style3",
+        "hd_fs": 18,
+        "hd_ls": 2,
+        "hd_fs_m": 15,
+        "txt_fs": 13,
+        "txt_fs_m": 12,
+        "text_clr": "#000000",
+        "input_bg": "#ffffff",
+        "input_text": "#000000",
+        "input_btn": "#000000",
+        "input_btn_text": "#ffffff"
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "<b>FREE SHIPPING & RETURN<\/b>",
+            "text": "Free shipping on all US orders",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-dollar-sign-l",
+            "title": "<b>MONEY GUARANTEE<\/b>",
+            "text": "30 days guarantee",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-credit-card-l",
+            "title": "<b>SECURE PAYMENT<\/b>",
+            "text": "Secured & trusted payment",
+            "texturl": "#"
+          }
+        },
+        "22a15882-8e00-4613-8986-466b370f9842": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "<b>Wide choice<\/b>",
+            "text": "1000+ items available",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2",
+        "22a15882-8e00-4613-8986-466b370f9842"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl2",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h4",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 4,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#ffb700",
+        "text_clr": "#000000",
+        "icons_clr": "#111111",
+        "icons_bg_clr": "#111111"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16292647947ef392d6",
+    "16343890999539716e",
+    "1634402686194a7d6c",
+    "16306709888511676a",
+    "163440386205182109",
+    "1634401834b5ae13b3",
+    "16292898146ca1f275",
+    "162928888955bae1ec",
+    "162937524545212036",
+    "16292932355a4fb114",
+    "1633173901323bc6c2",
+    "16293765224638d033"
+  ]
+}

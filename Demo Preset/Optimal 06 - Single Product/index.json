@@ -1,0 +1,837 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "491a2f32-a181-43a6-99f1-1988dec17dc7": {
+          "type": "video",
+          "settings": {
+            "video_url": "",
+            "mp4url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0273\/2336\/7484\/files\/Headphone.mp4?v=1631366781",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#000000",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "MEET YOUR NEW <br>HEADPHONE",
+            "hd2_cl": "#f5f5f5",
+            "hd2_fs": 68,
+            "hd2_lh": 1.3,
+            "hd2_ls": 9,
+            "hd2_mb": 7,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 5,
+            "ss_hd3": "<span class=\"fwsb\">WEAR IT IN TOTAL COMFORT<\/span>",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#f5f5f5",
+            "hd3_fs": 16,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 30,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP NOW",
+            "link": "#shopify-section-template--14191745499196__16313505817d0fb3fb",
+            "display_btn": true,
+            "slide_button_text_2": "LEARN MORE",
+            "link2": "#shopify-section-template--14191745499196__1631352256f2a2acab",
+            "btn-style": "btn2",
+            "btn-size": "btn-large",
+            "con_width": 1400,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aic-md",
+            "text_align_m": "f-jcc f-aic f-asc",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "491a2f32-a181-43a6-99f1-1988dec17dc7"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 800,
+        "tb_height": 550,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": false,
+        "animation-style": "st1"
+      }
+    },
+    "16313475907aa51b77": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 800,
+        "tb_height": 600,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/banner-2_798d7c6e-e0ee-4284-880c-2be65a372a07.jpg",
+        "alignment": "center",
+        "parallax_scroll": false,
+        "hero_hd1": "",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 12,
+        "title": "QUALITY HEADPHONE",
+        "hd2_fs": 59,
+        "hd2_lh": 1.2,
+        "hd2_ls": 8,
+        "hd2_mb": 10,
+        "hd2_fs_m": 25,
+        "hd2_mb_m": 5,
+        "hero_hd3": "CREATED FOR TRUE SOUND REPRESENTATION",
+        "hero_hd3_hide": true,
+        "hd3_fs": 17,
+        "hd3_lh": 1.5,
+        "hd3_ls": 8,
+        "hd3_mb": 5,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 10,
+        "button_label": "",
+        "button_link": "\/",
+        "ol_link": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "con_width": 85,
+        "text-align": false,
+        "text_align": "f-jcc-md f-ais-md",
+        "text_align_m": "f-jcc f-ais",
+        "hero_bg": true,
+        "bg_clr": "rgba(0,0,0,0)",
+        "bg_opacity": 0.9,
+        "txt_clr": "#000000",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000",
+        "b_rad": 0
+      }
+    },
+    "16313489156a9c1066": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 630,
+        "tb_height": 400,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/banner-3_141f2b71-5526-4295-b814-6e4e52cea41c.jpg",
+        "alignment": "center",
+        "parallax_scroll": false,
+        "hero_hd1": "",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 13,
+        "title": "AMAZING NOISE <br>CANCELLATION",
+        "hd2_fs": 60,
+        "hd2_lh": 1.2,
+        "hd2_ls": 9,
+        "hd2_mb": 20,
+        "hd2_fs_m": 18,
+        "hd2_mb_m": 20,
+        "hero_hd3": "",
+        "hero_hd3_hide": true,
+        "hd3_fs": 14,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 25,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 20,
+        "button_label": "",
+        "button_link": "",
+        "ol_link": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "con_width": 80,
+        "text-align": true,
+        "text_align": "f-aic-md f-jcs-md",
+        "text_align_m": "f-aic f-jcs",
+        "hero_bg": false,
+        "bg_clr": "rgba(0,0,0,0)",
+        "bg_opacity": 0.9,
+        "txt_clr": "#ffffff",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000",
+        "b_rad": 0
+      }
+    },
+    "163134905851853fa5": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 690,
+        "tb_height": 500,
+        "mb_height": 250,
+        "image": "shopify:\/\/shop_images\/banner-4_e7234a15-7e20-49b2-8f3b-68953713bea8.jpg",
+        "alignment": "center",
+        "parallax_scroll": false,
+        "hero_hd1": "",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 12,
+        "title": "REFINED SOUND",
+        "hd2_fs": 65,
+        "hd2_lh": 1.2,
+        "hd2_ls": 8,
+        "hd2_mb": 10,
+        "hd2_fs_m": 25,
+        "hd2_mb_m": 5,
+        "hero_hd3": "The sound range is above average and struggles during the highs in a<br> song but manages to finish off with good sounding lows.",
+        "hero_hd3_hide": true,
+        "hd3_fs": 17,
+        "hd3_lh": 1.5,
+        "hd3_ls": 3,
+        "hd3_mb": 30,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 10,
+        "button_label": "Read More",
+        "button_link": "\/",
+        "ol_link": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-large",
+        "con_width": 80,
+        "text-align": true,
+        "text_align": "f-jce-md f-aic-md",
+        "text_align_m": "f-jce f-aic",
+        "hero_bg": false,
+        "bg_clr": "rgba(0,0,0,0)",
+        "bg_opacity": 0.9,
+        "txt_clr": "#000000",
+        "hero_dealtimer": false,
+        "cnt_date": "12\/20\/2020",
+        "cnt_bg": "#000000",
+        "cnt_text": "#eeeeee",
+        "cnt_bdr": "#000000",
+        "b_rad": 0
+      }
+    },
+    "16313505817d0fb3fb": {
+      "type": "featured-product",
+      "settings": {
+        "top-offeset": "default",
+        "title": "",
+        "featured_product": "joses786",
+        "light_bg": false,
+        "txt-center": true,
+        "image-col": "md",
+        "enable_zoom": true,
+        "show_vendor": false,
+        "spr_availability": true,
+        "countdown": false,
+        "short_des": false,
+        "countdown_lbl": "Hurry up! Sales End In",
+        "show_share_buttons": true,
+        "show_variant_swatches": true,
+        "quantity_msg": true,
+        "max_quantity": 20,
+        "fake_orders": false,
+        "orders": 20,
+        "orders_time": 24,
+        "orders_msg": "[orders] sold in last [hours] hours"
+      }
+    },
+    "163137392032e37e56": {
+      "type": "store-features",
+      "blocks": {
+        "163137392032e37e56-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/battery-status.png",
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwsb\">UP TO 24 HOURS BETTERY<\/span>",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "163137392032e37e56-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/speakers-bass.png",
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwsb\">SUPER POWERFUL <br>BASS<\/span>",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "163137392032e37e56-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/driver.png",
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwsb\">40 MM DYNAMIC DRIVER<\/span>",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "1c991b29-9284-43d4-9244-c9b343b99c6a": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/headphones.png",
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwsb\">PRESSUR LESS EAR MUFFS<\/span>",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "4cce4cd6-1593-4738-b826-85ec814f0f44": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bluetooth1.png",
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwsb\">VOYEGAR <br>BLUETOOTH 5.0<\/span>",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "5e8e6150-a940-4b6d-b6db-adbf35464b55": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/voice-control.png",
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwsb\">EFFECTIVE <br>VOICE ASSISTANT<\/span>",
+            "text": "",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "163137392032e37e56-0",
+        "163137392032e37e56-1",
+        "163137392032e37e56-2",
+        "1c991b29-9284-43d4-9244-c9b343b99c6a",
+        "4cce4cd6-1593-4738-b826-85ec814f0f44",
+        "5e8e6150-a940-4b6d-b6db-adbf35464b55"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl1",
+        "icon-type": "image",
+        "iconsize": 40,
+        "ttlsize": "h6",
+        "tb_pad": 2,
+        "grid": 6,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#111111",
+        "icons_clr": "#a9a9a9",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "1631352256f2a2acab": {
+      "type": "up-to-4columns",
+      "blocks": {
+        "1631352256f2a2acab-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1_13e14c38-3f86-46b2-96c7-7c371297ed08.jpg",
+            "title": "<span class=\"fwsb\">SIGNATURE SOUND<\/span>",
+            "text": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1631352256f2a2acab-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2_c97cf4a2-5238-42ab-b69e-cde7a8ca83c1.jpg",
+            "title": "<span class=\"fwsb\">HELP FROM YOUR VOICE ASSISTANT<\/span>",
+            "text": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1631352256f2a2acab-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3_93f4cc62-163f-452b-857a-1bda04c6e357.jpg",
+            "title": "<span class=\"fwsb\">AMBIENT AWARE<\/span>",
+            "text": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1631352256f2a2acab-0",
+        "1631352256f2a2acab-1",
+        "1631352256f2a2acab-2"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "section_cov": true,
+        "sec_bg_clr": "#131313",
+        "align_text": "tc",
+        "hd_fs": 15,
+        "hd_ls": 9,
+        "hd_fs_m": 15,
+        "txt_fs": 12,
+        "txt_fs_m": 12,
+        "set_text_bg": true,
+        "text_bg": "#ffffff",
+        "text_c": "#212121",
+        "btn-style": "btn1",
+        "btn-size": "btn-med"
+      }
+    },
+    "1631367038e8dcc8d4": {
+      "type": "info-banner-features",
+      "blocks": {
+        "1631367038e8dcc8d4-0": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/volume.png",
+            "icons": "at-truck-l",
+            "title": "<b>HIGH QUALITY AUDIO<\/b>",
+            "text": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit"
+          }
+        },
+        "1631367038e8dcc8d4-1": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bluetooth.png",
+            "icons": "at-truck-l",
+            "title": "<b>BLUETOOTH 6<\/b>",
+            "text": "Sed do eiusmod tempor incididunt ut labore."
+          }
+        },
+        "1631367038e8dcc8d4-2": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/microphone.png",
+            "icons": "at-truck-l",
+            "title": "<b>MICROPHOE<\/b>",
+            "text": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit"
+          }
+        },
+        "4b1c5509-c0a8-4a3d-b192-2c68f6531f6f": {
+          "type": "feature",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/usb.png",
+            "icons": "at-truck-l",
+            "title": "<b>USB CHARGIN CABLE<\/b>",
+            "text": "Ipsum dolor sit amet conse ctetur adipisicing elit"
+          }
+        }
+      },
+      "block_order": [
+        "1631367038e8dcc8d4-0",
+        "1631367038e8dcc8d4-1",
+        "1631367038e8dcc8d4-2",
+        "4b1c5509-c0a8-4a3d-b192-2c68f6531f6f"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "image": "shopify:\/\/shop_images\/5.jpg",
+        "layout": "left",
+        "title": "CALL AND MUSIC CONTROL",
+        "text": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_align": "tl",
+        "style": "stl2",
+        "icon-type": "image",
+        "iconsize": 30,
+        "grid": 2,
+        "tablet-grid": 1,
+        "mobile-grid": 1,
+        "text_bg_clr": "#ffffff",
+        "text_clr": "#000000",
+        "icons_clr": "#a9a9a9",
+        "icons_bg_clr": "#111111",
+        "button_bg_clr": "#000000",
+        "button_text_clr": "#ffffff",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15
+      }
+    },
+    "16313544155450b012": {
+      "type": "custom-content-masonry",
+      "disabled": true,
+      "blocks": {
+        "1580907288712-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.jpg",
+            "imgurl": "",
+            "width": "50%"
+          }
+        },
+        "1580907312026": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">HIGH QUALITY AUDIO<\/span>",
+            "font-size": "h4",
+            "text": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-small",
+            "align_text": "left",
+            "width": "25%"
+          }
+        },
+        "1580907378093": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">BLUETOOTH 6<\/span>",
+            "font-size": "h4",
+            "text": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-small",
+            "align_text": "left",
+            "width": "25%"
+          }
+        },
+        "1580907488367": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">MICROPHOE<\/span>",
+            "font-size": "h4",
+            "text": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-small",
+            "align_text": "left",
+            "width": "25%"
+          }
+        },
+        "1580907525283": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">USB CHARGIN CABLE<\/span>",
+            "font-size": "h4",
+            "text": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.<\/p>",
+            "btntxt": "",
+            "btnurl": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-small",
+            "align_text": "left",
+            "width": "25%"
+          }
+        },
+        "1580907879107": {
+          "type": "text",
+          "settings": {
+            "dis_img": false,
+            "title": "<span class=\"fwsb\">CALL AND MUSIC CONTROL<\/span>",
+            "font-size": "h4",
+            "text": "<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.<\/p>",
+            "btntxt": "Read More",
+            "btnurl": "\/",
+            "btn-style": "btn1",
+            "btn-size": "btn-small",
+            "align_text": "left",
+            "width": "50%"
+          }
+        }
+      },
+      "block_order": [
+        "1580907288712-1",
+        "1580907312026",
+        "1580907378093",
+        "1580907488367",
+        "1580907525283",
+        "1580907879107"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1",
+        "grid-spacing-col": 4,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 15
+      }
+    },
+    "1631354995964c72cd": {
+      "type": "quotes",
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/3.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/2_b3a5da03-8fd4-41b1-815a-249c9c6511dd.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author_pic": "shopify:\/\/shop_images\/1_3910f733-a5ab-410b-89dd-57e17ea80754.jpg",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/dm1-top.jpg",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2",
+        "a7fb11da-a4d3-4c59-b59a-5cc280028e65"
+      ],
+      "settings": {
+        "top-offeset": "small",
+        "section_width": true,
+        "quote_style": "quote2",
+        "testimonials_bg": "rgba(0,0,0,0)",
+        "title": "CUSTOMER REVIEWS",
+        "section_ttl": "#111111",
+        "testimonials_text": "#f9f9f9",
+        "box_bg": "#111111",
+        "rating_clr": "#ffffff",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#ccc8c8",
+        "q_dot_a": "#111111"
+      }
+    },
+    "1631866045d95442d9": {
+      "type": "image-gallery",
+      "blocks": {
+        "1631866045d95442d9-0": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo1.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "1631866045d95442d9-1": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo2.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "9b892620-86a7-48df-a40c-8c0bbe57ef2b": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo3.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "50%"
+          }
+        },
+        "922aa13c-93cd-4ba3-8b2f-4d1c1b9828c2": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo4.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "50%"
+          }
+        },
+        "6566b580-7db1-4583-8e65-ae91becbd32f": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo5.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "986206e9-5b46-4fe4-a3a9-d6306c169fb9": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo6.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "15d10c7a-15ea-47dc-8531-0f0a3b269340": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo8.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "13a99204-02ab-4202-a309-400f3593fa82": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo9.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "1c773134-98ea-4577-a7aa-8ffe8e3d2a26": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo7.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        },
+        "fb07b7d4-0539-4b8c-ab17-c67148c13276": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm6-photo10.jpg",
+            "url": "",
+            "title": "",
+            "title2": "",
+            "width": "25%"
+          }
+        }
+      },
+      "block_order": [
+        "1631866045d95442d9-0",
+        "1631866045d95442d9-1",
+        "9b892620-86a7-48df-a40c-8c0bbe57ef2b",
+        "922aa13c-93cd-4ba3-8b2f-4d1c1b9828c2",
+        "6566b580-7db1-4583-8e65-ae91becbd32f",
+        "986206e9-5b46-4fe4-a3a9-d6306c169fb9",
+        "15d10c7a-15ea-47dc-8531-0f0a3b269340",
+        "13a99204-02ab-4202-a309-400f3593fa82",
+        "1c773134-98ea-4577-a7aa-8ffe8e3d2a26",
+        "fb07b7d4-0539-4b8c-ab17-c67148c13276"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "none",
+        "hide_mobile": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "fullwidth": false,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "grid-spacing": 9,
+        "grid-spacing-mbl": 5,
+        "grid-spacing-col": 4,
+        "cap_bg": "#ffffff",
+        "cap_text": "#111111",
+        "zoom_bg": "#ffffff",
+        "zoom_text": "#111111",
+        "round_crn": 0
+      }
+    },
+    "16323960707e7e879a": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "default"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16313475907aa51b77",
+    "16313489156a9c1066",
+    "163134905851853fa5",
+    "16313505817d0fb3fb",
+    "163137392032e37e56",
+    "1631352256f2a2acab",
+    "1631367038e8dcc8d4",
+    "16313544155450b012",
+    "1631354995964c72cd",
+    "1631866045d95442d9",
+    "16323960707e7e879a"
+  ]
+}

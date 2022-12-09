@@ -1,0 +1,437 @@
+{
+  "sections": {
+    "16311176171f711c97": {
+      "type": "info-banner-col2",
+      "blocks": {
+        "020aa9ac-dcdc-4df0-a363-19588e9741fe": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-bnr1.jpg",
+            "layout": "left",
+            "title": "New Collection<br>\nBaby Girl",
+            "text": "<p>Baby love colors and clothing <br\/>is nothing without colors. Grab items before it gets late.<br\/><\/p>",
+            "button_label": "Shop Collection",
+            "button_link": "shopify:\/\/collections\/kids-collection-2021",
+            "text_align": "tc",
+            "text_clr": "#f9f9f9",
+            "text_bg_clr": "#92c6ee",
+            "button_bg_clr": "#69a6d5",
+            "button_text_clr": "#ffffff"
+          }
+        },
+        "16311176171f711c97-0": {
+          "type": "image_with_text",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm10-bnr2.jpg",
+            "layout": "right",
+            "title": "Wow - Worthing<br>Clothes",
+            "text": "<p><strong>Seasonal Sale - Up to 70% OFF<br\/><\/strong>Looks matters a lot even for kids also<br\/><\/p>",
+            "button_label": "Shop The Sale",
+            "button_link": "shopify:\/\/collections\/kids-collection-2021",
+            "text_align": "tc",
+            "text_clr": "#f9f9f9",
+            "text_bg_clr": "#e89db4",
+            "button_bg_clr": "#d8839d",
+            "button_text_clr": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "020aa9ac-dcdc-4df0-a363-19588e9741fe",
+        "16311176171f711c97-0"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": true,
+        "section_cov": false,
+        "sec_bg_clr": "#faf3f0",
+        "btn-size": "btn-large",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_carousel": true,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "q_arrow": "#ffffff"
+      }
+    },
+    "16315115783585fed1": {
+      "type": "masonry-banner",
+      "blocks": {
+        "e5a1957d-463c-42b5-aa76-213b1f5cd0fc": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm5-girls.jpg",
+            "collection": "kids-collection-2021",
+            "title": "<span class=\"fwsb\">Girls Jacket<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "<span class=\"fwsb\">SHOP NOW<\/span>",
+            "collection_btn_link": true,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 24,
+            "ttl_font_l": 1,
+            "ttl_font_m": 26,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "16315115783585fed1-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm5-toys.jpg",
+            "collection": "kids-collection-2021",
+            "title": "<span class=\"fwsb\">Toys & Accessories<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "<span class=\"fwsb\">SHOP NOW<\/span>",
+            "collection_btn_link": true,
+            "hide_btn": false,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 24,
+            "ttl_font_l": 1,
+            "ttl_font_m": 26,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        },
+        "16315115783585fed1-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm5-boys.jpg",
+            "collection": "kids-collection-2021",
+            "title": "<span class=\"fwsb\">Boys Tshirt<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "<span class=\"fwsb\">SHOP NOW<\/span>",
+            "collection_btn_link": true,
+            "hide_btn": true,
+            "width": "33%",
+            "url": "",
+            "ttl_font": 24,
+            "ttl_font_l": 1,
+            "ttl_font_m": 26,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 16,
+            "box-width": 90,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "e5a1957d-463c-42b5-aa76-213b1f5cd0fc",
+        "16315115783585fed1-1",
+        "16315115783585fed1-0"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 90,
+        "pad-mbl": 15,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 3,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 10,
+        "btn-mrm": 10,
+        "enable_zoom": true,
+        "img_rad": 8
+      }
+    },
+    "1631445344ba77383d": {
+      "type": "products-rows",
+      "settings": {
+        "title": "Editors Pick",
+        "subtitle": "We’ve picked few pieces we’re pretty sure you’ll love. <br>\nCheck back often and enjoy.",
+        "collection": "kids-collection-2021",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_1",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": true,
+        "color_type": "vrimage",
+        "vr_bg_position": "50% 0",
+        "color_size": "medium",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "8"
+      }
+    },
+    "1631441140a93bc829": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 840,
+        "tb_height": 600,
+        "mb_height": 400,
+        "image": "shopify:\/\/shop_images\/dm5-hero.jpg",
+        "alignment": "top",
+        "parallax_scroll": true,
+        "hero_hd1": "<span class=\"small--hide\">  <br>  <br><\/span>",
+        "hd1_fs": 14,
+        "hd1_ls": 2,
+        "hd1_fs_m": 13,
+        "title": "Clearance Sale - Flat 50% Off<br><span class=\"h2\">Sale will end soon in <\/span>",
+        "hd2_fs": 50,
+        "hd2_lh": 1.1,
+        "hd2_ls": 2,
+        "hd2_mb": 20,
+        "hd2_fs_m": 30,
+        "hd2_mb_m": 20,
+        "hero_hd3": "Dressing up your kiddos in cute outfits is always fun!<br> \nHigh shine, long-lasting, vegan nail polishes in a\nrange of <br> fashion colours and finishes",
+        "hero_hd3_hide": true,
+        "hd3_fs": 18,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 25,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 20,
+        "button_label": "Shop Collection",
+        "button_link": "shopify:\/\/collections\/kids-collection-2021",
+        "ol_link": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "con_width": 85,
+        "text-align": false,
+        "text_align": "f-jcc-md f-ais-md",
+        "text_align_m": "f-jcc f-ais",
+        "hero_bg": false,
+        "bg_clr": "rgba(0,0,0,0)",
+        "bg_opacity": 0.9,
+        "txt_clr": "#ffffff",
+        "hero_dealtimer": true,
+        "cnt_date": "12\/20\/2021",
+        "cnt_bg": "#cde0c0",
+        "cnt_text": "#2a7467",
+        "cnt_bdr": "#cde0c0",
+        "b_rad": 50
+      }
+    },
+    "1631343859bf57ab78": {
+      "type": "section-space",
+      "settings": {
+        "top-offeset": "small"
+      }
+    },
+    "163152037221c224b6": {
+      "type": "collection-list_menu",
+      "blocks": {
+        "163152037221c224b6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids-collection-2021",
+            "image": "shopify:\/\/shop_images\/dm5-age1.jpg",
+            "title": "<span class=\"fwsb\">New Born<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "1cf76e78-2c5d-4403-8d36-ce31388f2c9f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids-collection-2021",
+            "image": "shopify:\/\/shop_images\/dm5-age2.jpg",
+            "title": "<span class=\"fwsb\">6 Month<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "163152037221c224b6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids-collection-2021",
+            "image": "shopify:\/\/shop_images\/dm5-age3.jpg",
+            "title": "<span class=\"fwb\">1- 2 Years <\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "163152037221c224b6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids-collection-2021",
+            "image": "shopify:\/\/shop_images\/dm5-age4.jpg",
+            "title": "<span class=\"fwb\">3-4 Years<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "163152037221c224b6-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/dm5-age5.jpg",
+            "title": "<span class=\"fwb\">5-7 Years<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "11a03c06-a8c7-47ba-8367-c7f444bc1bb5": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify:\/\/shop_images\/dm5-age6.jpg",
+            "title": "<span class=\"fwb\">8-10 Years<\/span>",
+            "collection_btn": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "163152037221c224b6-0",
+        "1cf76e78-2c5d-4403-8d36-ce31388f2c9f",
+        "163152037221c224b6-1",
+        "163152037221c224b6-2",
+        "163152037221c224b6-3",
+        "11a03c06-a8c7-47ba-8367-c7f444bc1bb5"
+      ],
+      "settings": {
+        "title": "Shop By Age<br>\n ",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": true,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 15,
+        "product_count": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#000000",
+        "enable_zoom": true
+      }
+    },
+    "163150711179e8d8a7": {
+      "type": "store-features",
+      "blocks": {
+        "163150711179e8d8a7-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-home-l",
+            "title": "At Optimal, family always comes first. It inspires everything that we do.",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "163150711179e8d8a7-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-phone-24",
+            "title": "We provide the top notch customer service, worldwide and in over  10 languages.",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "163150711179e8d8a7-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-like",
+            "title": "Shop the designers you know and love. Authenticity and quality are guaranteed.",
+            "text": "",
+            "texturl": ""
+          }
+        },
+        "aac91296-e8e1-4587-b529-6fccd77cf2a6": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-star-o",
+            "title": "Your feedback is important to us. We enjoy hearing from every one of you.",
+            "text": "",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "163150711179e8d8a7-0",
+        "163150711179e8d8a7-1",
+        "163150711179e8d8a7-2",
+        "aac91296-e8e1-4587-b529-6fccd77cf2a6"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl1",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h4",
+        "tb_pad": 4,
+        "grid": 4,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#92c6ee",
+        "text_clr": "#ffffff",
+        "icons_clr": "#ffffff",
+        "icons_bg_clr": "#111111"
+      }
+    }
+  },
+  "order": [
+    "16311176171f711c97",
+    "16315115783585fed1",
+    "1631445344ba77383d",
+    "1631441140a93bc829",
+    "1631343859bf57ab78",
+    "163152037221c224b6",
+    "163150711179e8d8a7"
+  ]
+}

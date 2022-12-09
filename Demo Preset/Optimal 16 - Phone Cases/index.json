@@ -1,0 +1,656 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "84ef5222-320d-461c-93cb-13b632a0b6b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d16-banner2.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "ESSENTIALS",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 13,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "BUY 2<br> GET 2 FREE",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 60,
+            "hd2_lh": 1,
+            "hd2_ls": 3,
+            "hd2_mb": 12,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 5,
+            "ss_hd3": "Buy 2 phone case and get another for free",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 18,
+            "hd3_lh": 1.2,
+            "hd3_ls": 2,
+            "hd3_mb": 30,
+            "hd3_fs_m": 13,
+            "hd3_mb_m": 5,
+            "slide_button_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/phone-cases",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-jce-md f-aic-md",
+            "text_align_m": "f-jce f-aic",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 1
+          }
+        },
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d16-banner1.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#111111",
+            "hd1_fs": 21,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "IPHONE 13 SERIES",
+            "hd2_cl": "#111111",
+            "hd2_fs": 54,
+            "hd2_lh": 1.1,
+            "hd2_ls": 3,
+            "hd2_mb": 15,
+            "hd2_fs_m": 26,
+            "hd2_mb_m": 8,
+            "ss_hd3": "Genuine Leather iPhone Cases For all new iPhone 13 Series",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#111111",
+            "hd3_fs": 17,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 30,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP NEW",
+            "link": "shopify:\/\/collections\/phone-cases",
+            "display_btn": false,
+            "slide_button_text_2": "SHOP MEN",
+            "link2": "",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": true,
+            "text_align": "f-aic-md f-jcs-md",
+            "text_align_m": "f-aic f-jcs",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "84ef5222-320d-461c-93cb-13b632a0b6b9",
+        "162737939390f2c1c2-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 600,
+        "tb_height": 450,
+        "mb_height": 360,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st1"
+      }
+    },
+    "16292647947ef392d6": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292647947ef392d6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/case-cb1.jpg",
+            "collection": "phone-cases",
+            "title": "<span class=\"fwsb\">FALL CASES<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "20%",
+            "url": "",
+            "ttl_font": 15,
+            "ttl_font_l": 1,
+            "ttl_font_m": 14,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#111111",
+            "box_bg": "#ffffff",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "16292647947ef392d6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/case-cb2.jpg",
+            "collection": "phone-cases",
+            "title": "<span class=\"fwsb\">AIRPOD CASES<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "20%",
+            "url": "",
+            "ttl_font": 15,
+            "ttl_font_l": 1,
+            "ttl_font_m": 14,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#111111",
+            "box_bg": "#ffffff",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "80b41926-11f4-43d4-b6d4-3d787d07794e": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/case-cb3.jpg",
+            "collection": "phone-cases",
+            "title": "<span class=\"fwsb\">ARTISAN CASES<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "20%",
+            "url": "",
+            "ttl_font": 15,
+            "ttl_font_l": 1,
+            "ttl_font_m": 14,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#111111",
+            "box_bg": "#ffffff",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "40e33ace-213e-4a7f-acdc-0180e40693bf": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/case-cb4.jpg",
+            "collection": "phone-cases",
+            "title": "<span class=\"fwsb\">CHARGING CASE<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "20%",
+            "url": "",
+            "ttl_font": 15,
+            "ttl_font_l": 1,
+            "ttl_font_m": 14,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#111111",
+            "box_bg": "#ffffff",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        },
+        "916cd979-de9a-4ba4-b811-1139835b6ff9": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/case-cb5.jpg",
+            "collection": "phone-cases",
+            "title": "<span class=\"fwsb\">SAMSUNG CASES<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "20%",
+            "url": "",
+            "ttl_font": 15,
+            "ttl_font_l": 1,
+            "ttl_font_m": 14,
+            "detail_font": 13,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tc",
+            "text_pos": "text_bc f-jcc-md f-aie-md",
+            "box_txt": "#111111",
+            "box_bg": "#ffffff",
+            "bdr_rad": 0,
+            "box-width": 65,
+            "box-pad": "small"
+          }
+        }
+      },
+      "block_order": [
+        "16292647947ef392d6-0",
+        "16292647947ef392d6-1",
+        "80b41926-11f4-43d4-b6d4-3d787d07794e",
+        "40e33ace-213e-4a7f-acdc-0180e40693bf",
+        "916cd979-de9a-4ba4-b811-1139835b6ff9"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "small",
+        "hide_mobile": true,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": true,
+        "pad-desk": 15,
+        "pad-mbl": 15,
+        "grid-spacing": 20,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 5,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "16306709888511676a": {
+      "type": "product-slider",
+      "disabled": true,
+      "settings": {
+        "title": "BEST SELLER",
+        "subtitle": "THIS MONTH'S HEADLINERS",
+        "collection": "phone-cases",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_4",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "5",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "16370407221f4b57d4": {
+      "type": "products-rows",
+      "settings": {
+        "title": "BEST SELLER",
+        "subtitle": "THIS MONTH'S HEADLINERS",
+        "collection": "phone-cases",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_4",
+        "secondary_image": true,
+        "show_vendor": true,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "",
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": false,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "small",
+        "color_style": "rounded",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "12"
+      }
+    },
+    "16292898146ca1f275": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16292898146ca1f275-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/case-cb6.jpg",
+            "collection": "fashion",
+            "title": "<b>BECOME <br>AN ARTIST<\/b>",
+            "detail": "Design your cell phone case <br>with your own pictures\n<br>",
+            "detail_hide": true,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "60%",
+            "url": "",
+            "ttl_font": 36,
+            "ttl_font_l": 1,
+            "ttl_font_m": 25,
+            "detail_font": 16,
+            "detail_font_l": 4,
+            "detail_font_m": 16,
+            "text-align": "tl",
+            "text_pos": "text_tl f-ais f-jcs",
+            "box_txt": "#000000",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 70,
+            "box-pad": "big"
+          }
+        },
+        "16292898146ca1f275-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/case-cb7.jpg",
+            "collection": "fashion",
+            "title": "SUMMER SALE OFFERS",
+            "detail": "<b>20% OFF<\/b>",
+            "detail_hide": false,
+            "collection_btn": "Shop Now",
+            "collection_btn_link": true,
+            "hide_btn": true,
+            "width": "40%",
+            "url": "",
+            "ttl_font": 18,
+            "ttl_font_l": 1,
+            "ttl_font_m": 18,
+            "detail_font": 60,
+            "detail_font_l": 1,
+            "detail_font_m": 27,
+            "text-align": "tc",
+            "text_pos": "text_tc f-jcc f-ais",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 8,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "16292898146ca1f275-0",
+        "16292898146ca1f275-1"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 4,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 5,
+        "btn-style": "btn1",
+        "btn-size": "btn-med",
+        "btn-mr": 20,
+        "btn-mrm": 15,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "162937524545212036": {
+      "type": "logo-bar",
+      "blocks": {
+        "162937524545212036-5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-1.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-2.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-5.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-3.png",
+            "link": ""
+          }
+        },
+        "162937524545212036-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-1.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "162937524545212036-5",
+        "162937524545212036-4",
+        "162937524545212036-1",
+        "162937524545212036-2",
+        "162937524545212036-3"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 30,
+        "pad-mbl": 15,
+        "title": "OUR TOP BRANDS",
+        "subtitle": "",
+        "grid": 5,
+        "tablet-grid": 5,
+        "mobile-grid": 3,
+        "logobg": "#ffffff",
+        "logobd": "#ffffff"
+      }
+    },
+    "162928888955bae1ec": {
+      "type": "quotes",
+      "blocks": {
+        "162928888955bae1ec-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><strong>TESTIMONIALS<\/strong><br\/><\/p><p>I love it! There is a lot of customization, and the guide is very complete. This is the first time I buy a shopify theme, and I love it! There is a lot of customization, and the guide is very complete.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><strong>TESTIMONIALS<br\/><br\/><\/strong>Incredible customer service! They have answered my questions promptly and professionally.  Wish this team all the best and I'll definitely be recommending their themes to other clients.<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "162928888955bae1ec-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p><strong>TESTIMONIALS<br\/><br\/><\/strong>This was my third Shopify theme purchase ever and I was hesitant after feeling like I threw away money the first two times. But I am SO glad that I took the chance and purchased this one!<br\/><\/p>",
+            "author": "<b>HAPPY CLIENT<\/b><br>\nELLE FASHION",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "162928888955bae1ec-0",
+        "162928888955bae1ec-1",
+        "162928888955bae1ec-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": false,
+        "quote_style": "quote1",
+        "testimonials_bg": "#f5f5f5",
+        "title": "",
+        "section_ttl": "#333333",
+        "testimonials_text": "#666666",
+        "box_bg": "rgba(0,0,0,0)",
+        "rating_clr": "#d48c72",
+        "q_fs": 14,
+        "q_lh": 7,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": false,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#ccc8c8",
+        "q_dot_a": "#111111"
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-truck-l",
+            "title": "<span class=\"fwm\">Free shipping \nfrom $50<\/span>",
+            "text": "<p>Free shipping on all US orders<\/p>",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-shield",
+            "title": "<span class=\"fwm\">12 Month Warranty<\/span>",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-lock-al",
+            "title": "<span class=\"fwm\">100% Secure \nCheckout<\/span>",
+            "text": "<p>All payment are Secured and trusted.<\/p>",
+            "texturl": "#"
+          }
+        },
+        "22a15882-8e00-4613-8986-466b370f9842": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-check-cil",
+            "title": "<span class=\"fwm\">Premium \nQuality<\/span>",
+            "text": "Add feature short description text here",
+            "texturl": ""
+          }
+        },
+        "17071eb9-3868-4836-bac4-898fac508c88": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-star-o",
+            "title": "<b>Exclusive Designs<\/b>",
+            "text": "Add feature short description text here",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2",
+        "22a15882-8e00-4613-8986-466b370f9842",
+        "17071eb9-3868-4836-bac4-898fac508c88"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl3",
+        "icon-type": "icon",
+        "iconsize": 20,
+        "ttlsize": "h5",
+        "tb_pad": 1,
+        "grid": 5,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#111111",
+        "text_clr": "#eeeeee",
+        "icons_clr": "#eeeeee",
+        "icons_bg_clr": "#111111"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16292647947ef392d6",
+    "16306709888511676a",
+    "16370407221f4b57d4",
+    "16292898146ca1f275",
+    "162937524545212036",
+    "162928888955bae1ec",
+    "16293765224638d033"
+  ]
+}

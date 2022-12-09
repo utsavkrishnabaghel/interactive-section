@@ -1,0 +1,428 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "7df497ef-3a31-44d8-a83f-35753d7c5a96": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bag-slide2.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "WE ARE BEYOND IMAGINATION",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "MAKING BRAND VISIBLE",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 40,
+            "hd2_lh": 1.2,
+            "hd2_ls": 2,
+            "hd2_mb": 5,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 15,
+            "ss_hd3": "I am Optimal, An Intelligent and beautiful shopify themes",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 18,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 14,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Shop Now",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "Shop now",
+            "link2": "",
+            "btn-style": "bdr-btn2",
+            "btn-size": "btn-med",
+            "con_width": 1500,
+            "text-left": true,
+            "text_align": "f-jce-md f-aie-md",
+            "text_align_m": "f-jce f-aie",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.9
+          }
+        },
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bag_1da2cf20-ca61-4ac2-adb0-591ab593082a.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "Summer Collection",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 21,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "New Paris Look",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 55,
+            "hd2_lh": 1.1,
+            "hd2_ls": 3,
+            "hd2_mb": 15,
+            "hd2_fs_m": 26,
+            "hd2_mb_m": 8,
+            "ss_hd3": "",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 17,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 40,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "Shop Now",
+            "link": "",
+            "display_btn": false,
+            "slide_button_text_2": "SHOP MEN",
+            "link2": "",
+            "btn-style": "bdr-btn2",
+            "btn-size": "btn-med",
+            "con_width": 1400,
+            "text-left": false,
+            "text_align": "f-jce-md f-aic-md",
+            "text_align_m": "f-jcc f-aie",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.3
+          }
+        }
+      },
+      "block_order": [
+        "7df497ef-3a31-44d8-a83f-35753d7c5a96",
+        "162737939390f2c1c2-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 760,
+        "tb_height": 450,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": false,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": true,
+        "animation-style": "st3"
+      }
+    },
+    "1637569805c68bd82a": {
+      "type": "products-rows",
+      "settings": {
+        "title": "FALL \/ WINTER 2021 COLLECTION",
+        "subtitle": "Explore the Fall \/ Winter 2021 collection and discover <br>the timeless bags in a vibrant summer color palette.\n<br><br>",
+        "collection": "bag-collection-2022",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 10,
+        "prbox_style": "grid_5",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": true,
+        "show_view_all": "SHOP ALL STYLE",
+        "btn-style": "bdr-btn1",
+        "btn-size": "btn-med",
+        "show_color_swatch": true,
+        "color_type": "vrimage",
+        "vr_bg_position": "50% 0",
+        "color_size": "medium",
+        "color_style": "rounded_rectangle",
+        "grid": 4,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "12"
+      }
+    },
+    "163757770567800644": {
+      "type": "masonry-banner",
+      "blocks": {
+        "16375777053b695622-0": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bag1.jpg",
+            "collection": "",
+            "title": "<span class=\"fwr\">SHOP BEST SELLER<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "50%",
+            "url": "",
+            "ttl_font": 30,
+            "ttl_font_l": 1,
+            "ttl_font_m": 22,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "text_bl f-aie f-jcs",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        },
+        "16375777053b695622-1": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bag4.jpg",
+            "collection": "",
+            "title": "<span class=\"fwr\">SHOP LARGE BAGS<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 25,
+            "ttl_font_l": 1,
+            "ttl_font_m": 22,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "text_bl f-aie f-jcs",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        },
+        "8efebda4-6cdb-4d33-9290-3c5fe9af7a1a": {
+          "type": "featured_collection",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bag3.jpg",
+            "collection": "",
+            "title": "<span class=\"fwR\">SHOP SMALL BAGS<\/span>",
+            "detail": "",
+            "detail_hide": false,
+            "collection_btn": "",
+            "collection_btn_link": false,
+            "hide_btn": true,
+            "width": "25%",
+            "url": "",
+            "ttl_font": 25,
+            "ttl_font_l": 1,
+            "ttl_font_m": 22,
+            "detail_font": 14,
+            "detail_font_l": 1,
+            "detail_font_m": 13,
+            "text-align": "tl",
+            "text_pos": "text_bl f-aie f-jcs",
+            "box_txt": "#ffffff",
+            "box_bg": "rgba(0,0,0,0)",
+            "bdr_rad": 0,
+            "box-width": 90,
+            "box-pad": "big"
+          }
+        }
+      },
+      "block_order": [
+        "16375777053b695622-0",
+        "16375777053b695622-1",
+        "8efebda4-6cdb-4d33-9290-3c5fe9af7a1a"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 10,
+        "grid-spacing": 0,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 4,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "btn-mr": 20,
+        "btn-mrm": 18,
+        "enable_zoom": true,
+        "img_rad": 0
+      }
+    },
+    "16293765224638d033": {
+      "type": "store-features",
+      "blocks": {
+        "16293765224638d033-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-worldwide",
+            "title": "Worldwide Super Quick shipping",
+            "text": "We organize 100% insured, worldwide shipping—so you can trust your bags are in good hands",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-star-o",
+            "title": "World Class Design",
+            "text": "Contemporary & exciting handbags which you would love to wear and gifts to your loved one",
+            "texturl": "#"
+          }
+        },
+        "16293765224638d033-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "a at-chat",
+            "title": "24\/7 Support",
+            "text": "From the moment you start looking to when your new goodies arrive at your door, we’re here to help",
+            "texturl": "#"
+          }
+        }
+      },
+      "block_order": [
+        "16293765224638d033-0",
+        "16293765224638d033-1",
+        "16293765224638d033-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl4",
+        "icon-type": "icon",
+        "iconsize": 36,
+        "ttlsize": "h2",
+        "tb_pad": 3,
+        "grid": 3,
+        "tablet-grid": 3,
+        "mobile-grid": 1,
+        "section_cov": true,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#251a1a",
+        "icons_clr": "#fae3e1",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "163740028598d99e64": {
+      "type": "custom-content-masonry",
+      "blocks": {
+        "163740028530ba73ba-1": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/bag-cl1_8d4c0468-9a81-4bfb-986b-03df24551992.jpg",
+            "title": "<span class=\"fwr\">DAILY GLAMOUR<\/span>",
+            "font-size": "h2",
+            "text": "<p>Stylish gift ideas from Emporia Armani<br\/><\/p>",
+            "btntxt": "Shop Now",
+            "btnurl": "\/",
+            "btn-style": "bdr-btn1",
+            "btn-size": "btn-med",
+            "align_text": "tc",
+            "width": "50%"
+          }
+        },
+        "0750b7a1-a02a-4627-a41e-cec384e18341": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/bag-cl2_f68c2cc8-5005-454d-ab11-b474ff47ac66.jpg",
+            "title": "<span class=\"fwr\">FOR FASHION FRIENDS<\/span>",
+            "font-size": "h1",
+            "text": "<p>Beautiful bag novelties<\/p>",
+            "btntxt": "Shop Collection",
+            "btnurl": "\/",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "align_text": "tc",
+            "width": "50%"
+          }
+        },
+        "ee129622-71d9-4964-8648-15072c3c52cb": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/bag-cl3.jpg",
+            "title": "<span class=\"fwr\">LITTLE LUXURIES<\/span>",
+            "font-size": "h1",
+            "text": "<p>Treat yourself this season<\/p>",
+            "btntxt": "Shop Now",
+            "btnurl": "\/",
+            "btn-style": "bdr-btn1",
+            "btn-size": "btn-med",
+            "align_text": "tc",
+            "width": "50%"
+          }
+        },
+        "1d6bd510-6ab7-4875-8c15-fa3019646129": {
+          "type": "text",
+          "settings": {
+            "dis_img": true,
+            "image": "shopify:\/\/shop_images\/bag-cl4_290b52a5-9928-4171-a07a-3a18339251de.jpg",
+            "title": "<span class=\"fwr\">GIFT THEY WILL LOVE<\/span>",
+            "font-size": "h1",
+            "text": "<p>Small presents and big surprises<\/p>",
+            "btntxt": "Shop Now",
+            "btnurl": "\/",
+            "btn-style": "btn1",
+            "btn-size": "btn-med",
+            "align_text": "tc",
+            "width": "50%"
+          }
+        }
+      },
+      "block_order": [
+        "163740028530ba73ba-1",
+        "0750b7a1-a02a-4627-a41e-cec384e18341",
+        "ee129622-71d9-4964-8648-15072c3c52cb",
+        "1d6bd510-6ab7-4875-8c15-fa3019646129"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_1",
+        "grid-spacing-col": 2,
+        "grid-spacing": 55,
+        "grid-spacing-mbl": 15
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "1637569805c68bd82a",
+    "163757770567800644",
+    "16293765224638d033",
+    "163740028598d99e64"
+  ]
+}

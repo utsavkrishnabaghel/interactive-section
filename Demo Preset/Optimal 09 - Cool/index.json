@@ -1,0 +1,526 @@
+{
+  "sections": {
+    "162737939390f2c1c2": {
+      "type": "slideshow",
+      "blocks": {
+        "162737939390f2c1c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dm7-bnr1_e6df0e60-db75-434b-94bf-f6b69d618ee3.jpg",
+            "alignment": "top",
+            "ss_ol": "#3d4246",
+            "ss_ol_op": 0,
+            "ss_hd1": "",
+            "hd1_cl": "#ffffff",
+            "hd1_fs": 14,
+            "hd1_ls": 2,
+            "hd1_mb": 5,
+            "hd1_fs_m": 12,
+            "hd1_mb_m": 5,
+            "title": "FINAL REDUCTION <br>UP TO 70% OFF",
+            "hd2_cl": "#ffffff",
+            "hd2_fs": 82,
+            "hd2_lh": 1,
+            "hd2_ls": 2,
+            "hd2_mb": 25,
+            "hd2_fs_m": 25,
+            "hd2_mb_m": 5,
+            "ss_hd3": "",
+            "ss_hd3_hide": true,
+            "hd3_cl": "#ffffff",
+            "hd3_fs": 16,
+            "hd3_lh": 1.6,
+            "hd3_ls": 2,
+            "hd3_mb": 25,
+            "hd3_fs_m": 16,
+            "hd3_mb_m": 15,
+            "slide_button_text": "SHOP WOMEN",
+            "link": "#",
+            "display_btn": true,
+            "slide_button_text_2": "SHOP MEN",
+            "link2": "",
+            "btn-style": "btn2",
+            "btn-size": "btn-large",
+            "con_width": 1400,
+            "text-left": false,
+            "text_align": "f-jcc-md f-aie-md",
+            "text_align_m": "f-jcc f-aie",
+            "cap_ol": false,
+            "cap_ol_mb": false,
+            "cap_ol_cl": "#ffffff",
+            "cap_ol_op": 0.7
+          }
+        }
+      },
+      "block_order": [
+        "162737939390f2c1c2-2"
+      ],
+      "settings": {
+        "top-offeset": "none",
+        "section_width": false,
+        "box-width": 1500,
+        "ds_height": 760,
+        "tb_height": 550,
+        "mb_height": 350,
+        "slideEf": "true",
+        "autoplay": true,
+        "speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "ss_arrow": "#eeeeee",
+        "dots": false,
+        "dots_m": true,
+        "ss_dot": "#eeeeee",
+        "ss_dot_ac": "#111111",
+        "txtanimation": false,
+        "animation-style": "st1"
+      }
+    },
+    "16312767474dee40ce": {
+      "type": "collection-list_home",
+      "blocks": {
+        "16312767474dee41ce-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "image": "shopify:\/\/shop_images\/dm1-dresses.jpg",
+            "title": "<b span class=\"fwsb\">DRESSES<\/b>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16312767474dee40ce-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "image": "shopify:\/\/shop_images\/dm1-top.jpg",
+            "title": "<b span class=\"fwsb\">TOPS<\/b>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16312767474dee40ce-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "image": "shopify:\/\/shop_images\/dm1-shooes.jpg",
+            "title": "<b span class=\"fwsb\">SHOES<\/b>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16312767474dee40ce-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes",
+            "image": "shopify:\/\/shop_images\/dm1-jeans_fdf2268f-6eb2-45cf-8a1c-829f8a51cab2.jpg",
+            "title": "<b span class=\"fwsb\">JEANS<\/b>",
+            "collection_btn": "",
+            "url": ""
+          }
+        },
+        "16312767474dee40ce-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women",
+            "image": "shopify:\/\/shop_images\/dm1-jumpsuit.jpg",
+            "title": "<b span class=\"fwsb\">JUMPSUITS<\/b>",
+            "collection_btn": "",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16312767474dee41ce-0",
+        "16312767474dee40ce-0",
+        "16312767474dee40ce-1",
+        "16312767474dee40ce-2",
+        "16312767474dee40ce-3"
+      ],
+      "settings": {
+        "title": "",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "enable_carousel": true,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "style": "cl_box3",
+        "product_count": false,
+        "btn-style": "btn1",
+        "btn-size": "btn-small",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "collection_ttl_hm": "#000000",
+        "collection_ttl_bg_hm": "#f5f5f5",
+        "collection_ttl_bg_hm_responsive": "#f5f5f5",
+        "tlleft": false,
+        "collection_ttl_opt_hm": 0.7,
+        "enable_zoom": true
+      }
+    },
+    "16319447607f37ce84": {
+      "type": "products-columns",
+      "blocks": {
+        "16319447607f37ce84-0": {
+          "type": "collection_column",
+          "settings": {
+            "title": "BEST RATED ITEM",
+            "collection": "women",
+            "width": "50%",
+            "grid": 3,
+            "tablet-grid": 2,
+            "mobile-grid": 1,
+            "rows": "9"
+          }
+        },
+        "16319447607f37ce84-1": {
+          "type": "collection_column",
+          "settings": {
+            "title": "New Arrival in 2021",
+            "collection": "collection-2020",
+            "width": "50%",
+            "grid": 3,
+            "tablet-grid": 2,
+            "mobile-grid": 1,
+            "rows": "9"
+          }
+        }
+      },
+      "block_order": [
+        "16319447607f37ce84-0",
+        "16319447607f37ce84-1"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "ttl-align": "tc",
+        "prbdr": "#eeeeee"
+      }
+    },
+    "1631945213d9b359e6": {
+      "type": "hero",
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_width": true,
+        "pad-desk": 0,
+        "pad-mbl": 0,
+        "ds_height": 740,
+        "tb_height": 450,
+        "mb_height": 300,
+        "image": "shopify:\/\/shop_images\/dm9-hero.jpg",
+        "alignment": "center",
+        "parallax_scroll": false,
+        "hero_hd1": "<span class=\"fwsb\">ONE DAY DEAL!<\/span>",
+        "hd1_fs": 20,
+        "hd1_ls": 9,
+        "hd1_fs_m": 16,
+        "title": "WOMEN TRENDY <br>COLLECTIONS",
+        "hd2_fs": 31,
+        "hd2_lh": 1.2,
+        "hd2_ls": 0,
+        "hd2_mb": 20,
+        "hd2_fs_m": 18,
+        "hd2_mb_m": 20,
+        "hero_hd3": "Choose perfect style clothes for your today <br>and get up to 70% off on order above $299",
+        "hero_hd3_hide": true,
+        "hd3_fs": 14,
+        "hd3_lh": 1.5,
+        "hd3_ls": 2,
+        "hd3_mb": 25,
+        "hd3_fs_m": 14,
+        "hd3_mb_m": 20,
+        "button_label": "Shop Collection",
+        "button_link": "\/",
+        "ol_link": false,
+        "btn-style": "bdr-btn1",
+        "btn-size": "btn-med",
+        "con_width": 85,
+        "text-align": false,
+        "text_align": "f-jcc-md f-aic-md",
+        "text_align_m": "f-jcc f-aic",
+        "hero_bg": true,
+        "bg_clr": "#ffffff",
+        "bg_opacity": 0.9,
+        "txt_clr": "#444444",
+        "hero_dealtimer": true,
+        "cnt_date": "12\/20\/2021",
+        "cnt_bg": "#444444",
+        "cnt_text": "#ffffff",
+        "cnt_bdr": "#444444",
+        "b_rad": 3
+      }
+    },
+    "1631334355946ad179": {
+      "type": "product-slider",
+      "settings": {
+        "title": "BEST RATED ITEM",
+        "subtitle": "",
+        "collection": "women",
+        "top-offeset": "default",
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "prbox_style": "grid_6",
+        "secondary_image": true,
+        "show_vendor": false,
+        "show_product_review": true,
+        "prlist_btn_show": false,
+        "btn_mobiles": false,
+        "show_color_swatch": true,
+        "color_type": "color",
+        "vr_bg_position": "50% 0",
+        "color_size": "medium",
+        "color_style": "rounded_rectangle",
+        "grid": 5,
+        "tablet-grid": 3,
+        "mobile-grid": 2,
+        "rows": "7",
+        "autoplay": false,
+        "autoplay_speed": 5
+      }
+    },
+    "1631280787a0215e3a": {
+      "type": "lookbook-home",
+      "blocks": {
+        "6bb18def-c3d6-4da7-a5f9-ad71d4bc6269": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_2dcf38a0-c3bb-47e2-a6a8-ae89ee309bdd.jpg",
+            "width": "33%",
+            "product1": "black-handbag",
+            "p1_top": 55,
+            "p1_left": 26,
+            "dis-pstn1": "left",
+            "product2": "black-long-sleev-top",
+            "p2_top": 25,
+            "p2_left": 45,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "f34c4ff0-0fab-4c08-a523-5647198df47d": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_eee13a9b-5986-4554-af69-8b77720a3284.jpg",
+            "width": "33%",
+            "product1": "leather-bucket-hat",
+            "p1_top": 8,
+            "p1_left": 29,
+            "dis-pstn1": "left",
+            "product2": "puffer-jacket",
+            "p2_top": 56,
+            "p2_left": 13,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        },
+        "99133faa-31ec-4667-808e-9b324bf3efee": {
+          "type": "lookbook1",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_f5c91284-48d9-4edb-afc0-fea7610a058f.jpg",
+            "width": "33%",
+            "product1": "black-long-sleev-top",
+            "p1_top": 5,
+            "p1_left": 27,
+            "dis-pstn1": "left",
+            "product2": "high-waisted-pant",
+            "p2_top": 27,
+            "p2_left": 32,
+            "dis-pstn2": "left",
+            "product3": "",
+            "p3_top": 1,
+            "p3_left": 1,
+            "dis-pstn3": "left",
+            "product4": "",
+            "p4_top": 1,
+            "p4_left": 1,
+            "dis-pstn4": "left"
+          }
+        }
+      },
+      "block_order": [
+        "6bb18def-c3d6-4da7-a5f9-ad71d4bc6269",
+        "f34c4ff0-0fab-4c08-a523-5647198df47d",
+        "99133faa-31ec-4667-808e-9b324bf3efee"
+      ],
+      "settings": {
+        "title": "LOOKBOOK SHOP",
+        "subtitle": "",
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "section_width": false,
+        "pad-desk": 55,
+        "pad-mbl": 15,
+        "grid-spacing": 30,
+        "grid-spacing-mbl": 10,
+        "grid-spacing-col": 3
+      }
+    },
+    "1631279009a789c0c2": {
+      "type": "store-features",
+      "blocks": {
+        "1631279009a789c0c2-0": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-chat",
+            "title": "<span class=\"fwsb\">SUPPORT 24\/7<\/span>",
+            "text": "We support online 24\/7 on day",
+            "texturl": ""
+          }
+        },
+        "1631279009a789c0c2-1": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-undo-l",
+            "title": "<span class=\"fwsb\">30 DAYS RETURN<\/span>",
+            "text": "Return it within 24 days of purchase",
+            "texturl": ""
+          }
+        },
+        "1631279009a789c0c2-2": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-free-delivery",
+            "title": "<span class=\"fwsb\">FREE SHIPPING<\/span>",
+            "text": "Free shipping on all US orders",
+            "texturl": ""
+          }
+        },
+        "9f89b9b9-b0f6-4402-9a47-8b4385311b85": {
+          "type": "text_block",
+          "settings": {
+            "icons": "at-money",
+            "title": "<span class=\"fwsb\">MONEY GUARANTEE<\/span>",
+            "text": "<p>30 days money back guarantee<\/p>",
+            "texturl": ""
+          }
+        }
+      },
+      "block_order": [
+        "1631279009a789c0c2-0",
+        "1631279009a789c0c2-1",
+        "1631279009a789c0c2-2",
+        "9f89b9b9-b0f6-4402-9a47-8b4385311b85"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "hide_mobile": false,
+        "title": "",
+        "subtitle": "",
+        "style": "stl2",
+        "icon-type": "icon",
+        "iconsize": 40,
+        "ttlsize": "h4",
+        "tb_pad": 1,
+        "grid": 4,
+        "tablet-grid": 2,
+        "mobile-grid": 1,
+        "section_cov": false,
+        "sec_bg_clr": "#fafafa",
+        "text_clr": "#111111",
+        "icons_clr": "#292828",
+        "icons_bg_clr": "#111111"
+      }
+    },
+    "163127964670a62c45": {
+      "type": "quotes",
+      "blocks": {
+        "163127964670a62c45-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Excellent theme and great customer support! I use this same theme for all of my Shopify stores. Highly recommended, and fully featured.<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/3.jpg",
+            "author": "<span class=\"fwsb\">HAPPY BUYER<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "163127964670a62c45-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Excellent customizability and awesome customer service. I have been provided with thorough support and they are always quick to respond <\/p>",
+            "author_pic": "shopify:\/\/shop_images\/2_b3a5da03-8fd4-41b1-815a-249c9c6511dd.jpg",
+            "author": "<span class=\"fwsb\">HAPPY BUYER<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        },
+        "163127964670a62c45-2": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>Amazing! features are great, way more than expected, great customer support. Just a few more customizations can be made.<\/p>",
+            "author_pic": "shopify:\/\/shop_images\/1_3910f733-a5ab-410b-89dd-57e17ea80754.jpg",
+            "author": "<span class=\"fwsb\">HAPPY BUYER<\/span>",
+            "display_rat": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "163127964670a62c45-0",
+        "163127964670a62c45-1",
+        "163127964670a62c45-2"
+      ],
+      "settings": {
+        "top-offeset": "default",
+        "section_width": true,
+        "quote_style": "quote1",
+        "testimonials_bg": "rgba(0,0,0,0)",
+        "testimonials_bg_img": "shopify:\/\/shop_images\/dm7-testimonial.jpg",
+        "title": "WHAT THEY’RE SAYING",
+        "section_ttl": "#111111",
+        "testimonials_text": "#444444",
+        "box_bg": "rgba(0,0,0,0)",
+        "rating_clr": "#f29d19",
+        "q_fs": 16,
+        "q_lh": 6,
+        "star_size": 14,
+        "box_shadow": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrow": true,
+        "arrow_m": true,
+        "q_arrow": "#eeeeee",
+        "dots": true,
+        "q_dot": "#b5b1b1",
+        "q_dot_a": "#111111"
+      }
+    }
+  },
+  "order": [
+    "162737939390f2c1c2",
+    "16312767474dee40ce",
+    "16319447607f37ce84",
+    "1631945213d9b359e6",
+    "1631334355946ad179",
+    "1631280787a0215e3a",
+
+    "1631279009a789c0c2",
+    "163127964670a62c45"
+  ]
+}

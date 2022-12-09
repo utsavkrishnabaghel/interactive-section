@@ -1,0 +1,404 @@
+{
+  "current": {
+    "layout_style": "fullwidth",
+    "top-information-bar": false,
+    "wishlist_page": "wishlist",
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "favicon_retina": "shopify:\/\/shop_images\/favicon-152.png",
+    "free_ship": "free-shipping",
+    "stt_style": "3",
+    "stt_btntxt": "#f9f9f9",
+    "stt_btnbg": "#489aaf",
+    "font1": "poppins_n4",
+    "font2": "poppins_n4",
+    "font3": "poppins_n4",
+    "type_base_size": 13,
+    "btn_style": "round_crn",
+    "solid_btn_1": "#6db5c8",
+    "solid_btn_1_hov": "#489aaf",
+    "solid_btn_2": "#ffffff",
+    "solid_btn_2_text_hov": "#fff",
+    "solid_btn_2_hov": "#6db5c8",
+    "link_btn_txt": "#489aaf",
+    "navigation_txt_case": "uppercase",
+    "navbar_link": "#000000",
+    "navbar_link_hv": "#1b1919",
+    "nav_dd_link_hv": "#489aaf",
+    "sidebar_links_hv": "#489aaf",
+    "footer_top_bdr": "rgba(0,0,0,0)",
+    "footer_top_bg": "#377384",
+    "footer_title": "#ffffff",
+    "top_footer_text": "#ffffff",
+    "icon_colors": "#ffffff",
+    "footer_bottom_bg": "#377384",
+    "footer_bottom_text": "#ffffff",
+    "mob_br": "#458091",
+    "newsletter_btn": "#03242d",
+    "text_link_hv": "#489aaf",
+    "topbar": false,
+    "topbar_fullwidth": true,
+    "leftTxt": "[social-icons]",
+    "centerTxt": "FREE SHIPPING on order above $99",
+    "rightTxt": "<a href=\"tel:4400111044%20833\"><i class=\"at at-phone-l\"><\/i> +440 0(111) 044 833<\/a><p><a href=\"mailto:sales@yourstorename.com\"><i class=\"at at-envelope-l\"><\/i> sales@yourstore.com<\/a><\/p>",
+    "main_header_fullwidth": true,
+    "logo": "shopify:\/\/shop_images\/logo-black.png",
+    "align_logo": "center",
+    "logo_width": "150",
+    "header_height": "70",
+    "logo_width_mbl": "100",
+    "header_ico": "#000000",
+    "icon_col_size": 250,
+    "store-search": "text",
+    "account-login": "text",
+    "accountxt": "MY ACCOUNT",
+    "store-cart": "text",
+    "carttext": "CART",
+    "cart_count_clr": "#000000",
+    "show_multiple_currencies": true,
+    "show_language": true,
+    "home_classic": true,
+    "logo_cl": "shopify:\/\/shop_images\/logo-white.png",
+    "primg_ratio": "120",
+    "primg_size": "cover",
+    "color_type": "vrimage",
+    "vr_bg_position": "50% 50%",
+    "color_size": "medium",
+    "color_style": "rounded_rectangle",
+    "is_subttl": false,
+    "show_vendor": true,
+    "grid_ttl_hclr": "#489aaf",
+    "grid_price_size": 13,
+    "prbox_bdr": "rgba(0,0,0,0)",
+    "grid_btn_style": "round_crn",
+    "prbox_btnbg": "#000000",
+    "prbox_btn_ico": "#ffffff",
+    "product_latyout": "style5",
+    "image-col": "lg",
+    "txt-center": false,
+    "thumbnail_pos": "bottom",
+    "show_short_desc_single": true,
+    "spr_sku": true,
+    "spr_vendor": true,
+    "show_product_type_single": true,
+    "show_tags": false,
+    "pickup_show": false,
+    "store_ft1": "<span style=\"color:#0EA411\"><i class=\"at at-check-r\"><\/i><\/span> \n Free Shipping & Return",
+    "store_ft2": "<span style=\"color:#0EA411\"><i class=\"at at-check-r\"><\/i><\/span> \n Money back guarantee",
+    "store_ft3": "<span style=\"color:#0EA411\"><i class=\"at at-check-r\"><\/i><\/span>  \n Fast & Reliable support",
+    "txt_bg": "#f5f5f5",
+    "checkout_btn_bg": "#222222",
+    "checkout_btn_bdr": "#222222",
+    "tab_align": "center",
+    "pr_tabs_txt": "#444",
+    "pr_tabs_txt_act": "#000000",
+    "pr_tabs_bg": "#f5f5f5",
+    "pr_tabs_bg_act": "#fff",
+    "dis_border": true,
+    "pr_tabs_bdr": "#f5f5f5",
+    "pr_tabs_bdr_act": "#eeeeee",
+    "tab_bdr_rad": 6,
+    "sticky_cart": false,
+    "currency_title": "CURRENCY",
+    "language_title": "LANGUAGE",
+    "newsletter_popup": false,
+    "watsapp": "#",
+    "social_twitter_link": "#",
+    "social_facebook_link": "#",
+    "social_pinterest_link": "",
+    "social_instagram_link": "#",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "social_linkedin": "#",
+    "social_tiktok": "",
+    "ctcolor": "Blue:#6382c3,\nGreen:#81b562,\nRed:#ef0909,\nBurgundy:#6e2d3e,\nMaroon:#610f23,\nCream:#fffdd0,\nPeach:#f5d2c2,\nIvory:#dcccb2,\nSage:#9daf89,\nCaramel:#a75938,\nKhaki:#c5a26c",
+    "product_qunt_text_clr": "#0ea411",
+    "addtocart_btn_bg": "#489aaf",
+    "addtocart_btn_bdr": "#489aaf",
+    "sections": {
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "e9f3b386-8c5f-469f-a113-43699db617fd": {
+            "type": "custom",
+            "settings": {
+              "txt_center": false,
+              "title": "",
+              "logo": "shopify:\/\/shop_images\/logo-white.png",
+              "logo-wd": 160,
+              "custom-text": "Modern and flexible theme designed to help express your brand With fast-loading pages, and maximum customizability. Optimal with OS 2.0 help you to create unique shopping experiences to delight your buyers.",
+              "show_socials": true,
+              "socials_ttl": "",
+              "show_payicon": false,
+              "width": "25%"
+            }
+          },
+          "3b9fda13-18b2-418e-9f98-0fd02094af31": {
+            "type": "emptycol",
+            "settings": {
+              "width": "5%"
+            }
+          },
+          "f34716a4-8e22-44f1-a1fb-3e7cd2a6f65a": {
+            "type": "menu",
+            "settings": {
+              "title": "QUICK SHOP",
+              "menulinks": "quick-shop",
+              "width": "20%"
+            }
+          },
+          "8a25eaf0-1676-4684-97e9-bcd0d8fba5d8": {
+            "type": "menu",
+            "settings": {
+              "title": "INFORMATION",
+              "menulinks": "information",
+              "width": "20%"
+            }
+          },
+          "1561010492149": {
+            "type": "newsletter",
+            "settings": {
+              "newltr_align": false,
+              "title": "NEWSLETTER",
+              "sub_title": "Enter your email to receive daily news and get 20% off coupon for all items.",
+              "icon": false,
+              "show_socials": false,
+              "socials_ttl": "Stay Connected",
+              "width": "30%"
+            }
+          }
+        },
+        "block_order": [
+          "e9f3b386-8c5f-469f-a113-43699db617fd",
+          "3b9fda13-18b2-418e-9f98-0fd02094af31",
+          "f34716a4-8e22-44f1-a1fb-3e7cd2a6f65a",
+          "8a25eaf0-1676-4684-97e9-bcd0d8fba5d8",
+          "1561010492149"
+        ],
+        "settings": {
+          "section_width": false,
+          "copyright_text": "© 2021 OPTIMAL. ALL RIGHTS RESERVED.",
+          "show_designby": false,
+          "show_payment": false,
+          "payimg-wd": 170
+        }
+      },
+      "promotion-bar": {
+        "type": "promotion-bar",
+        "blocks": {
+          "d4d05ae8-1d78-4c35-ad44-ce78082a6694": {
+            "type": "text_block",
+            "settings": {
+              "promo_txt": "SALE end in [countdown] UP TO <span class=\"hl\">80% OFF<\/span> ON THE ENTIRE STORE! <span class=\"hl\">hurry up!<\/span> [button]",
+              "ann_date": "02\/20\/2022",
+              "promo_btn_tx": "Shop Now",
+              "promo_btn_mob": true,
+              "promo_link": "shopify:\/\/products\/black-long-sleev-top",
+              "promo_txt_cl": "#ffffff",
+              "promo_hl": "#fff06b",
+              "cnt_text": "#85d6fc",
+              "promo_btn_clr": "#78c6dc",
+              "promo_btn_tx_clr": "#ffffff",
+              "promo_bgcl": "#56a1b6"
+            }
+          },
+          "08734965-550a-45a3-968d-192afc535bdc": {
+            "type": "text_block",
+            "settings": {
+              "promo_txt": "<span class=\"hl\">FREE SHIPPING<\/span> ON U.S. ORDERS OVER <span class=\"hl\">$100!<\/span> GET YOUR FREE ORDER NOW!",
+              "ann_date": "",
+              "promo_btn_tx": "",
+              "promo_btn_mob": true,
+              "promo_link": "",
+              "promo_txt_cl": "#ffffff",
+              "promo_hl": "#fff06b",
+              "cnt_text": "#eeeeee",
+              "promo_btn_clr": "#333333",
+              "promo_btn_tx_clr": "#ffffff",
+              "promo_bgcl": "#56a1b6"
+            }
+          }
+        },
+        "block_order": [
+          "d4d05ae8-1d78-4c35-ad44-ce78082a6694",
+          "08734965-550a-45a3-968d-192afc535bdc"
+        ],
+        "settings": {
+          "topbar": true,
+          "hide_mobile": false,
+          "promo_ht": 42,
+          "hideClose": false,
+          "slideEf": "true",
+          "speed": 1,
+          "fontFm": "ft2",
+          "promo_fs": 13
+        }
+      },
+      "navigation": {
+        "type": "navigation",
+        "blocks": {
+          "1545200462991": {
+            "type": "megamenu1",
+            "settings": {
+              "title": "Home",
+              "url": "#",
+              "newtab": false,
+              "mm_linklist": "home-menu",
+              "mmcolumns": 3,
+              "imgcall": "right",
+              "columnWidth": 60,
+              "mmimgcolumns": 2,
+              "ttlalign": "tc",
+              "imageTtl1": "KIDS STORE",
+              "imageurl": "",
+              "imageTtl2": "SINGLE LAYOUT",
+              "Image2url": "https:\/\/avone-demo.myshopify.com\/?_ab=0&_fd=0&_sc=1&preview_theme_id=83490242620",
+              "imageTtl3": "",
+              "Image3url": "https:\/\/avon-demo.myshopify.com\/?_ab=0&_fd=0&_sc=1&preview_theme_id=73322332227",
+              "imageTtl4": "",
+              "Image4url": "",
+              "custom_size": true,
+              "mm_size": "600",
+              "mm_align": "left"
+            }
+          },
+          "1560070247268": {
+            "type": "megamenu1",
+            "settings": {
+              "title": "Shop",
+              "url": "shopify:\/\/collections\/all",
+              "newtab": false,
+              "mm_linklist": "shop-menu",
+              "mmcolumns": 3,
+              "imgcall": "right",
+              "columnWidth": 45,
+              "mmimgcolumns": 2,
+              "ttlalign": "tc",
+              "megamenu1_image": "shopify:\/\/shop_images\/dm3-mm-shop2.jpg",
+              "imageTtl1": "",
+              "imageurl": "",
+              "megamenu2_image": "shopify:\/\/shop_images\/dm3-mm-shop1.jpg",
+              "imageTtl2": "",
+              "Image2url": "",
+              "imageTtl3": "",
+              "Image3url": "",
+              "imageTtl4": "",
+              "Image4url": "",
+              "custom_size": true,
+              "mm_size": "1000",
+              "mm_align": "left"
+            }
+          },
+          "1560145007901": {
+            "type": "megamenu1",
+            "settings": {
+              "title": "Product",
+              "url": "#",
+              "newtab": false,
+              "mm_linklist": "product-page",
+              "mmcolumns": 4,
+              "imgcall": "right",
+              "columnWidth": 50,
+              "mmimgcolumns": 2,
+              "ttlalign": "tc",
+              "imageTtl1": "",
+              "imageurl": "",
+              "imageTtl2": "",
+              "Image2url": "",
+              "imageTtl3": "",
+              "Image3url": "",
+              "imageTtl4": "",
+              "Image4url": "",
+              "custom_size": false,
+              "mm_size": "600",
+              "mm_align": "left"
+            }
+          },
+          "1553256701490": {
+            "type": "dropdown",
+            "settings": {
+              "title": "Pages",
+              "url": "",
+              "mm_linklist": "pages"
+            }
+          },
+          "27facb6c-67c9-430d-ab68-9a28a4e859a9": {
+            "type": "megamenu4",
+            "settings": {
+              "title": "Blog",
+              "url": "shopify:\/\/blogs\/news",
+              "mm_linklist": "blog-menu",
+              "mmcolumns": 1,
+              "mm4_bg": "shopify:\/\/shop_images\/mm-blog.jpg",
+              "mm4_img_position": "right",
+              "mm4_space": "50%",
+              "custom_size": true,
+              "mm_size": "400",
+              "mm_align": "left"
+            }
+          }
+        },
+        "block_order": [
+          "1545200462991",
+          "1560070247268",
+          "1560145007901",
+          "1553256701490",
+          "27facb6c-67c9-430d-ab68-9a28a4e859a9"
+        ],
+        "settings": {
+          "menuarrow": false,
+          "menuAlign": "left",
+          "spnav": true,
+          "mbmenu": "main-menu",
+          "help": "",
+          "nm_label1": "New",
+          "nm_label2": "Sale",
+          "nm_label3": "Hot",
+          "nm_label4": "Popular",
+          "nm_label5": "Trending"
+        }
+      },
+      "top-info-panel": {
+        "type": "top-info-panel",
+        "settings": {
+          "fullwidth": false,
+          "hide_mobile": true,
+          "info_bg": "#111",
+          "text_clr": "#fff",
+          "text_sep_clr": "#fff",
+          "grid": 3,
+          "info_font": 12
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+      "color_text": "#3d4246",
+      "color_body_text": "#788188",
+      "color_sale_text": "#7796A8",
+      "color_borders": "#e8e9eb",
+      "color_button": "#7796A8",
+      "color_button_text": "#fff",
+      "color_small_button": "#fff",
+      "color_small_button_text": "#3d4246",
+      "color_text_field": "#fff",
+      "color_text_field_text": "#000",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3d4246",
+      "image_overlay_opacity": "0.25",
+      "color_body_bg": "#fff",
+      "type_header_family": "Google_Work+Sans_600_sans",
+      "type_header_base_size": "26px",
+      "type_base_family": "Google_Work+Sans_400_sans",
+      "type_base_size": "16px",
+      "type_bold_product_titles": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true
+    }
+  }
+}
